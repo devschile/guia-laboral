@@ -11,15 +11,32 @@ toc::[]
 
 ## Herramientas
 
+Se recomiendan las siguientes herramientas para simplificar el proceso de elaboración de un curriculum.
+
 ### AsciiDoc
 
 Para elaborar estos documentos se recomienda https://asciidoctor.org[AsciiDoc]. Un formato similar a https://guides.github.com/features/mastering-markdown/[Markdown] pero con mayor cantidad de funciones, por ejemplo la generación de una tabla de contenidos automática.
 
 ### Resume.io
 
-https://resume.io/ es un sitio web para elaborar curriculums vistozos y coloridos. Es recomendado como un complemento para estos documentos.
+https://resume.io/[Resume.io] es un sitio web para elaborar curriculums vistozos y coloridos. Es recomendado como un complemento para estos documentos.
 
 ### GitHub
 
-Facilita la edición y control de versiones de los documentos. Es recomendable que hagas fork de este documento y configures un repositorio privado para su posterior edición.
+Facilita la edición y control de versiones de los documentos. Es recomendable que hagas `fork` de este repositorio y lo configures como privado para su posterior edición.
 
+## Estructura
+
+Para elaborar un curriculum se recomiendan diversos archivos separados por su contexto y función. Los siguientes son las recomendaciones básicas, pero puedes adaptarlo a tus necesidades.
+
+### cv.adoc
+
+Este archivo es el principal, contiene toda la información de tu experiencia profesional, todo trabajo, evento, certificación, entre otros en que hayas participado debe estar aquí. Debe contener una tabla de contenidos y ser actualizado periódicamente (normalmente a fin de cada mes) incluyendo lo más detallado posible las actividades que has realizado. Este es el documento maestro que debe ser usado para generar los otros documentos. Esto debe ser por que la memoria es frágil y es conveniente tener una referencia detallada de todo lo realizado para poder explicar mejor los logros alcanzados en el momento de una entrevista.
+
+### resume.adoc
+
+Este archivo es un pequeño resumen del `cv.adoc`. Debe ser adaptado según el trabajo al que se postula. Incluir solamente las actividades relevantes. Se debe actualizar cuando sea necesario. Se recomienda crear un archivo dependiendo del área que se quiera destacar. Por ejemplo un resumen orientado a trabajos para desarrollador iOS puede ser `resume-ios.adoc`. Copiar y pegar la información `cv.adoc` que se necesite y resumirla. Debe contener mínimo una y máximo tres páginas. El Número ideal es de dos páginas.
+
+### cover.adoc
+
+Este archivo es una referencia personal. Incluye un perfil de lo que buscas como profesional y como podrías aportar a la empresa a la que postulas. Ayuda a las personas que te entrevistarán a determinar si eres un candidato que encaje en su cultura empresarial.
