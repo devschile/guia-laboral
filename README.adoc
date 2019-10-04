@@ -1,4 +1,8 @@
-# Guía para el buen curriculum vitae
+:toc: macro
+:toc-title: Guía para el buen curriculum vitae
+:toclevels: 99
 
 En este pequeño documento se detallarán tips para que tengas un buen curriculum. Además de algunas formas
 para detectar y filtrar trabajos que quizás no sean los más convenientes para tu desarrollo profesional/personal.
+
+toc::[]
