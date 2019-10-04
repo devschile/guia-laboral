@@ -1,0 +1,7 @@
+:toc: macro
+:toc-title: Curriculum Vitae
+:toclevels: 99
+
+# Nombre Completo
+
+toc::[]
