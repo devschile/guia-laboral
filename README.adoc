@@ -47,10 +47,10 @@ Muchas personas prefieren utilizar sistemas como https://www.linkedin.com/[Linke
 
 El flujo seguría una serie de pasos similares a lo siguiente: 
 
-1 - El primero es actualizar el archivo `cv.adoc` constantemente. 
-2 - Al momento de querer cambiar de empresa o proyecto es cuando se debe crear o actualizar el archivo `resume.adoc` y `cover.adoc`. 
-3 - Finalmente se pueden utilizar el comando `$ asciidoctor-pdf cv.adoc` para generar un archivo `pdf` entregable.
-4 - Si se desea se puede actualizar _LinkedIn_ o _Resume.io_ para obtener un formato distinto al posible con _AsciiDoc_.
+. El primero es actualizar el archivo `cv.adoc` constantemente. 
+. Al momento de querer cambiar de empresa o proyecto es cuando se debe crear o actualizar el archivo `resume.adoc` y `cover.adoc`. 
+. Finalmente se pueden utilizar el comando `$ asciidoctor-pdf cv.adoc` para generar un archivo `pdf` entregable.
+. Si se desea se puede actualizar _LinkedIn_ o _Resume.io_ para obtener un formato distinto al posible con _AsciiDoc_.
 
 La utilización de _LinkedIn_ o _Resume.io_ es totalmente opcional, aunque recomendable, para poder tener la información disponible en diferentes formatos o redes sociales.
 
