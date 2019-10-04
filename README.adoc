@@ -73,3 +73,13 @@ La utilización de _LinkedIn_ o _Resume.io_ es totalmente opcional, aunque recom
 
 Asegurate siempre de que algún amigo revise la redacción, gramática y ortografía de tu curriculum antes de enviarlo. Este es un documento que debe ser lo más profesional, pulcro y bien redactado posible.
 
+## Idioma Inglés y Texto Plano
+
+¿Por qué privilegiar texto plano e inglés?. Principalmente por que algunas empresas (principalmente del primer mundo) utilizan herramientas automatizadas para filtrar las postulaciones de los candidatos. Se espera enviar una versión en `pdf` y una versión en texto plano. Utilizando `asciidoc` podemos cumplir ambos formatos fácilmente. El inglés es el idioma que reina el mundo de las tecnologías por lo que tu curriculum debe estar en inglés.
+
+## Ejemplos
+
+Aca una pequeña lista de personas en _Linkedin_ que te pueden servir como referencia para tener un buen formato de curriculum.
+
+* https://www.linkedin.com/in/tarahwheele[Tarah Wheeler Van Vlack]
+
