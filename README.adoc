@@ -9,6 +9,11 @@ para detectar y filtrar trabajos que quizás no sean los más convenientes para 
 
 toc::[]
 
+## ¿Es necesario hacer un Curriculum?
+
+Muchas empresas ven al curriculum como una mera formalidad. En el mundo laboral uno es contratado (o rechazado) basado en el historial de lo que se ha realizado. No basado en lo bonito y ordenado que se ve un documento. Para acceder al mundo laboral
+y obtener buenas ofertas uno debe asistir a reuniones, conferencias, tener una prescencia en línea y tener redes de contacto. Es más probable que seas contratado en una empresa donde un amigo te haya recomendado a que si postularas mediante un sitio web de ofertas laborales. En muchas ocaciones simplemente basta un enlace a tu _GitHub_ personal para demostrar tus capacidades. Sin embargo,  al tener un documento con un formato correcto y con los datos apropiados aumentas tus probabilidades de destacar frente a otros postulantes.
+
 ## Herramientas
 
 Se recomiendan las siguientes herramientas para simplificar el proceso de elaboración de un curriculum.
