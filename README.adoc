@@ -75,7 +75,7 @@ Asegurate siempre de que algún amigo revise la redacción, gramática y ortogra
 
 ## Idioma Inglés y Texto Plano
 
-¿Por qué privilegiar texto plano e inglés?. Principalmente por que algunas empresas (principalmente del primer mundo) utilizan herramientas automatizadas para filtrar las postulaciones de los candidatos. Se espera enviar una versión en `pdf` y una versión en texto plano. Utilizando `asciidoc` podemos cumplir ambos formatos fácilmente. El inglés es el idioma que reina el mundo de las tecnologías por lo que tu curriculum debe estar en inglés.
+¿Por qué privilegiar texto plano e inglés?. Principalmente por que algunas empresas (normalmente del primer mundo) utilizan herramientas automatizadas para filtrar las postulaciones de los candidatos. Se espera enviar una versión en `pdf` y una versión en texto plano. Utilizando `asciidoc` podemos cumplir ambos formatos fácilmente. El inglés es el idioma que reina el mundo de las tecnologías por lo que tu curriculum debe estar en inglés.
 
 ## Ejemplos
 
