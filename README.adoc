@@ -1,8 +1,16 @@
 :toc: macro
-:toc-title: Guía para el buen curriculum vitae
+:toc-title: Tabla de Contenidos
 :toclevels: 99
+
+# Guía para el buen curriculum vitae
 
 En este pequeño documento se detallarán tips para que tengas un buen curriculum. Además de algunas formas
 para detectar y filtrar trabajos que quizás no sean los más convenientes para tu desarrollo profesional/personal.
 
 toc::[]
+
+## Herramientas
+
+### AsciiDoc
+
+Para elaborar estos documentos se recomienda https://asciidoctor.org[AsciiDoc]. Un formato similar a https://guides.github.com/features/mastering-markdown/[Markdown] pero con mayor cantidad de funciones, por ejemplo la generación de una tabla de contenidos automática.
