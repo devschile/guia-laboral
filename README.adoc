@@ -33,6 +33,21 @@ Para elaborar un curriculum se recomiendan diversos archivos separados por su co
 
 Este archivo es el principal, contiene toda la información de tu experiencia profesional, todo trabajo, evento, certificación, entre otros en que hayas participado debe estar aquí. Debe contener una tabla de contenidos y ser actualizado periódicamente (normalmente a fin de cada mes) incluyendo lo más detallado posible las actividades que haz realizado. Este es el documento maestro que debe ser usado para generar los otros documentos. Esto debe ser por que la memoria es frágil y es conveniente tener una referencia detallada de todo lo realizado para poder explicar mejor los logros alcanzados en el momento de una entrevista.
 
+Para elaborar una tabla de contenidos automática puedes usar
+
+```adoc
+:toc: macro
+:toc-title: Curriculum Vitae
+:toclevels: 99
+
+# Título del Documento
+
+## Sección
+
+toc::[]
+
+```
+
 ### resume.adoc
 
 Este archivo es un pequeño resumen del `cv.adoc`. Debe ser adaptado según el trabajo al que se postula. Incluir solamente las actividades relevantes. Se debe actualizar cuando sea necesario. Se recomienda crear un archivo dependiendo del área que se quiera destacar. Por ejemplo un resumen orientado a trabajos para desarrollador iOS puede ser `resume-ios.adoc`. Copiar y pegar la información `cv.adoc` que se necesite y resumirla. Debe contener mínimo una y máximo tres páginas. El Número ideal es de dos páginas.
