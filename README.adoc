@@ -23,7 +23,7 @@ https://resume.io/[Resume.io] es un sitio web para elaborar curriculums vistozos
 
 ### GitHub
 
-Facilita la edición y control de versiones de los documentos. Es recomendable que hagas `fork` de este repositorio y lo configures como privado para su posterior edición.
+Facilita la edición y control de versiones de los documentos. Es recomendable que hagas `fork` de este repositorio y lo configures como privado para su posterior edición. Aunque igualmente puedes utilizar otro proveedor o tener un repositorio local. Lo importante es tener los documentos bajo control de versiones.
 
 ## Estructura
 
@@ -31,7 +31,7 @@ Para elaborar un curriculum se recomiendan diversos archivos separados por su co
 
 ### cv.adoc
 
-Este archivo es el principal, contiene toda la información de tu experiencia profesional, todo trabajo, evento, certificación, entre otros en que hayas participado debe estar aquí. Debe contener una tabla de contenidos y ser actualizado periódicamente (normalmente a fin de cada mes) incluyendo lo más detallado posible las actividades que has realizado. Este es el documento maestro que debe ser usado para generar los otros documentos. Esto debe ser por que la memoria es frágil y es conveniente tener una referencia detallada de todo lo realizado para poder explicar mejor los logros alcanzados en el momento de una entrevista.
+Este archivo es el principal, contiene toda la información de tu experiencia profesional, todo trabajo, evento, certificación, entre otros en que hayas participado debe estar aquí. Debe contener una tabla de contenidos y ser actualizado periódicamente (normalmente a fin de cada mes) incluyendo lo más detallado posible las actividades que haz realizado. Este es el documento maestro que debe ser usado para generar los otros documentos. Esto debe ser por que la memoria es frágil y es conveniente tener una referencia detallada de todo lo realizado para poder explicar mejor los logros alcanzados en el momento de una entrevista.
 
 ### resume.adoc
 
@@ -39,4 +39,20 @@ Este archivo es un pequeño resumen del `cv.adoc`. Debe ser adaptado según el t
 
 ### cover.adoc
 
-Este archivo es una referencia personal. Incluye un perfil de lo que buscas como profesional y como podrías aportar a la empresa a la que postulas. Ayuda a las personas que te entrevistarán a determinar si eres un candidato que encaje en su cultura empresarial. Se recomienda tener un `cover.adoc` general y luego crear archivos separados para la empresa que se quiera postular (Ejemplo: `cover-empresa1.adoc`). Se debería investigar los proyectos en los que la empresa tiene y cómo las habilidades que tienes podrían ser usadas para proyectos similares futuros.
+Este archivo es una referencia personal. Incluye un perfil de lo que buscas como profesional y como podrías aportar a la empresa a la que postulas. Ayuda a las personas que te entrevistarán a determinar si eres un candidato que encaje en su cultura empresarial. Se recomienda tener un `cover.adoc` general y luego crear archivos separados para la empresa que se quiera postular (Ejemplo: `cover-empresa1.adoc`). Se debería investigar los proyectos en que la empresa ha participado y cómo las habilidades que tienes podrían ser usadas para proyectos similares futuros.
+
+## Flujo de Trabajo
+
+Muchas personas prefieren utilizar sistemas como https://www.linkedin.com/[Linkedin] o un simple documento `pdf` para elaborar su curriculum. Puede que sean útiles para personas no técnicas, pero si tu tienes las habilidades necesarias para utilizar _Github_, entonces puedes beneficiarte de las herramientas nombradas anteriormente.
+
+El flujo seguría una serie de pasos similares a lo siguiente: 
+
+1 - El primero es actualizar el archivo `cv.adoc` constantemente. 
+2 - Al momento de querer cambiar de empresa o proyecto es cuando se debe crear o actualizar el archivo `resume.adoc` y `cover.adoc`. 
+3 - Finalmente se pueden utilizar el comando `$ asciidoctor-pdf cv.adoc` para generar un archivo `pdf` entregable.
+4 - Si se desea se puede actualizar _LinkedIn_ o _Resume.io_ para obtener un formato distinto al posible con _AsciiDoc_.
+
+La utilización de _LinkedIn_ o _Resume.io_ es totalmente opcional, aunque recomendable, para poder tener la información disponible en diferentes formatos o redes sociales.
+
+Asegurate siempre de que algún amigo revise la redacción, gramática y ortografía de tu curriculum antes de enviarlo. Este es un documento que debe ser lo más profesional, pulcro y bien redactado posible.
+
