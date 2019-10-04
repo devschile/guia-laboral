@@ -39,4 +39,4 @@ Este archivo es un pequeño resumen del `cv.adoc`. Debe ser adaptado según el t
 
 ### cover.adoc
 
-Este archivo es una referencia personal. Incluye un perfil de lo que buscas como profesional y como podrías aportar a la empresa a la que postulas. Ayuda a las personas que te entrevistarán a determinar si eres un candidato que encaje en su cultura empresarial.
+Este archivo es una referencia personal. Incluye un perfil de lo que buscas como profesional y como podrías aportar a la empresa a la que postulas. Ayuda a las personas que te entrevistarán a determinar si eres un candidato que encaje en su cultura empresarial. Se recomienda tener un `cover.adoc` general y luego crear archivos separados para la empresa que se quiera postular (Ejemplo: `cover-empresa1.adoc`). Se debería investigar los proyectos en los que la empresa tiene y cómo las habilidades que tienes podrían ser usadas para proyectos similares futuros.
