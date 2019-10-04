@@ -42,9 +42,11 @@ Para elaborar una tabla de contenidos automática puedes usar
 
 # Título del Documento
 
-## Sección
-
 toc::[]
+
+## Sección 1
+### Sección 1-a
+#### Sección 1-a-b
 
 ```
 
