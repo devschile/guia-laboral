@@ -33,11 +33,11 @@ Para elaborar un curriculum se recomiendan diversos archivos separados por su co
 
 Este archivo es el principal, contiene toda la información de tu experiencia profesional, todo trabajo, evento, certificación, entre otros en que hayas participado debe estar aquí. Debe contener una tabla de contenidos y ser actualizado periódicamente (normalmente a fin de cada mes) incluyendo lo más detallado posible las actividades que haz realizado. Este es el documento maestro que debe ser usado para generar los otros documentos. Esto debe ser por que la memoria es frágil y es conveniente tener una referencia detallada de todo lo realizado para poder explicar mejor los logros alcanzados en el momento de una entrevista.
 
-Para elaborar una tabla de contenidos automática puedes usar
+Para elaborar una tabla de contenidos automática puedes usar:
 
 ```adoc
 :toc: macro
-:toc-title: Curriculum Vitae
+:toc-title: Tabla de Contenidos
 :toclevels: 99
 
 # Título del Documento
@@ -62,7 +62,7 @@ Este archivo es una referencia personal. Incluye un perfil de lo que buscas como
 
 Muchas personas prefieren utilizar sistemas como https://www.linkedin.com/[Linkedin] o un simple documento `pdf` para elaborar su curriculum. Puede que sean útiles para personas no técnicas, pero si tu tienes las habilidades necesarias para utilizar _Github_, entonces puedes beneficiarte de las herramientas nombradas anteriormente.
 
-El flujo seguría una serie de pasos similares a lo siguiente: 
+El flujo seguiría una serie de pasos similares a lo siguiente: 
 
 . El primero es actualizar el archivo `cv.adoc` constantemente. 
 . Al momento de querer cambiar de empresa o proyecto es cuando se debe crear o actualizar el archivo `resume.adoc` y `cover.adoc`. 
