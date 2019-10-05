@@ -22,9 +22,9 @@ Se recomiendan las siguientes herramientas para simplificar el proceso de elabor
 
 Para elaborar estos documentos se recomienda https://asciidoctor.org[AsciiDoc]. Un formato similar a https://guides.github.com/features/mastering-markdown/[Markdown] pero con mayor cantidad de funciones, por ejemplo la generación de una tabla de contenidos automática.
 
-### Resume.io
+### Páginas de CV
 
-https://resume.io/[Resume.io] es un sitio web para elaborar curriculums vistozos y coloridos. Es recomendado como un complemento para estos documentos.
+https://resume.io/[Resume.io], https://www.resumebuilder.com[Resume Builder], https://cvcompiler.com/[CV Compiler] son sitios web para elaborar curriculums vistozos y coloridos. Es recomendado como un complemento para estos documentos.
 
 ### GitHub
 
