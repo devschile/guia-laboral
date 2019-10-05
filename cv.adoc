@@ -122,13 +122,15 @@ Groups and Meetups usually participating in.
 
 ### Group 1
 About
+
 - *Link*: http://example.com
 
 ### Group 2
 About
+
 - *Link*: http://example.com
 
 ## Recommendations
 
 > Superb and ultra cute human beign.
-> - My Mom
+> -- My Mom
