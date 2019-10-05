@@ -4,12 +4,13 @@
 
 # Juan A. Pérez Gonzáles
 
-One liner describing what you do
+One liner describing what you do.
 
 toc::[]
 
 ## About
-Small text tht resumes experiences, achievements and other info.
+
+Small text that resumes experiences, achievements and other info.
 
 _Specialties_: keywords separated by coma of different skills.
 
@@ -21,13 +22,113 @@ _Specialties_: keywords separated by coma of different skills.
 
 ## Experience
 
+Chronological Descending Jobs and Work Experiences.
 
 ### Company Name 
-Small text about the company
+
+Small text about the company.
+
+- *Website*: http://example.com
 
 #### Job Title (month year - month year)
- Small text about the role that was performed.
+
+Small text about the role that was performed, the core responsabilities and overal description of the tasks assigned.
 
 ##### Achievements
-- Achievement 1: Small text about what was accomplished.
+
+- Achievement 1 (date): Small text about what was accomplished.
 - Achievement 2
+
+## Volunteer Experience
+
+Experiences ad-honorem.
+
+### Company Name 
+
+Small text about the company.
+
+- *Website*: http://example.com
+
+#### Job Title (month year - month year)
+
+Small text about the role that was performed, the core responsabilities and overal description of the tasks assigned.
+
+##### Achievements
+
+- Achievement 1 (date): Small text about what was accomplished.
+- Achievement 2
+
+## Education
+
+### Institution Name
+
+- *Website*: http://example.com
+
+#### Title (year - year)
+
+Small text about the education.
+
+##### Achievements
+
+- Achievement 1
+- Achievement 2
+
+### Licenses and Certifications
+
+### Institution Name
+
+- *Website*: http://example.com
+
+#### Title (year - year)
+Input about this certification and where to validate it.
+
+## Events
+Events attended.
+
+### Title (month - year)
+About the event.
+
+## Publications
+### Title
+- *Published At*: 2019-05-10 (YYYY-MM-dd)
+- *Publisher*: DevsChile
+- *Link*: http://example.com/mypublication
+
+## Articles
+### Title
+- *Published At*: 2019-05-10 (YYYY-MM-dd)
+- *Publisher*: DevsChile
+- *Link*: http://example.com/myarticle
+
+## Videogames
+### Title
+- *Published At*: 2019-05-10 (YYYY-MM-dd)
+- *Publisher*: DevsChile
+- *Link*: http://example.com/mygame
+
+## Apps
+### Title
+- *Published At*: 2019-05-10 (YYYY-MM-dd)
+- *Publisher*: DevsChile
+- *Link*: http://example.com/myapp
+
+## Awards 
+### Title (month year)
+About the award.
+
+## Groups
+
+Groups and Meetups usually participating in.
+
+### Group 1
+About
+- *Link*: http://example.com
+
+### Group 2
+About
+- *Link*: http://example.com
+
+## Recommendations
+
+> Superb and ultra cute human beign.
+> - My Mom
