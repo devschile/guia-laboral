@@ -2,6 +2,32 @@
 :toc-title: Curriculum Vitae
 :toclevels: 99
 
-# Nombre Completo
+# Juan A. Pérez Gonzáles
+
+One liner describing what you do
 
 toc::[]
+
+## About
+Small text tht resumes experiences, achievements and other info.
+
+_Specialties_: keywords separated by coma of different skills.
+
+### Personal Information
+
+- *City*: Santiago, Chile
+- *Email*: juan@example.com
+- *Website*: https://www.example.com
+
+## Experience
+
+
+### Company Name 
+Small text about the company
+
+#### Job Title (month year - month year)
+ Small text about the role that was performed.
+
+##### Achievements
+- Achievement 1: Small text about what was accomplished.
+- Achievement 2
