@@ -82,11 +82,16 @@ La utilización de _LinkedIn_ o _Resume.io_ es totalmente opcional, aunque recom
 
 Asegúrate siempre de que algún amigo revise la redacción, gramática y ortografía de tu curriculum antes de enviarlo. Este es un documento que debe ser lo más profesional, pulcro y bien redactado posible.
 
-## Ejemplo
+## Ejemplo de Curricuum
 
 Aca esta un _Linkedin_ que te puede servir como referencia para tener un buen formato de curriculum. Es de https://www.linkedin.com/in/tarahwheele[Tarah Wheeler Van Vlack], una experta en ciber seguridad.
 
 https://user-images.githubusercontent.com/292738/66255233-b8cb1a00-e757-11e9-96f8-7c924417cf2c.png[Ver Imagen Completa] 
+
+## Proyecto Complementario
+
+Una buena forma de demostrar tus habilidades es elaborar un proyecto personal. En este proyecto personal puedes crear algo común como un sistema de contabilidad, gestión de tareas o bugs, calendario o similares. De esta forma en la entrevista 
+puedes mostrarlo y explicar su funcionamiento y por que razón tomaste las decisiones (por que usar tecnología 'x' y no 'z') en su elaboracion. Se recomienda subir el código a *GitHub* y subir un demo del proyecto en forma de aplicación utilizable o al menos un video referencial. 
 
 ## Cómo filtrar pegas
 
@@ -120,7 +125,7 @@ No es obligatorio pero que ofrezcan beneficios como salud, plan dental, gimnasio
 
 #### Rol Definido
 
-Muchas empresas buscan a un maestro chasquilla que haga de todo un poco. Principalmente para ahorrarse el tener que contratar a mas de una persona para distintos roles. Que tu puedas y tengas conocimientos en distintas áreas no significa que la empresa
+Muchas empresas buscan a un maestro chasquilla que haga de todo un poco. Principalmente para ahorrarse el tener que contratar a más de una persona para distintos roles. Que tu puedas y tengas conocimientos en distintas áreas no significa que la empresa
 pueda ahorrar dinero al darte mayor responsabilidad. Por lo menos que el sueldo sea acorde al nivel de responsabilidad que tendrás. De preferencia que el trabajo que debas realizar sea dentro de tus capacidades y que te sea beneficioso para tu desarrollo profesional. Se estratégico y no hagas trabajos que no te sirvan personal o profesionalmente.
 
 image:https://user-images.githubusercontent.com/292738/76155776-be92a600-60cf-11ea-8943-3434d4516c3f.png[Bruce Lee]
@@ -146,6 +151,12 @@ Utilizan metodologías y tecnologías modernas, además de buenas prácticas de 
 Si la empresa utiliza buenas prácticas de gestión de proyectos no habría necesidad de horas extras. Si no gestionan bien sus proyectos habrá un caos y estrés generalizado. 
 
 Procura que la empresa tenga un eco-sistema ordenado, moderno y que te provoque felicidad trabajar en esas condiciones y con esas tecnolgías y metodologías.
+
+#### Proceso de Postulación Razonable
+
+Puede que algunas empresas tengan un proceso de selección muy elaborado, con distintas fases y entrevistas tanto técnicas como psicológicas. Algunas empresas incluso usan sistemas como pruebas de pizarrón. Lo importante es que sea razonable en términos de tiempo y esfuerzo necesario.
+
+Una modalidad usada en algunos lados es solicitar la elaboración de un proyecto pequeño. Este proyecto no debería tomar más allá de un par de horas (si es que es para la casa) o un par de minutos (si es que es presencial). Cuidado con algunas empresas que utilizan estos proyectos como una forma económica de crear sus productos.
 
 ## Libros Recomendados
 
