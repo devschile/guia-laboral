@@ -176,6 +176,9 @@ Hay proyectos que se realizan y sus productos o servicios nunca son utilizados r
 
 Procura que cualquier oferta o promesa que se realice durante tu estadía dentro de la empresa sea cumplida. Muchas veces ofrecen aumento de sueldo, días libres o alguna cosa como una pizza, para luego olvidarse y aplicar https://en.wikipedia.org/wiki/Gaslighting[Gaslighting]. Si la oferta es importante siempre pide correo con acuse de recibo para tener respaldo y así evitar cualquier malentendido u olvido.
 
+## Tips para Entrevistas Laborales
+En la https://beerjs.cl/santiago[Beer.JS Santiago] de Octubre del 2019 Jorge Epuñan nos compartió sus tips para entrevistas laborales. Pueden verlo acá (Comienza en el minuto 32). https://youtu.be/wB79gsTfmZY?t=1976[Video de BeerJS Santiago Octubre 2019].
+
 ## ¿Se recomienda contratar amigos o familiares?
 
 En el caso en que tú seas quien busque personas para contratar. Trabajar con amigos o familiares cercanos es un arma de doble filo. Si tienes un proyecto o empresa y contratas sus servicios, puede haber acuerdos implícitos. Básicamente puedes causar la ruptura de tu círculo de amigos y familiares cercanos, por ejemplo si no son las personas idóneas para la labor y debes despedirlas. No todas las personas pueden separar relaciones laborales con personales.
