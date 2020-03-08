@@ -86,5 +86,75 @@ Asegúrate siempre de que algún amigo revise la redacción, gramática y ortogr
 
 Aca esta un _Linkedin_ que te puede servir como referencia para tener un buen formato de curriculum. Es de https://www.linkedin.com/in/tarahwheele[Tarah Wheeler Van Vlack], una experta en ciber seguridad.
 
-https://user-images.githubusercontent.com/292738/66255233-b8cb1a00-e757-11e9-96f8-7c924417cf2c.png[Imagen] 
+https://user-images.githubusercontent.com/292738/66255233-b8cb1a00-e757-11e9-96f8-7c924417cf2c.png[Ver Imagen Completa] 
 
+## Cómo filtrar pegas
+
+Existen muchas ofertas laborales. Para tener la mejor experiencia posible fíjate en las siguientes características.
+
+### Características de una buena pega
+
+#### Contrato
+
+Te dan contrato. Aunque sea a plazo fijo. Existen muchas pegas que te piden solo boleteo. Un contrato te protege a ti 
+y al empleador. Si por alguna razón no te dan contrato, pide que cualquier cosa que te ofrezcan sea por escrito en un 
+correo con acuse de recibo. Esto es para tener pruebas en caso de recurrir a la inspección del trabajo.
+
+#### Horario Definido (Sin horas extras)
+
+Tienen un horario que se respeta. Hay empresas que esperan a que se trabaje por objetivos y cosas por el estilo que pueden alargar las horas del día.
+Algunas empresas quizás incluyan en tu contrato el famoso *Artículo 22 del Código del Trabajo* https://www.dt.gob.cl/portal/1628/w3-article-60063.html para hacer que tengas horas extras no remuneradas. Se entiende que a veces se puede quedar un rato adicional para no perder el hilo de la tarea, pero si se llega a tener constantemente maratones es un mal signo.
+
+#### Sueldo Transparente, Bueno y Seguro
+
+Muchas ofertas laborales no incluyen sueldo por que desean pagar menos, tratando de encontrar personas con poca experiencia que no sepan como negociar. Busca ofertas con un sueldo definido y claro, de esta forma podrás comparar con otras ofertas
+y definir si es suficiente para tus necesidades y expectativas. También debe ser claro las fechas de pago, hay empresas que no tienen seguridad de cuándo te pagarán ni en qué condiciones.
+
+#### Te facilitan equipos decentes para trabajar
+
+Algunas empresas esperan a que tu traigas tu computador para trabajar. Esto es viable solo si en el contrato se especifica que ellos se harán cargo por si el equipo sufre daños, hurto o similares en el recorrido de pega - casa, casa - pega y además incluya un bono por fatiga de material en el sueldo. Cada empresa debe facilitar un equipo con características decentes para trabajar, no una máquina lenta que apenas pueda correr windows 10.
+
+#### Beneficios Adicionales
+
+No es obligatorio pero que ofrezcan beneficios como salud, plan dental, gimnasio, educación, convenios, entre otros. Da a entender que la empresa desea que sus colaboradores esten bien y contentos.
+
+#### Rol Definido
+
+Muchas empresas buscan a un maestro chasquilla que haga de todo un poco. Principalmente para ahorrarse el tener que contratar a mas de una persona para distintos roles. Que tu puedas y tengas conocimientos en distintas áreas no significa que la empresa
+pueda ahorrar dinero al darte mayor responsabilidad. Por lo menos que el sueldo sea acorde al nivel de responsabilidad que tendrás. De preferencia que el trabajo que debas realizar sea dentro de tus capacidades y que te sea beneficioso para tu desarrollo profesional. Se estratégico y no hagas trabajos que no te sirvan personal o profesionalmente.
+
+image:https://user-images.githubusercontent.com/292738/76155776-be92a600-60cf-11ea-8943-3434d4516c3f.png[Bruce Lee]
+
+#### Buenas Cantidad de Vacaciones
+
+Dos semanas es muy poco. Procura obtener una buena cantidad de días para descanso.
+
+#### Buen ambiente laboral
+
+Un ambiente laboral adecuado es donde puedas estar tranquilo trabajando y ser productivo. Si tienes el infortunio de estar en una Open Office (Oficina Abierta) por lo menos que te faciliten espacios para trabajar concentrado. También es que no seas obligado a participar en eventos de empresa sin sentido o tengan un código de vestimenta donde requieran usar ropa con la marca de la empresa.
+
+Si es posible pasa un rato en sus oficinas y ve si el ambiente laboral es compatible con lo que tu esperas y quieres. De preferencia que exista una modalidad remota para que puedas liberarte del requisito de viajar todos los días.
+
+#### Buen Stack Tecnológico y Buena Gestión
+
+Utilizan metodologías y tecnologías modernas, además de buenas prácticas de gestión de proyectos. Existen empresas que utilizan tecnologías o metodologías ultra viejas que muy pocos usan en la actualidad. Participar en proyectos con viejas herramientas puede causar de que no obtengas el developer experience (DX) que las nuevas ofrecen. Además pueden tener un código legacy importante que no sea el más ordenado o documentado para trabajar. La principal desventaja es que pierdes el potencial de aprender nuevas y mejores herramientas para resolver los problemas.
+
+Si la empresa utiliza buenas prácticas de gestión de proyectos no debería necesidad de horas extras. Si no gestionan bien sus proyectos habrá un caos y estrés generalizado. 
+
+Procura que la empresa tenga un eco-sistema ordenado, moderno y que te provoque felicidad trabajar en esas condiciones y con esas tecnolgías y metodologías.
+
+## Libros Recomendados
+
+- https://www.amazon.com/Women-Tech-Practical-Inspiring-Stories/dp/1632170663[Women in Tech: Take Your Career to the Next Level with Practical Advice and Inspiring Stories]
+
+- https://www.amazon.com/Fearless-Salary-Negotiation-step-step/dp/0692568689/ref=sr_1_1?keywords=fearless+salary+negotiation&qid=1583638163&s=books&sr=1-1[Fearless Salary Negotiation: A step-by-step guide to getting paid what you're worth]
+
+- https://www.amazon.com/Land-Tech-Job-You-Love-ebook/dp/B01D0NEBP8/ref=sr_1_1?keywords=Land+the+tech+job+you+love&qid=1583638325&s=books&sr=1-1[Land the Tech Job You Love: Why Skills and Luck Aren't Enough (Pragmatic Life)]
+
+- https://www.amazon.com/New-Programmers-Survival-Manual-Workplace/dp/1934356816/ref=sr_1_1?crid=1FWJRCIOMQQCU&keywords=new+programmer%27s+survival+manual&qid=1583638419&s=books&sprefix=new+programmers%2Cstripbooks-intl-ship%2C327&sr=1-1[New Programmer's Survival Manual: Navigate Your Workplace, Cube Farm, or Startup (Pragmatic Programmers)]
+
+- https://www.amazon.com/Manage-Your-Search-Johanna-Rothman-ebook/dp/B00IO26334/ref=sr_1_1?keywords=manage+your+job+search&qid=1583638632&s=books&sr=1-1[Manage your Job Search]
+
+- https://www.amazon.com/Death-March-2nd-Edward-Yourdon/dp/013143635X/ref=sr_1_1?keywords=Death+March&qid=1583638750&s=books&sr=1-1[Death March]
+
+- https://www.amazon.com/Your-First-Year-Code-developers/dp/0578564998/ref=sr_1_1?keywords=Your+first+year+in+code&qid=1583638834&s=books&sr=1-1[Your First Year in Code: A complete guide for new & aspiring developers]
