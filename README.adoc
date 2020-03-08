@@ -177,7 +177,50 @@ Hay proyectos que se realizan y sus productos o servicios nunca son utilizados r
 Procura que cualquier oferta o promesa que se realice durante tu estadía dentro de la empresa sea cumplida. Muchas veces ofrecen aumento de sueldo, días libres o alguna cosa como una pizza, para luego olvidarse y aplicar https://en.wikipedia.org/wiki/Gaslighting[Gaslighting]. Si la oferta es importante siempre pide correo con acuse de recibo para tener respaldo y así evitar cualquier malentendido u olvido.
 
 ## Tips para Entrevistas Laborales
-En la https://beerjs.cl/santiago[Beer.JS Santiago] de Octubre del 2019 Jorge Epuñan nos compartió sus tips para entrevistas laborales. Pueden verlo acá (Comienza en el minuto 32). https://youtu.be/wB79gsTfmZY?t=1976[Video de BeerJS Santiago Octubre 2019].
+
+En la https://beerjs.cl/santiago[Beer.JS Santiago] de Octubre del 2019, *Jorge Epuñan* nos compartió sus tips para entrevistas laborales. Pueden verlo acá (Comienza en el minuto 32). https://youtu.be/wB79gsTfmZY?t=1976[Video de BeerJS Santiago Octubre 2019]. https://www.beerjs.cl/santiago/oct2019/[Presentación].  https://github.com/beerjs/santiago/issues/88[GitHub].
+
+### Prepara bien tu CV
+
+Sigue las instrucciones mencionadas al principio de este documento y elabora un curriculum enfocado al trabajo que deseas realizar. La idea no es mandar un curriculum genérico, si no uno específico y focalizado.
+
+### Investiga a la empresa antes de la entrevista
+
+Haz una pequeña investigación sobre la empresa antes de asistir a la entrevista. Responde a estas preguntas: ¿Qué hacen?, ¿Desde cuándo existen?, ¿Cuál es su historia y evolución?, ¿Qué productos tienen y que cosas más te llaman la atención sobre estos?. 
+
+También lograr conseguir un contacto que te pueda dar mayor información sobre la vida dentro de la empresa. Preguntar sobre el ambiente laboral, si estan cansados, el manejo de proyectos, si son consecuentes con lo que dicen en la oferta laboral.
+
+Lo importante es conocer la empresa para determinar si eres compatible y deseas estar trabajando ahí. Quizás la empresa tuviese mala reputación en la antigüedad, pero afortunadamente han cambiado para mejor. Solo lo sabrás si haces una investigación apropiada.
+
+### Estar limpio, lúcido y vestir decente
+
+No es necesario ir super formal (a menos que la empresa lo requiera). Procura ir ordenado y limpio, con ropa que usarías normalmente en tu día a día. La recomendación es semi formal para ir a la segura, pero eso dependerá de cada uno.
+
+Si la entrevista es online procura estar limpio, ordenado y vestido como si estuvieras presencial. 
+
+La imagen personal si bien no es un factor decisivo, si ayuda en los momentos de la entrevista. Esta más que claro añadir que se debe estar sin sustancias como alcohol, drogas u olores fuertes (como el cigarro) en el momento de la entrevista. Si por ejemplo tienes una medicación que causa somnolencia o alguna alteración notable, es mejor que programes la entrevista cuando no estes afectado por esos medicamentos.
+
+### Estar calmo y responder normalmente
+
+Hablar muy rápido y estar nervioso no ayuda a comunicar bien tus ideas. Esto puede jugar en contra por lo que intenta transmitir seguridad y tranquilidad al momento de hablar. Puedes intentar realizar una meditación y ejercicios de respiración para lograr relajarte antes del momento de conversar.
+
+Si es en otro idioma como Inglés, procura modular apropiadamente para que se entienda lo más bien posible. Evita utilizar palabras inventadas, trata de usar algun sinónimo o describir lo que hace, si no sabes que palabra usar.
+
+Lo importante es que te puedan entender.
+
+### Ir directo al grano
+
+No te des vueltas al contestar una pregunta. Responde lo que te preguntaron de forma sucinta. Dar demasiados detalles puede que te quite tiempo de temas más importantes.
+
+### Da ejemplos de uso reales
+
+Si te preguntan sobre alguna tecnología, puedes contar alguna experiencia personal dónde fue usada y tengas una opinión más cercana al mundo real. Con eso puedes demostrar experiencia y proactividad.
+
+### Cuidado con preguntas capciosas
+
+Son preguntas no relacionadas al rubro que están enfocadas a sacarte de tu zona de confort. Idealmente para evaluar tus capacidades de adaptarte a situaciones nuevas o algún otro tipo de medición de habilidades blandas.
+
+Ejemplo: ¿Cómo se llama mi abuelita?. Para responder a esta pregunta habría que realizar preguntas investigativas como: ¿Paterna o materna?, ¿Cúales son tus apellidos? y ese tipo de cosas para evaluar tus capacidades cognitivas y de resolución de problemas.
 
 ## ¿Se recomienda contratar amigos o familiares?
 
