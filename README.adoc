@@ -173,3 +173,11 @@ Una modalidad usada en algunos lados es solicitar la elaboración de un proyecto
 - https://www.amazon.com/Death-March-2nd-Edward-Yourdon/dp/013143635X/ref=sr_1_1?keywords=Death+March&qid=1583638750&s=books&sr=1-1[Death March]
 
 - https://www.amazon.com/Your-First-Year-Code-developers/dp/0578564998/ref=sr_1_1?keywords=Your+first+year+in+code&qid=1583638834&s=books&sr=1-1[Your First Year in Code: A complete guide for new & aspiring developers]
+
+## Páginas Relacionadas
+
+- https://triplebyte.com/
+- https://www.getonbrd.com/
+- https://www.glassdoor.com/
+- https://weworkremotely.com/
+- https://sueldoingenieros.cl/
