@@ -103,7 +103,7 @@ correo con acuse de recibo. Esto es para tener pruebas en caso de recurrir a la 
 #### Horario Definido (Sin horas extras)
 
 Tienen un horario que se respeta. Hay empresas que esperan a que se trabaje por objetivos y cosas por el estilo que pueden alargar las horas del día.
-Algunas empresas quizás incluyan en tu contrato el famoso *Artículo 22 del Código del Trabajo* https://www.dt.gob.cl/portal/1628/w3-article-60063.html para hacer que tengas horas extras no remuneradas. Se entiende que a veces se puede quedar un rato adicional para no perder el hilo de la tarea, pero si se llega a tener constantemente maratones es un mal signo.
+Algunas empresas quizás incluyan en tu contrato el famoso https://www.dt.gob.cl/portal/1628/w3-article-60063.html[Artículo 22 del Código del Trabajo] para hacer que tengas horas extras no remuneradas. Se entiende que a veces se puede quedar un rato adicional para no perder el hilo de la tarea, pero si se llega a tener constantemente maratones es un mal signo.
 
 #### Sueldo Transparente, Bueno y Seguro
 
@@ -125,7 +125,7 @@ pueda ahorrar dinero al darte mayor responsabilidad. Por lo menos que el sueldo 
 
 image:https://user-images.githubusercontent.com/292738/76155776-be92a600-60cf-11ea-8943-3434d4516c3f.png[Bruce Lee]
 
-#### Buenas Cantidad de Vacaciones
+#### Buena Cantidad de Vacaciones
 
 Dos semanas es muy poco. Procura obtener una buena cantidad de días para descanso.
 
@@ -135,11 +135,15 @@ Un ambiente laboral adecuado es donde puedas estar tranquilo trabajando y ser pr
 
 Si es posible pasa un rato en sus oficinas y ve si el ambiente laboral es compatible con lo que tu esperas y quieres. De preferencia que exista una modalidad remota para que puedas liberarte del requisito de viajar todos los días.
 
+#### Te tratan como una persona
+
+Empresas donde tus ideas van a parar a */dev/null*, o que la química entre colegas no es la más adecuada, deberían ser omitidas. Procura que la empresa tenga canales de retroalimentación donde puedas ser escuchado y tus camaradas sean respetuosos de tu individualidad y características únicas.
+
 #### Buen Stack Tecnológico y Buena Gestión
 
 Utilizan metodologías y tecnologías modernas, además de buenas prácticas de gestión de proyectos. Existen empresas que utilizan tecnologías o metodologías ultra viejas que muy pocos usan en la actualidad. Participar en proyectos con viejas herramientas puede causar de que no obtengas el developer experience (DX) que las nuevas ofrecen. Además pueden tener un código legacy importante que no sea el más ordenado o documentado para trabajar. La principal desventaja es que pierdes el potencial de aprender nuevas y mejores herramientas para resolver los problemas.
 
-Si la empresa utiliza buenas prácticas de gestión de proyectos no debería necesidad de horas extras. Si no gestionan bien sus proyectos habrá un caos y estrés generalizado. 
+Si la empresa utiliza buenas prácticas de gestión de proyectos no habría necesidad de horas extras. Si no gestionan bien sus proyectos habrá un caos y estrés generalizado. 
 
 Procura que la empresa tenga un eco-sistema ordenado, moderno y que te provoque felicidad trabajar en esas condiciones y con esas tecnolgías y metodologías.
 
