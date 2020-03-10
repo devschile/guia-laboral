@@ -24,7 +24,7 @@ Para elaborar estos documentos se recomienda https://asciidoctor.org[AsciiDoc]. 
 
 ### Páginas de CV
 
-https://resume.io/[Resume.io], https://www.resumebuilder.com[Resume Builder], https://cvcompiler.com/[CV Compiler] son sitios web para elaborar curriculums vistozos y coloridos. Es recomendado como un complemento para estos documentos.
+https://resume.io/[Resume.io], https://www.resumebuilder.com[Resume Builder], https://cvcompiler.com/[CV Compiler], https://novoresume.com/[NovoResume], son sitios web para elaborar curriculums vistozos y coloridos. Es recomendado como un complemento para estos documentos.
 
 ### GitHub
 
@@ -93,58 +93,56 @@ https://user-images.githubusercontent.com/292738/66255233-b8cb1a00-e757-11e9-96f
 Una buena forma de demostrar tus habilidades es elaborar un proyecto personal. En este proyecto personal puedes crear algo común como un sistema de contabilidad, gestión de tareas o bugs, calendario o similares. De esta forma en la entrevista 
 puedes mostrarlo y explicar su funcionamiento y por que razón tomaste las decisiones (por que usar tecnología 'x' y no 'z') en su elaboracion. Se recomienda subir el código a *GitHub* y subir un demo del proyecto en forma de aplicación utilizable o al menos un video referencial. 
 
-## Cómo filtrar pegas
+## Características de una buena pega
 
 Existen muchas ofertas laborales. Para tener la mejor experiencia posible fíjate en las siguientes características.
 
-### Características de una buena pega
-
-#### Contrato
+### Contrato
 
 Te dan contrato. Aunque sea a plazo fijo. Existen muchas pegas que te piden solo boleteo. Un contrato te protege a ti 
 y al empleador. Si por alguna razón no te dan contrato, pide que cualquier cosa que te ofrezcan sea por escrito en un 
 correo con acuse de recibo. Esto es para tener pruebas en caso de recurrir a la inspección del trabajo.
 
-#### Horario Definido (Sin horas extras)
+### Horario Definido (Sin horas extras)
 
 Tienen un horario que se respeta. Hay empresas que esperan a que se trabaje por objetivos y cosas por el estilo que pueden alargar las horas del día.
 Algunas empresas quizás incluyan en tu contrato el famoso https://www.dt.gob.cl/portal/1628/w3-article-60063.html[Artículo 22 del Código del Trabajo] para hacer que tengas horas extras no remuneradas. Se entiende que a veces se puede quedar un rato adicional para no perder el hilo de la tarea, pero si se llega a tener constantemente maratones es un mal signo.
 
-#### Sueldo Transparente, Bueno y Seguro
+### Sueldo Transparente, Bueno y Seguro
 
 Muchas ofertas laborales no incluyen sueldo por que desean pagar menos, tratando de encontrar personas con poca experiencia que no sepan como negociar. Busca ofertas con un sueldo definido y claro, de esta forma podrás comparar con otras ofertas
 y definir si es suficiente para tus necesidades y expectativas. También debe ser claro las fechas de pago, hay empresas que no tienen seguridad de cuándo te pagarán ni en qué condiciones.
 
-#### Te facilitan equipos decentes para trabajar
+### Te facilitan equipos decentes para trabajar
 
 Algunas empresas esperan a que tu traigas tu computador para trabajar. Esto es viable solo si en el contrato se especifica que ellos se harán cargo por si el equipo sufre daños, hurto o similares en el recorrido de pega - casa, casa - pega y además incluya un bono por fatiga de material en el sueldo. Cada empresa debe facilitar un equipo con características decentes para trabajar, no una máquina lenta que apenas pueda correr windows 10.
 
-#### Beneficios Adicionales
+### Beneficios Adicionales
 
 No es obligatorio pero que ofrezcan beneficios como salud, plan dental, gimnasio, educación, convenios, entre otros. Da a entender que la empresa desea que sus colaboradores esten bien y contentos.
 
-#### Rol Definido
+### Rol Definido
 
 Muchas empresas buscan a un maestro chasquilla que haga de todo un poco. Principalmente para ahorrarse el tener que contratar a más de una persona para distintos roles. Que tu puedas y tengas conocimientos en distintas áreas no significa que la empresa
 pueda ahorrar dinero al darte mayor responsabilidad. Por lo menos que el sueldo sea acorde al nivel de responsabilidad que tendrás. De preferencia que el trabajo que debas realizar sea dentro de tus capacidades y que te sea beneficioso para tu desarrollo profesional. Se estratégico y no hagas trabajos que no te sirvan personal o profesionalmente.
 
 image:https://user-images.githubusercontent.com/292738/76155776-be92a600-60cf-11ea-8943-3434d4516c3f.png[Bruce Lee]
 
-#### Buena Cantidad de Vacaciones
+### Buena Cantidad de Vacaciones
 
 Dos semanas es muy poco. Procura obtener una buena cantidad de días para descanso.
 
-#### Buen ambiente laboral
+### Buen ambiente laboral
 
 Un ambiente laboral adecuado es donde puedas estar tranquilo trabajando y ser productivo. Si tienes el infortunio de estar en una Open Office (Oficina Abierta) por lo menos que te faciliten espacios para trabajar concentrado. También es que no seas obligado a participar en eventos de empresa sin sentido o tengan un código de vestimenta donde requieran usar ropa con la marca de la empresa.
 
 Si es posible pasa un rato en sus oficinas y ve si el ambiente laboral es compatible con lo que tu esperas y quieres. De preferencia que exista una modalidad remota para que puedas liberarte del requisito de viajar todos los días.
 
-#### Te tratan como una persona
+### Te tratan como una persona
 
 Empresas donde tus ideas van a parar a */dev/null*, o que la química entre colegas no es la más adecuada, deberían ser omitidas. Procura que la empresa tenga canales de retroalimentación donde puedas ser escuchado y tus camaradas sean respetuosos de tu individualidad y características únicas.
 
-#### Buen Stack Tecnológico y Buena Gestión
+### Buen stack tecnológico y buena gestión
 
 Utilizan metodologías y tecnologías modernas, además de buenas prácticas de gestión de proyectos. Existen empresas que utilizan tecnologías o metodologías ultra viejas que muy pocos usan en la actualidad. Participar en proyectos con viejas herramientas puede causar de que no obtengas el developer experience (DX) que las nuevas ofrecen. Además pueden tener un código legacy importante que no sea el más ordenado o documentado para trabajar. La principal desventaja es que pierdes el potencial de aprender nuevas y mejores herramientas para resolver los problemas.
 
@@ -152,27 +150,27 @@ Si la empresa utiliza buenas prácticas de gestión de proyectos no habría nece
 
 Procura que la empresa tenga un eco-sistema ordenado, moderno y que te provoque felicidad trabajar en esas condiciones y con esas tecnologías y metodologías.
 
-#### Proceso de Postulación Razonable
+### Proceso de postulación razonable
 
 Puede que algunas empresas tengan un proceso de selección muy elaborado, con distintas fases y entrevistas tanto técnicas como psicológicas. Algunas empresas incluso usan sistemas como pruebas de pizarrón. Lo importante es que sea razonable en términos de tiempo y esfuerzo necesario.
 
 Una modalidad usada en algunos lados es solicitar la elaboración de un proyecto pequeño. Este proyecto no debería tomar más allá de un par de horas (si es que es para la casa) o un par de minutos (si es que es presencial). Cuidado con algunas empresas que utilizan estos proyectos como una forma económica de crear sus productos.
 
-#### No son una "Familia"
+### No son una "Familia"
 
 Las empresas que utilizan el concepto de familia para describir a su organización, son peligrosas. Una familia no tiene contratos, sueldos ni horarios definidos. Una familia tiene vínculos afectivos que van más allá de simple colaboración laboral. Para tu familia y tus seres queridos tu puedes llegar a realizar sacrificios por lograr un objetivo que los beneficie. Evita empresas que se definan como una familia, por que puede que te engañen para que trabajes más allá de lo acordado en el contrato y realices sacrificios que puedan afectar negativamente a tus seres queridos.
 
-#### Te dan espacio para mejorar continuamente
+### Te dan espacio para mejorar continuamente
 
 Te dan espacio para que puedas asistir a eventos, capacitaciones u otras iniciativas para que seas mejor profesional. No es necesario que te financien las cosas pero por lo menos que sean lo suficientemente flexibles para compatibilizar las actividades trabajo - desarrollo personal/profesional.
 
-#### Tienen buenos proyectos
+### Tienen buenos proyectos
 
 Hay empresas que aceptan cualquier tipo de proyecto, no importando si son éticamente cuestionables o poco factibles técnica o económicamente. Si el proyecto que te encontrarás realizando se convierte en una https://en.wikipedia.org/wiki/Death_march_(project_management)[Marcha de la muerte], no te sirve para seguir creciendo profesionalmente, o no es compatible con tu postura ética - moral, procura salir de ahí lo más pronto posible.
 
 Hay proyectos que se realizan y sus productos o servicios nunca son utilizados realmente. Esto afecta negativamente la moral de las personas por que todo su tiempo y esfuerzo se percibe como desaprovechado. Si constantemente te encuentras realizando proyectos que al final son desechados o poco aprovechados, quizás es mejor buscar un lugar nuevo donde exista una real retribución e impacto para tus esfuerzos.
 
-#### Cumplen con su Palabra
+### Cumplen con su Palabra
 
 Procura que cualquier oferta o promesa que se realice durante tu estadía dentro de la empresa sea cumplida. Muchas veces ofrecen aumento de sueldo, días libres o alguna cosa como una pizza, para luego olvidarse y aplicar https://en.wikipedia.org/wiki/Gaslighting[Gaslighting]. Si la oferta es importante siempre pide correo con acuse de recibo para tener respaldo y así evitar cualquier malentendido u olvido.
 
@@ -246,6 +244,19 @@ Normalmente las pretenciones de sueldo se piden para descartar a los postulantes
 
 Escoge dónde quieres trabajar. Que el trabajo no te elija a ti. Hay abundancia de oportunidades y tienes el privilegio de tener la decisión.
 
+## ¿Cúando postular a un empleo?
+
+Muchas ofertas laborales tienen exigencias muy altas. Te piden conocer 50 tecnologías y 10 años de experiencia en frameworks que llevan como máximo 3 años en el mercado. Esto es así por que muchas de las ofertas laborales fueron creadas por el equipo de recursos humanos (un humano no es un recurso, es una persona).
+
+Como regla general si tienes capacidades en al menos 3 tecnologías de las que mencionan, puedes postular. Todas las demás las puedes aprender en el camino durante el trabajo, si es que alguna vez son utilizadas.
+
+Lo importante es que intentes contactar a la empresa directamente, más que pasar por reclutadores o intermediarios. Busca la página web de la empresa y utiliza su formulario de contacto, agenda una reunión y demuestra que eres idóneo para el desafío.
+
+### ¿Por qué es importante priorizar una entrevista?
+
+Tu currículum es un texto que por más bonito que sea, siempre le faltarán detalles que solamente puedes contar en persona. Por ejemplo en un empleo anterior te contrataron por frontend, pero durante el camino también metiste mano en backend y diseñaste soluciones más allá de lo que estaba en tu perfil al ingresar. ¿Cómo podrán saber esto si en tu cv solo pusiste que eras frontend?.
+
+Algunas empresas te podrían descartar si no conoces tecnología a, b, c. Pero tal vez tu les puedas demostrar que si puedes aprender rápido. Pero si no agendas reunión para convencerlos y saltarte el proceso de selección automático que descarta solo por criterios arbitrarios, no podrás tener esa oportunidad.
 
 ## ¿Se recomienda contratar amigos o familiares?
 
@@ -275,3 +286,7 @@ En el caso en que tú seas quien busque personas para contratar. Trabajar con am
 - https://www.glassdoor.com/
 - https://weworkremotely.com/
 - https://sueldoingenieros.cl/
+- https://angel.co/
+- https://www.payscale.com/
+- https://www.salary.com/
+- https://www.wayup.com/
