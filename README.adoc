@@ -125,6 +125,8 @@ Los días de la semana son de Lunes a Viernes (5 días). Si te obligan a trabaja
 Muchas ofertas laborales no incluyen sueldo por que desean pagar menos, tratando de encontrar personas con poca experiencia que no sepan como negociar. Busca ofertas con un sueldo definido y claro, de esta forma podrás comparar con otras ofertas
 y definir si es suficiente para tus necesidades y expectativas. También debe ser claro las fechas de pago, hay empresas que no tienen seguridad de cuándo te pagarán ni en qué condiciones.
 
+Las modalidades de pago usualmente son mensual, quincenal o semanal (la mejor, estilo USA). Si se comprometen a pagar en una fecha y no lo cumplen, no debería pasar más de una semana para que paguen. Caso contrario es mejor buscar una empresa más predecible con los pagos. Las deudas, el arriendo, las cuentas de gastos básicos necesitan pagarse y no te esperarán si no tienes dinero. Esto puede pasar normalmente en Startups que dependen de inversionistas para tener fondos y que no te puedan asegurar una fecha predecible.
+
 ### Te facilitan equipos decentes para trabajar
 
 Algunas empresas esperan a que tu traigas tu computador para trabajar. Esto es viable solo si en el contrato se especifica que ellos se harán cargo por si el equipo sufre daños, hurto o similares en el recorrido de pega - casa, casa - pega y además incluya un bono por fatiga de material en el sueldo. Cada empresa debe facilitar un equipo con características decentes para trabajar, no una máquina lenta que apenas pueda correr windows 10.
