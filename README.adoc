@@ -103,12 +103,24 @@ Te dan contrato. Aunque sea a plazo fijo. Existen muchas pegas que te piden solo
 y al empleador. Si por alguna razón no te dan contrato, pide que cualquier cosa que te ofrezcan sea por escrito en un 
 correo con acuse de recibo. Esto es para tener pruebas en caso de recurrir a la inspección del trabajo.
 
-### Horario Definido (Sin horas extras)
+### Horario definido (sin horas extras)
 
 Tienen un horario que se respeta. Hay empresas que esperan a que se trabaje por objetivos y cosas por el estilo que pueden alargar las horas del día.
+
 Algunas empresas quizás incluyan en tu contrato el famoso https://www.dt.gob.cl/portal/1628/w3-article-60063.html[Artículo 22 del Código del Trabajo] para hacer que tengas horas extras no remuneradas. Se entiende que a veces se puede quedar un rato adicional para no perder el hilo de la tarea, pero si se llega a tener constantemente maratones es un mal signo.
 
-### Sueldo Transparente, Bueno y Seguro
+El _Artículo 22_ simplemente define que puedes trabajar desde https://es.wikipedia.org/wiki/Chimbarongo[Chimbarongo] si lo deseas y de 5 AM a 13 PM si es que es más adecuado para cumplir la labor. Es decir, simplemente te da la posibilidad de cumplir la cantidad de horas semanales establecidas en el contrato con libertad de horario y lugar, sin tener que firmar un libro de asistencias. Algunas empresas abusan de esto exigiendo llegar temprano, pero haciendose los larris a la hora de salida. Si ya cumpliste la cuota semanal de horas pactadas en el contrato, no tienes la obligación de quedarte más tarde. Si te exigen horas extras deberían ser remuneradas adecuadamente (por lo menos el doble del valor normal por hora). 
+
+Los horarios usualmente son de 8 a 9 horas (45 horas semanales máximo). Con alguno de estos formatos (hora almuerzo incluida).
+
+- 8:30 - 17:30 hrs. (Normalmente en pegas del gobierno)
+- 9:00 - 18:00 hrs. (El usual)
+- 9:00 - 19:00 hrs. (El más exigente)
+- 9:00 - 17:00 hrs. (Este es el mejor, ya que sales a las 17:00 y a esa hora todavía hay sol para hacer trámites o disfrutar el día).
+
+Los días de la semana son de Lunes a Viernes (5 días). Si te obligan a trabajar sábado (6 días) consideralo una bandera roja (red flag). Hay algunas buenas pegas que solo te hacen trabajar 4 días (te pagan 5), ya que el quinto día lo puedes usar para hacer trámites (como ir al médico), estudiar o simplemente como un fin de semana más largo (y tener mejor descanso para ser más productivo).
+
+### Sueldo transparente, bueno y seguro
 
 Muchas ofertas laborales no incluyen sueldo por que desean pagar menos, tratando de encontrar personas con poca experiencia que no sepan como negociar. Busca ofertas con un sueldo definido y claro, de esta forma podrás comparar con otras ofertas
 y definir si es suficiente para tus necesidades y expectativas. También debe ser claro las fechas de pago, hay empresas que no tienen seguridad de cuándo te pagarán ni en qué condiciones.
@@ -117,24 +129,34 @@ y definir si es suficiente para tus necesidades y expectativas. También debe se
 
 Algunas empresas esperan a que tu traigas tu computador para trabajar. Esto es viable solo si en el contrato se especifica que ellos se harán cargo por si el equipo sufre daños, hurto o similares en el recorrido de pega - casa, casa - pega y además incluya un bono por fatiga de material en el sueldo. Cada empresa debe facilitar un equipo con características decentes para trabajar, no una máquina lenta que apenas pueda correr windows 10.
 
-### Beneficios Adicionales
+### Beneficios adicionales
 
 No es obligatorio pero que ofrezcan beneficios como salud, plan dental, gimnasio, educación, convenios, entre otros. Da a entender que la empresa desea que sus colaboradores esten bien y contentos.
 
-### Rol Definido
+### Justa medida de reuniones y poca burocracia
+
+Las reuniones y el papeleo deberían estar controlados a un nivel razonable. Tener un exceso de reuniones (y en algunos casos muchas veces en el mismo día) puede afectar tu nivel de productividad. Si tu labor es mas técnica que gestión, tu cantidad y duración de reuniones debería ser relativamente liviana en el día y la semana.
+
+### Rol definido
 
 Muchas empresas buscan a un maestro chasquilla que haga de todo un poco. Principalmente para ahorrarse el tener que contratar a más de una persona para distintos roles. Que tu puedas y tengas conocimientos en distintas áreas no significa que la empresa
 pueda ahorrar dinero al darte mayor responsabilidad. Por lo menos que el sueldo sea acorde al nivel de responsabilidad que tendrás. De preferencia que el trabajo que debas realizar sea dentro de tus capacidades y que te sea beneficioso para tu desarrollo profesional. Se estratégico y no hagas trabajos que no te sirvan personal o profesionalmente.
 
 image:https://user-images.githubusercontent.com/292738/76155776-be92a600-60cf-11ea-8943-3434d4516c3f.png[Bruce Lee]
 
-### Buena Cantidad de Vacaciones
+### Buena cantidad de vacaciones
 
 Dos semanas es muy poco. Procura obtener una buena cantidad de días para descanso.
 
 ### Buen ambiente laboral
 
-Un ambiente laboral adecuado es donde puedas estar tranquilo trabajando y ser productivo. Si tienes el infortunio de estar en una Open Office (Oficina Abierta) por lo menos que te faciliten espacios para trabajar concentrado. También es que no seas obligado a participar en eventos de empresa sin sentido o tengan un código de vestimenta donde requieran usar ropa con la marca de la empresa.
+Un ambiente laboral adecuado es donde puedas estar tranquilo trabajando y ser productivo. Si tienes el infortunio de estar en una Open Office (Oficina Abierta) por lo menos que te faciliten espacios para trabajar concentrado sin distracciones. 
+
+Hay empresas que les gusta realizar actividades para "team building". Como peleas de pistolas nerf, bailes coreografiados a mitad de la jornada, tener la oficina llena de juguetes o videojuegos (que en algunas nadie usa por que si lo hacen los miran feo), etc. 
+
+Cada empresa esta en su derecho de realizar las cosas como mejor consideren, pero si luego te amonestan ya que te atrasaste porque te obligaron a ir a la charla motivacional, el asunto se convierte en una piedra que te impide realizar bien tu labor.
+
+No deberías ser obligado a participar en eventos de empresa sin sentido, o tengan un código de vestimenta donde requieran usar ropa con la marca de la empresa. Participa solamente si puedes y quieres.
 
 Si es posible pasa un rato en sus oficinas y ve si el ambiente laboral es compatible con lo que tu esperas y quieres. De preferencia que exista una modalidad remota para que puedas liberarte del requisito de viajar todos los días.
 
@@ -170,7 +192,7 @@ Hay empresas que aceptan cualquier tipo de proyecto, no importando si son ética
 
 Hay proyectos que se realizan y sus productos o servicios nunca son utilizados realmente. Esto afecta negativamente la moral de las personas por que todo su tiempo y esfuerzo se percibe como desaprovechado. Si constantemente te encuentras realizando proyectos que al final son desechados o poco aprovechados, quizás es mejor buscar un lugar nuevo donde exista una real retribución e impacto para tus esfuerzos.
 
-### Cumplen con su Palabra
+### Cumplen con su palabra
 
 Procura que cualquier oferta o promesa que se realice durante tu estadía dentro de la empresa sea cumplida. Muchas veces ofrecen aumento de sueldo, días libres o alguna cosa como una pizza, para luego olvidarse y aplicar https://en.wikipedia.org/wiki/Gaslighting[Gaslighting]. Si la oferta es importante siempre pide correo con acuse de recibo para tener respaldo y así evitar cualquier malentendido u olvido.
 
