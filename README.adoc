@@ -2,7 +2,7 @@
 :toc-title: Tabla de Contenidos
 :toclevels: 99
 
-# Guía para el buen curriculum vitae
+# Guía laboral para devs
 
 En este pequeño documento se detallarán tips para que tengas un buen curriculum. Además de algunas formas
 para detectar y filtrar trabajos que quizás no sean los más convenientes para tu desarrollo profesional/personal.
@@ -200,9 +200,13 @@ Procura que cualquier oferta o promesa que se realice durante tu estadía dentro
 
 ### Opciones de carrera profesional
 
-En la antigüedad las personas trabajaban en una sola empresa durante muchos años, incluso jubilándose o heredando el puesto de trabajo a la siguiente generación de su familia. Hoy en día la situación en más volátil y tener un mismo empleo por varios años (más de dos) es poco usual. De todas formas hay empresas que ofrecen un curso de carrera profesional donde se puede escalar y realizar labores con mayor responsabilidad (y remuneración). Esta situación no es para todos los gustos, pero si deseas tener un trabajo estable por largo tiempo, que la empresa te permita subir en la jerarquía con los años, te de capacitación y estabilidad laboral, es atractivo para algunos.
+En la antigüedad las personas trabajaban en una sola empresa durante muchos años, incluso jubilándose o heredando el puesto de trabajo a la siguiente generación de su familia. Hoy en día la situación en más volátil y tener un mismo empleo por varios años (más de dos) es poco usual. De todas formas hay empresas que ofrecen un trayecto de carrera profesional donde se puede escalar y realizar labores con mayor responsabilidad (y remuneración). Esta situación no es para todos los gustos, pero si deseas tener un trabajo estable por largo tiempo, que la empresa te permita subir en la jerarquía con los años, te de capacitación y estabilidad laboral, es atractivo para algunos.
 
 De todas formas siempre es recomendable tener un plan B, teniendo una pequeña empresa o alguna forma de ingreso que no dependa de un solo empleador, ya que las condiciones del mercado o gerencia pueden cambiar brúscamente y eso signifique tu despido.
+
+### Confían en ti
+
+No te hacen https://en.wikipedia.org/wiki/Micromanagement[Micromanagement]. Confían en tu criterio para tomar decisiones sobre cómo resolver mejor los problemas y tareas. También sobre tus habilidades para ordenar tus tiempos y cumplir los objetivos pactados.
 
 ## Tips para Entrevistas Laborales
 
@@ -250,9 +254,9 @@ Son preguntas no relacionadas al rubro que están enfocadas a sacarte de tu zona
 
 Ejemplo: ¿Cómo se llama mi abuelita?. Para responder a esta pregunta habría que realizar preguntas investigativas como: ¿Paterna o materna?, ¿Cúales son tus apellidos? y ese tipo de cosas para evaluar tus capacidades cognitivas y de resolución de problemas.
 
-### Se Humano
+### Se Humano y cordial
 
-Responder todo de forma fría, cortante o simplemente falto de calor humano, no te suma muchos puntos. Intenta contar alguna anécdota (relacionada) o ser lo más cercano posible.
+Responder todo de forma fría, cortante o simplemente falto de calor humano, no te suma muchos puntos. Intenta contar alguna anécdota (relacionada) o ser lo más cercano y cordial posible.
 
 ### Contra preguntas
 
@@ -292,6 +296,25 @@ Algunas empresas te podrían descartar si no conoces tecnología a, b, c. Pero t
 
 En el caso en que tú seas quien busque personas para contratar. Trabajar con amigos o familiares cercanos es un arma de doble filo. Si tienes un proyecto o empresa y contratas sus servicios, puede haber acuerdos implícitos. Básicamente puedes causar la ruptura de tu círculo de amigos y familiares cercanos, por ejemplo si no son las personas idóneas para la labor y debes despedirlas. No todas las personas pueden separar relaciones laborales con personales.
 
+## Tipos de Empresa
+
+En el mundo de las tecnologías hay distintos tipos de empresa que te puedes topar. Unas son buenas y otras es mejor evitar.
+
+### Moledora de Carne (Evitar)
+
+Esta empresa se dedica a la subcontratación. Clientes vienen y les piden personal para elaborar un proyecto. Normalmente no tienen muy buenas prácticas y tu sueldo no será el mejor (aunque ellos cobrarán mucho más). El contrato será con la moledora y no con la empresa a la cual realizas el proyecto. Usualmente te tocan proyectos cachos que nadie más quiere hacer con tecnologías, plazos o condiciones antiguas y adversas. Alta probabilidad de https://en.wikipedia.org/wiki/Occupational_burnout[Burn Out].
+
+Se les dicen moledoras de carne por que te exprimen cada gota de sudor y sangre de ti, para que finalmente te desechen si ya no soportas las condiciones tóxicas de su ambiente.
+
+Hay empresas de subcontratación decentes, pero tienes que hacer un proceso de investigación correspondiente antes de aceptar ingresar a ese tipo de empresas.
+
+### Startup (Cuidado)
+
+Empresas que tienen poco capital y experiencia en el mercado. Alto riesgo. Normalmente dependen de algún fondo como Corfo o de inversionistas. Alta probabilidad de que te paguen poco o nada. Muy inestables ya que dependen de factores ajenos a su control (como que su producto sea un éxito, inversionistas den más dinero). Probablemente te ofrezcan un porcentaje de la empresa a cambio de un sueldo ínfimo. No es recomendable aceptar este tipo de ofertas, ya que la mayoría de las startups perecen en los primeros años.
+
+También suelen tener roles poco definidos y se deba realizar labores ajenas a tu área. También la posibilidad de marchas de la muerte seguidas para cumplir los caprichos de los inversionistas y las postulaciones a fondos.
+
+Investigar y evaluar si trabajar en estas condiciones vale la pena. De preferencia buscar Startups con una liquidez ya consolidada para evitar problemas al recibir sueldos.
 
 ## Libros Recomendados
 
