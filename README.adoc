@@ -208,6 +208,10 @@ De todas formas siempre es recomendable tener un plan B, teniendo una pequeña e
 
 No te hacen https://en.wikipedia.org/wiki/Micromanagement[Micromanagement]. Confían en tu criterio para tomar decisiones sobre cómo resolver mejor los problemas y tareas. También sobre tus habilidades para ordenar tus tiempos y cumplir los objetivos pactados.
 
+### Baja rotación de personal
+
+Si notas que las personas vienen y se van muy seguido. Tienen una alta rotación. Esto son indicadores de un ambiente perjudicial. Las buenas empresas tienen personas que han estado en su cargo por mucho tiempo, incluso varios años, ya que sienten que es un buen lugar para trabajar.
+
 ## Tips para Entrevistas Laborales
 
 En la https://beerjs.cl/santiago[Beer.JS Santiago] de Octubre del 2019, *Jorge Epuñan* nos compartió sus tips para entrevistas laborales. Pueden verlo acá (Comienza en el minuto 32). https://youtu.be/wB79gsTfmZY?t=1976[Video de BeerJS Santiago Octubre 2019]. https://www.beerjs.cl/santiago/oct2019/[Presentación].  https://github.com/beerjs/santiago/issues/88[GitHub].
@@ -299,8 +303,19 @@ En el caso en que tú seas quien busque personas para contratar. Trabajar con am
 ## Tipos de Empresa
 
 En el mundo de las tecnologías hay distintos tipos de empresa que te puedes topar. Unas son buenas y otras es mejor evitar.
+La siguiente tabla muestra el nivel de riesgo de padecer burn out, marchas de la muerte, problemas de gestión, malos pagos o francamente una mala experiencia laboral.
 
-### Moledora de Carne (Evitar)
+[width="15%"]
+|=======
+| *Emoji* | *Descripción*
+|☠️ | Alto riesgo. Evitar.
+|⚠️ | Riesgo considerable. Investigar y meditar antes de tomar la decisión.
+|📉| Riesgo Aceptable. La mayoría de las empresas tendrán condiciones aceptables.
+|💖| Excelente lugar. Si logras entrar a una empresa así, serás muy afortunado.
+|=======
+
+
+### Moledora de Carne (☠️)
 
 Esta empresa se dedica a la subcontratación. Clientes vienen y les piden personal para elaborar un proyecto. Normalmente no tienen muy buenas prácticas y tu sueldo no será el mejor (aunque ellos cobrarán mucho más). El contrato será con la moledora y no con la empresa a la cual realizas el proyecto. Usualmente te tocan proyectos cachos que nadie más quiere hacer con tecnologías, plazos o condiciones antiguas y adversas. Alta probabilidad de https://en.wikipedia.org/wiki/Occupational_burnout[Burn Out].
 
@@ -308,13 +323,53 @@ Se les dicen moledoras de carne por que te exprimen cada gota de sudor y sangre 
 
 Hay empresas de subcontratación decentes, pero tienes que hacer un proceso de investigación correspondiente antes de aceptar ingresar a ese tipo de empresas.
 
-### Startup (Cuidado)
+### Startup (⚠️)
 
 Empresas que tienen poco capital y experiencia en el mercado. Alto riesgo. Normalmente dependen de algún fondo como Corfo o de inversionistas. Alta probabilidad de que te paguen poco o nada. Muy inestables ya que dependen de factores ajenos a su control (como que su producto sea un éxito, inversionistas den más dinero). Probablemente te ofrezcan un porcentaje de la empresa a cambio de un sueldo ínfimo. No es recomendable aceptar este tipo de ofertas, ya que la mayoría de las startups perecen en los primeros años.
 
 También suelen tener roles poco definidos y se deba realizar labores ajenas a tu área. También la posibilidad de marchas de la muerte seguidas para cumplir los caprichos de los inversionistas y las postulaciones a fondos.
 
 Investigar y evaluar si trabajar en estas condiciones vale la pena. De preferencia buscar Startups con una liquidez ya consolidada para evitar problemas al recibir sueldos.
+
+### Agencia de Marketing (⚠️)
+
+Estas empresas se dedican a realizar sistemas para campañas publicitarias o apoyo a estas. Páginas webs, captación de usuarios y sistemas de análisis de campañas son proyectos comunes. El principal drama son los plazos extremadamente acotados (2 a 3 semanas) para sistemas completos. El burn out es muy probable y la calidad del software que se realice debido a estos plazos es cuestionable.
+
+Antes de entrar a una agencia procura que cumplan con un buen stack tecnológico y de gestión de proyectos. Con sueldos apropiados. Mucha de estas agencias utilizan la técnica de contratar prácticantes universitarios y elaborar todos los proyectos con una alta rotación de personal. Su prioridad es cumplir con lo que se le prometió al cliente, con el menor plazo y coste posible.
+
+Haz una buena investigación y obtención de referencias antes de entrar.
+
+### Software Factory (⚠️)
+
+Similar a la agencia de marketing, existe la fábrica de software. Se diferencian por que su foco no es la publicidad, pero si la elaboración de sistemas de software. Ten cuidado ya que muchas al igual que la agencia, prioriza plazos cortos y bajos costos frente a la calidad del software y la calidad de vida de las personas.
+
+Haz una buena investigación antes de entrar.
+
+### Bancos (📉)
+
+En los bancos y otras instituciones financieras te puedes encontrar con tecnologías del año de la cocoa (sistemas legacy como https://es.wikipedia.org/wiki/AS/400[AS400], https://es.wikipedia.org/wiki/COBOL[Cobol], https://en.wikipedia.org/wiki/Visual_Basic[Visual Basic 6],https://en.wikipedia.org/wiki/DBase[Dbase], https://en.wikipedia.org/wiki/Sybase[Sybase]). Pero también (dependiendo del banco) prácticas y tecnologías más modernas. Los bancos suelen trabajar con tecnologías en las cuales una empresa internacional como Oracle, IBM, Microsoft, SAP, ofrece soporte técnico y capacitación. Pagan millonarias sumas por licencias.
+
+El riesgo que tiene esta empresa es quedarse estancado con tecnologías empresariales. Ofrecen relativa estabilidad pero tienen prácticas como vestir formal que poco a poco se estan diluyendo. Ve a este tipo de empresas si deseas dar mantención a sistemas antiguos y una estabilidad laboral con sueldos aceptables, pero proyectos quizás menos entretenidos.
+
+La mayoría requiere de título universitario en el área informática o relacionado, para ser aceptado.
+
+Burocracia considerable.
+
+Tecnologías recomendadas para aprender: _Java, Oracle DB, Cobol, .NET, SAP_.
+
+### Instituciones Estatales (📉)
+
+Instituciones como Hospitales, Cámara de Diputados, Registro civil y otros relacionados. Cuentan con departamentos de informática. Las principales labores son soporte técnico (reparar computadores, redes y equipos de oficina, gestionar sistemas de información, dar asesoría técnica a los usuarios). Gran parte de sus sistemas son elaborados por contratistas, el desarrollo interno no es mucho (aunque depende de cada institución).
+
+El título universitario puede ser opcional, sin embargo tener uno puede significar la diferencia entre ganar el sueldo mínimo y tres veces más. Ya que las remuneraciones están basadas en grados y un título da muchos puntos para mejorar el grado.
+
+Usualmente dan contratos a plazo fijo y reemplazos antes de darte un cupo definitivo. Una vez que tienes contrato indefinido puedes tener pega por muchos años. Pero igualmente puedes estar años esperando ese cupo.
+
+Los sueldos no son los mejores, pero si se puede hacer carrera y subir el sueldo con los años y estudios.
+
+Mucho de los procesos ya están pensados, la burocracia es alta. 
+
+Tecnologías recomendadas para aprender: _Gestión de proyectos, Análisis y Diseño de Sistemas, Base de datos, .NET, Java, PHP_.
 
 ## Libros Recomendados
 
