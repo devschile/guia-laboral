@@ -345,9 +345,9 @@ Similar a la agencia de marketing, existe la fábrica de software. Se diferencia
 
 Haz una buena investigación antes de entrar.
 
-### Bancos (📉)
+### Bancos y Minería (📉)
 
-En los bancos y otras instituciones financieras te puedes encontrar con tecnologías del año de la cocoa (sistemas legacy como https://es.wikipedia.org/wiki/AS/400[AS400], https://es.wikipedia.org/wiki/COBOL[Cobol], https://en.wikipedia.org/wiki/Visual_Basic[Visual Basic 6], https://en.wikipedia.org/wiki/DBase[Dbase], https://en.wikipedia.org/wiki/Sybase[Sybase]). Pero también (dependiendo del banco) prácticas y tecnologías más modernas. Los bancos suelen trabajar con tecnologías en las cuales una empresa internacional como Oracle, IBM, Microsoft, SAP, ofrece soporte técnico y capacitación. Pagan millonarias sumas por licencias.
+En los bancos y otras instituciones financieras o mineras te puedes encontrar con tecnologías del año de la cocoa (sistemas legacy como https://es.wikipedia.org/wiki/AS/400[AS400], https://es.wikipedia.org/wiki/COBOL[Cobol], https://en.wikipedia.org/wiki/Visual_Basic[Visual Basic 6], https://en.wikipedia.org/wiki/DBase[Dbase], https://en.wikipedia.org/wiki/Sybase[Sybase]). Pero también (dependiendo del banco) prácticas y tecnologías más modernas. Los bancos suelen trabajar con tecnologías en las cuales una empresa internacional como Oracle, IBM, Microsoft, SAP, ofrece soporte técnico y capacitación. Pagan millonarias sumas por licencias.
 
 El riesgo que tiene esta empresa es quedarse estancado con tecnologías empresariales. Ofrecen relativa estabilidad pero tienen prácticas como vestir formal que poco a poco se estan diluyendo. Ve a este tipo de empresas si deseas dar mantención a sistemas antiguos y una estabilidad laboral con sueldos aceptables, pero proyectos quizás menos entretenidos.
 
@@ -371,11 +371,23 @@ Mucho de los procesos ya están pensados, la burocracia es alta.
 
 Tecnologías recomendadas para aprender: _Gestión de proyectos, Análisis y Diseño de Sistemas, Base de datos, .NET, Java, PHP_.
 
+### Servicios Básicos (📉)
+
+Similares a los Bancos e Instituciones Estatales. Las empresas de servicios básicos como agua, luz, gas, internet cuentan con sistemas legacy y alguno que otro proyecto con nuevas tecnologías. Muchas veces conviene más ser contratista de estas empresas a ser contratado directamente. La recomendación es trabajar como empleado un par de años para conocer su ambiente, además de tener contactos y luego fundar una empresa que les brinde servicios adaptados a sus necesidades.
+
 ### Escuelas de educación básica, media (📉)
 
 Al igual que con las instituciones estatales, las escuelas de educación básica y media tienen un área informática. Normalmente dedicada a la gestión de los equipos computacionales y solución de problemas de los usuarios. Quizás tengan sistemas para la gestión de notas, página web y otros como https://moodle.org/[Moodle]. Los sueldos no son muy elevados (dependiendo del lugar), pero tiene el plus de estar aportando en hacer una diferencia en la vida de los jóvenes.
 
 Si deseas hacer clases o participar en un proyecto educativo quizás este tipo de organización sea para ti. No es necesario tener un título relacionado a la informática, pero si sería de mucha ayuda uno relacionado a la educación.
+
+Carrera recomendada: Pedagogía en Matemáticas y Computación (http://portal.beneficiosestudiantiles.cl/becas-y-creditos/beca-vocacion-de-profesor-pedagogias-bvp-pedagogia[Usa la beca vocación de profesor]).
+
+### Empresas con Producto y/o Servicio Definido (📉)
+
+Normalmente comenzaron como una Startup, pero llevan más de 5 años y tienen una buena salud financiera. Su producto o servicio es rentable y tiene ingresos constantes. Entra a esta organización si te gusta el servicio o producto que tienen y te vez aportando a su evolución.
+
+Se diferencian a la Software Factory por que la mayor parte de sus proyectos están relacionados al producto o servicio en ves de un cliente externo. Por ejemplo armar un dashboard que tenga indicadores sobre el avance del producto, mejorar los sistemas de comunicación interna y otros.
 
 ## Libros Recomendados
 
