@@ -300,9 +300,9 @@ Algunas empresas te podrían descartar si no conoces tecnología a, b, c. Pero t
 
 En el caso en que tú seas quien busque personas para contratar. Trabajar con amigos o familiares cercanos es un arma de doble filo. Si tienes un proyecto o empresa y contratas sus servicios, puede haber acuerdos implícitos. Básicamente puedes causar la ruptura de tu círculo de amigos y familiares cercanos, por ejemplo si no son las personas idóneas para la labor y debes despedirlas. No todas las personas pueden separar relaciones laborales con personales.
 
-## Tipos de Empresa
+## Tipos de Organizaciones
 
-En el mundo de las tecnologías hay distintos tipos de empresa que te puedes topar. Unas son buenas y otras es mejor evitar.
+En el mundo de las tecnologías hay distintos tipos de organización que te puedes topar. Unas son buenas y otras es mejor evitar.
 La siguiente tabla muestra el nivel de riesgo de padecer burn out, marchas de la muerte, problemas de gestión, malos pagos o francamente una mala experiencia laboral.
 
 [width="15%"]
@@ -347,7 +347,7 @@ Haz una buena investigación antes de entrar.
 
 ### Bancos (📉)
 
-En los bancos y otras instituciones financieras te puedes encontrar con tecnologías del año de la cocoa (sistemas legacy como https://es.wikipedia.org/wiki/AS/400[AS400], https://es.wikipedia.org/wiki/COBOL[Cobol], https://en.wikipedia.org/wiki/Visual_Basic[Visual Basic 6],https://en.wikipedia.org/wiki/DBase[Dbase], https://en.wikipedia.org/wiki/Sybase[Sybase]). Pero también (dependiendo del banco) prácticas y tecnologías más modernas. Los bancos suelen trabajar con tecnologías en las cuales una empresa internacional como Oracle, IBM, Microsoft, SAP, ofrece soporte técnico y capacitación. Pagan millonarias sumas por licencias.
+En los bancos y otras instituciones financieras te puedes encontrar con tecnologías del año de la cocoa (sistemas legacy como https://es.wikipedia.org/wiki/AS/400[AS400], https://es.wikipedia.org/wiki/COBOL[Cobol], https://en.wikipedia.org/wiki/Visual_Basic[Visual Basic 6], https://en.wikipedia.org/wiki/DBase[Dbase], https://en.wikipedia.org/wiki/Sybase[Sybase]). Pero también (dependiendo del banco) prácticas y tecnologías más modernas. Los bancos suelen trabajar con tecnologías en las cuales una empresa internacional como Oracle, IBM, Microsoft, SAP, ofrece soporte técnico y capacitación. Pagan millonarias sumas por licencias.
 
 El riesgo que tiene esta empresa es quedarse estancado con tecnologías empresariales. Ofrecen relativa estabilidad pero tienen prácticas como vestir formal que poco a poco se estan diluyendo. Ve a este tipo de empresas si deseas dar mantención a sistemas antiguos y una estabilidad laboral con sueldos aceptables, pero proyectos quizás menos entretenidos.
 
@@ -370,6 +370,12 @@ Los sueldos no son los mejores, pero si se puede hacer carrera y subir el sueldo
 Mucho de los procesos ya están pensados, la burocracia es alta. 
 
 Tecnologías recomendadas para aprender: _Gestión de proyectos, Análisis y Diseño de Sistemas, Base de datos, .NET, Java, PHP_.
+
+### Escuelas de educación básica, media (📉)
+
+Al igual que con las instituciones estatales, las escuelas de educación básica y media tienen un área informática. Normalmente dedicada a la gestión de los equipos computacionales y solución de problemas de los usuarios. Quizás tengan sistemas para la gestión de notas, página web y otros como https://moodle.org/[Moodle]. Los sueldos no son muy elevados (dependiendo del lugar), pero tiene el plus de estar aportando en hacer una diferencia en la vida de los jóvenes.
+
+Si deseas hacer clases o participar en un proyecto educativo quizás este tipo de organización sea para ti. No es necesario tener un título relacionado a la informática, pero si sería de mucha ayuda uno relacionado a la educación.
 
 ## Libros Recomendados
 
