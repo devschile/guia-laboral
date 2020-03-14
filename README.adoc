@@ -127,6 +127,8 @@ y definir si es suficiente para tus necesidades y expectativas. También debe se
 
 Las modalidades de pago usualmente son mensual, quincenal o semanal (la mejor, estilo USA). Si se comprometen a pagar en una fecha y no lo cumplen, no debería pasar más de una semana para que paguen. Caso contrario es mejor buscar una empresa más predecible con los pagos. Las deudas, el arriendo, las cuentas de gastos básicos necesitan pagarse y no te esperarán si no tienes dinero. Esto puede pasar normalmente en Startups que dependen de inversionistas para tener fondos y que no te puedan asegurar una fecha predecible.
 
+Un sueldo de una buena pega promedia los _$2.000 USD_ o más (sobre un millón de pesos chilenos) en Santiago.
+
 ### Te facilitan equipos decentes para trabajar
 
 Algunas empresas esperan a que tu traigas tu computador para trabajar. Esto es viable solo si en el contrato se especifica que ellos se harán cargo por si el equipo sufre daños, hurto o similares en el recorrido de pega - casa, casa - pega y además incluya un bono por fatiga de material en el sueldo. Cada empresa debe facilitar un equipo con características decentes para trabajar, no una máquina lenta que apenas pueda correr windows 10.
@@ -355,7 +357,7 @@ La mayoría requiere de título universitario en el área informática o relacio
 
 Burocracia considerable.
 
-Tecnologías recomendadas para aprender: _Java, Oracle DB, Cobol, .NET, SAP_.
+*Tecnologías recomendadas para aprender*: _Java, Oracle DB, Cobol, .NET, SAP_.
 
 ### Instituciones Estatales (📉)
 
@@ -369,7 +371,7 @@ Los sueldos no son los mejores, pero si se puede hacer carrera y subir el sueldo
 
 Mucho de los procesos ya están pensados, la burocracia es alta. 
 
-Tecnologías recomendadas para aprender: _Gestión de proyectos, Análisis y Diseño de Sistemas, Base de datos, .NET, Java, PHP_.
+*Tecnologías recomendadas para aprender*: _Gestión de proyectos, Análisis y Diseño de Sistemas, Base de datos, .NET, Java, PHP_.
 
 ### Servicios Básicos (📉)
 
@@ -381,13 +383,37 @@ Al igual que con las instituciones estatales, las escuelas de educación básica
 
 Si deseas hacer clases o participar en un proyecto educativo quizás este tipo de organización sea para ti. No es necesario tener un título relacionado a la informática, pero si sería de mucha ayuda uno relacionado a la educación.
 
-Carrera recomendada: Pedagogía en Matemáticas y Computación (http://portal.beneficiosestudiantiles.cl/becas-y-creditos/beca-vocacion-de-profesor-pedagogias-bvp-pedagogia[Usa la beca vocación de profesor]).
+*Carrera recomendada*: _Pedagogía en Matemáticas y Computación_ (http://portal.beneficiosestudiantiles.cl/becas-y-creditos/beca-vocacion-de-profesor-pedagogias-bvp-pedagogia[Usa la beca vocación de profesor]).
 
-### Empresas con Producto y/o Servicio Definido (📉)
+### Empresas con producto y/o servicio definido (📉)
 
 Normalmente comenzaron como una Startup, pero llevan más de 5 años y tienen una buena salud financiera. Su producto o servicio es rentable y tiene ingresos constantes. Entra a esta organización si te gusta el servicio o producto que tienen y te vez aportando a su evolución.
 
 Se diferencian a la Software Factory por que la mayor parte de sus proyectos están relacionados al producto o servicio en ves de un cliente externo. Por ejemplo armar un dashboard que tenga indicadores sobre el avance del producto, mejorar los sistemas de comunicación interna y otros.
+
+## Trabajo Remoto
+
+Trabajar de forma remota es una buena opción para todos aquellos que desean tener un estilo de vida más libre. Sin la obligación de asistir a una oficina todos los días. Sin tener que viajar una, dos, o hasta cuatro horas en el transporte público o tener que manejar ese tiempo.
+
+Lamentablemente en Chile, muchas organizaciones aún no están listas para implementar el trabajo remoto. Pero existen algunas empresas nacionales y muchas empresas internacionales que dan esta posibilidad.
+
+### Equipo necesario
+
+Como mínimo necesitas los siguientes equipos para poder trabajar remotamente:
+
+1 - Notebook bueno. El notebook es la herramienta adecuada para poder moverse con agilidad. Se recomienda uno con características similares a un Macbook Air 2017+. La duración de la batería es uno de los puntos claves.
+
+2 - Audífonos y micrófono bueno. Las reuniones son via videoconferencia, por lo que necesitas una buena calidad de sonido.
+
+3 - Internet 4G Móvil. No puedes depender del internet que da Starbucks o los Cowork del Santander. Debido a que normalmente son lentos o tienen puertos bloqueados que te impedirán realizar ciertas tareas informáticas. Además del riesgo de seguridad que significa usar un internet que no controlas.
+
+4 - Buena mesa y buena silla. Tener un escritorio y silla adecuadas son muy importantes. Procura invertir en algo que te permita estar sentado por largos periodos y no te arruine la postura.
+
+### Ambiente necesario
+
+Para trabajar debes tener un ambiente adecuado. Puede ser en tu casa, en una oficina pequeña, biblioteca pública, en un café como Starbucks o un cowork como los del banco Santander. Lo importante es que este espacio tenga lo que necesitas para estar tranquilo y concentrado por periodos largos.
+
+Define un horario al igual que si estuvieras en una oficina normal. Si trabajas desde la casa probablemente tengas problemas al separar vida laboral con vida personal. Lo mejor es tener un horario y respetarlo. Quizás tener un cambio de ropa para modo trabajo y modo casa. La recomendación es tener un espacio dedicado y exclusivo para trabajar.
 
 ## Libros Recomendados
 
@@ -404,6 +430,10 @@ Se diferencian a la Software Factory por que la mayor parte de sus proyectos est
 - https://www.amazon.com/Death-March-2nd-Edward-Yourdon/dp/013143635X/ref=sr_1_1?keywords=Death+March&qid=1583638750&s=books&sr=1-1[Death March]
 
 - https://www.amazon.com/Your-First-Year-Code-developers/dp/0578564998/ref=sr_1_1?keywords=Your+first+year+in+code&qid=1583638834&s=books&sr=1-1[Your First Year in Code: A complete guide for new & aspiring developers]
+
+- https://basecamp.com/books/rework[REWORK]
+
+- https://basecamp.com/books/remote[REMOTE]
 
 ## Páginas Relacionadas
 
