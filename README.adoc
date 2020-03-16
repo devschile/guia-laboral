@@ -7,6 +7,12 @@
 En este pequeño documento se detallarán tips para que tengas un buen curriculum. Además de algunas formas
 para detectar y filtrar trabajos que quizás no sean los más convenientes para tu desarrollo profesional/personal.
 
+Escrito por https://ninjas.cl[Camilo Castro] y https://github.com/devschile/guia-laboral/graphs/contributors[colaboradores]. Para https://devschile.cl[DevsChile.cl].
+
+Esta obra está bajo una http://creativecommons.org/licenses/by-nc-sa/4.0/[Licencia Creative Commons Atribución-No-Comercial-Compartir-Igual 4.0 Internacional]
+
+http://creativecommons.org/licenses/by-nc-sa/4.0/[image:https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png[Licencia Creative Commons]]
+
 toc::[]
 
 ## ¿Es Necesario hacer un Curriculum?
@@ -86,7 +92,7 @@ Asegúrate siempre de que algún amigo revise la redacción, gramática y ortogr
 
 Aca esta un _CV_ que te puede servir como referencia para tener un buen formato de curriculum. Es de https://en.wikipedia.org/wiki/Tarah_Wheeler[Tarah Wheeler Van Vlack], una experta en ciber seguridad.
 
-https://user-images.githubusercontent.com/292738/66255233-b8cb1a00-e757-11e9-96f8-7c924417cf2c.png[Ver Imagen Completa] 
+https://user-images.githubusercontent.com/292738/66255233-b8cb1a00-e757-11e9-96f8-7c924417cf2c.png[Ver Imagen de CV Completa] 
 
 ### Proyecto complementario
 
