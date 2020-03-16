@@ -468,6 +468,10 @@ Define un horario al igual que si estuvieras en una oficina normal. Si trabajas 
 
 Es probable que aparezca un sentimiento de soledad al estar largos periodos de tiempo sin interacciones sociales no relacionadas al trabajo. Por lo que debes tener un grupo de amigos y actividades que te den ese apoyo emocional. Muchas empresas realizan actividades para que las personas se conozcan entre sí y puedan entablar relaciones mucho más significativas. 
 
+### Mejor comunicación
+
+Al tener una distancia considerable de tus colaboradores debes comunicar apropiadamente y con un tiempo razonable. La mayor parte de las interacciones serán por via escrita en un chat como Slack o Discord, por lo que procura expresarte apropiadamente para evitar malos entendidos. Comunica tu estado al resto del equipo en casos de que no podrás ser accesible. Lo ideal es tener al menos 2 a 3 horas que se puedan tener para coordinar con personas en distintos husos horarios.
+
 ## Tipos de Contrato
 
 Hay variadas formas de trabajar. Los diferentes tipos de contrato serán definidos a continuación. La lista no es exhaustiva pero servirá como una pequeña ayuda. 
@@ -557,3 +561,4 @@ Similar al de plazo fijo, pero sin duración determinada.
 - https://www.salary.com/
 - https://www.wayup.com/
 - https://devschile.cl
+- https://programadores.cl
