@@ -9,7 +9,7 @@ para detectar y filtrar trabajos que quizás no sean los más convenientes para 
 
 toc::[]
 
-## ¿Es necesario hacer un Curriculum?
+## ¿Es Necesario hacer un Curriculum?
 
 Muchas empresas ven al curriculum como una mera formalidad. En el mundo laboral uno es contratado (o rechazado) basado en el historial de lo que se ha realizado. No basado en lo bonito y ordenado que se ve un documento. Para acceder al mundo laboral
 y obtener buenas ofertas uno debe asistir a reuniones, conferencias, tener una prescencia en línea y tener redes de contacto. Es más probable que seas contratado en una empresa donde un amigo te haya recomendado a que si postularas mediante un sitio web de ofertas laborales. En muchas ocaciones simplemente basta un enlace a tu _GitHub_ personal para demostrar tus capacidades. Sin embargo,  al tener un documento con un formato correcto y con los datos apropiados aumentas tus probabilidades de destacar frente a otros postulantes.
@@ -182,7 +182,7 @@ Puede que algunas empresas tengan un proceso de selección muy elaborado, con di
 
 Una modalidad usada en algunos lados es solicitar la elaboración de un proyecto pequeño. Este proyecto no debería tomar más allá de un par de horas (si es que es para la casa) o un par de minutos (si es que es presencial). Cuidado con algunas empresas que utilizan estos proyectos como una forma económica de crear sus productos.
 
-### No son una "Familia"
+### No son una "familia"
 
 Las empresas que utilizan el concepto de familia para describir a su organización, son peligrosas. Una familia no tiene contratos, sueldos ni horarios definidos. Una familia tiene vínculos afectivos que van más allá de simple colaboración laboral. Para tu familia y tus seres queridos tu puedes llegar a realizar sacrificios por lograr un objetivo que los beneficie. Evita empresas que se definan como una familia, por que puede que te engañen para que trabajes más allá de lo acordado en el contrato y realices sacrificios que puedan afectar negativamente a tus seres queridos.
 
@@ -206,7 +206,7 @@ En la antigüedad las personas trabajaban en una sola empresa durante muchos añ
 
 De todas formas siempre es recomendable tener un plan B, teniendo una pequeña empresa o alguna forma de ingreso que no dependa de un solo empleador, ya que las condiciones del mercado o gerencia pueden cambiar brúscamente y eso signifique tu despido.
 
-### Confían en ti
+### Confían en tí
 
 No te hacen https://en.wikipedia.org/wiki/Micromanagement[Micromanagement]. Confían en tu criterio para tomar decisiones sobre cómo resolver mejor los problemas y tareas. También sobre tus habilidades para ordenar tus tiempos y cumplir los objetivos pactados.
 
@@ -401,13 +401,13 @@ Lamentablemente en Chile, muchas organizaciones aún no están listas para imple
 
 Como mínimo necesitas los siguientes equipos para poder trabajar remotamente:
 
-1 - Notebook bueno. El notebook es la herramienta adecuada para poder moverse con agilidad. Se recomienda uno con características similares a un Macbook Air 2017+. La duración de la batería es uno de los puntos claves.
+1 - *Notebook bueno*. El notebook es la herramienta adecuada para poder moverse con agilidad. Se recomienda uno con características similares a un Macbook Air 2017+. La duración de la batería es uno de los puntos claves.
 
-2 - Audífonos y micrófono bueno. Las reuniones son via videoconferencia, por lo que necesitas una buena calidad de sonido.
+2 - *Audífonos y micrófono bueno*. Las reuniones son via videoconferencia, por lo que necesitas una buena calidad de sonido.
 
-3 - Internet 4G Móvil. No puedes depender del internet que da Starbucks o los Cowork del Santander. Debido a que normalmente son lentos o tienen puertos bloqueados que te impedirán realizar ciertas tareas informáticas. Además del riesgo de seguridad que significa usar un internet que no controlas.
+3 - *Internet 4G Móvil*. No puedes depender del internet que da Starbucks o los Cowork del Santander. Debido a que normalmente son lentos o tienen puertos bloqueados que te impedirán realizar ciertas tareas informáticas. Además del riesgo de seguridad que significa usar un internet que no controlas.
 
-4 - Buena mesa y buena silla. Tener un escritorio y silla adecuadas son muy importantes. Procura invertir en algo que te permita estar sentado por largos periodos y no te arruine la postura.
+4 - *Buena mesa y buena silla*. Tener un escritorio y silla adecuadas son muy importantes. Procura invertir en algo que te permita estar sentado por largos periodos y no te arruine la postura.
 
 ### Ambiente necesario
 
