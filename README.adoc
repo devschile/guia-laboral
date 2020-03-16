@@ -490,7 +490,6 @@ En este contrato que pasas a ser un empleado de la empresa, pero con un término
 *Características*
 
 - Tienes un horario definido (Puedes ser obligado a ir a la oficina).
-- La empresa paga tus cotizaciones.
 - Puede ser aplicado el Artículo 22.
 - La duración es de pocos meses.
 - El empleador deben pagar cotizaciones, salud y otros.
@@ -502,7 +501,6 @@ Similar al de plazo fijo, pero sin duración determinada.
 *Características*
 
 - Tienes un horario definido (Puedes ser obligado a ir a la oficina).
-- La empresa paga tus cotizaciones.
 - Puede ser aplicado el Artículo 22.
 - La duración es de largo plazo.
 - El empleador deben pagar cotizaciones, salud y otros.
@@ -523,9 +521,11 @@ Similar al de plazo fijo, pero sin duración determinada.
 
 - https://www.amazon.com/Your-First-Year-Code-developers/dp/0578564998/ref=sr_1_1?keywords=Your+first+year+in+code&qid=1583638834&s=books&sr=1-1[Your First Year in Code: A complete guide for new & aspiring developers]
 
-- https://basecamp.com/books/rework[REWORK]
+- https://basecamp.com/books/rework[Rework]
 
-- https://basecamp.com/books/remote[REMOTE]
+- https://basecamp.com/books/remote[Remote]
+
+- https://basecamp.com/books/calm[It Doesn't Have to Be Crazy at Work]
 
 ## Páginas Relacionadas
 
