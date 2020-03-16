@@ -446,38 +446,6 @@ Se diferencian a la Software Factory por que la mayor parte de sus proyectos est
 
 Similar al software factory.
 
-## Trabajo Remoto
-
-Trabajar de forma remota es una buena opción para todos aquellos que desean tener un estilo de vida más libre. Sin la obligación de asistir a una oficina todos los días. Sin tener que viajar una, dos, o hasta cuatro horas en el transporte público o tener que manejar ese tiempo.
-
-Lamentablemente en Chile, muchas organizaciones aún no están listas para implementar el trabajo remoto. Pero existen algunas empresas nacionales y muchas empresas internacionales que dan esta posibilidad.
-
-### Equipo necesario
-
-Como mínimo necesitas los siguientes equipos para poder trabajar remotamente:
-
-1 - *Notebook bueno*. El notebook es la herramienta adecuada para poder moverse con agilidad. Se recomienda uno con características similares a un Macbook Air 2017+. La duración de la batería es uno de los puntos claves.
-
-2 - *Audífonos y micrófono bueno*. Las reuniones son via videoconferencia, por lo que necesitas una buena calidad de sonido.
-
-3 - *Internet 4G Móvil*. No puedes depender del internet que da Starbucks o los Cowork del Santander. Debido a que normalmente son lentos o tienen puertos bloqueados que te impedirán realizar ciertas tareas informáticas. Además del riesgo de seguridad que significa usar un internet que no controlas.
-
-4 - *Buena mesa y buena silla*. Tener un escritorio y silla adecuadas son muy importantes. Procura invertir en algo que te permita estar sentado por largos periodos y no te arruine la postura.
-
-### Ambiente necesario
-
-Para trabajar debes tener un ambiente adecuado. Puede ser en tu casa, en una oficina pequeña, biblioteca pública, en un café como Starbucks o un cowork como los del banco Santander. Lo importante es que este espacio tenga lo que necesitas para estar tranquilo y concentrado por periodos largos.
-
-Define un horario al igual que si estuvieras en una oficina normal. Si trabajas desde la casa probablemente tengas problemas al separar vida laboral con vida personal. Lo mejor es tener un horario y respetarlo. Quizás tener un cambio de ropa para modo trabajo y modo casa. La recomendación es tener un espacio dedicado y exclusivo para trabajar.
-
-### Vida social
-
-Es probable que aparezca un sentimiento de soledad al estar largos periodos de tiempo sin interacciones sociales no relacionadas al trabajo. Por lo que debes tener un grupo de amigos y actividades que te den ese apoyo emocional. Muchas empresas realizan actividades para que las personas se conozcan entre sí y puedan entablar relaciones mucho más significativas. 
-
-### Mejor comunicación
-
-Al tener una distancia considerable de tus colaboradores debes comunicar apropiadamente y con un tiempo razonable. La mayor parte de las interacciones serán por via escrita en un chat como Slack o Discord, por lo que procura expresarte apropiadamente para evitar malos entendidos. Comunica tu estado al resto del equipo en casos de que no podrás ser accesible. Lo ideal es tener al menos 2 a 3 horas que se puedan tener para coordinar con personas en distintos husos horarios.
-
 ## Tipos de Contrato
 
 Hay variadas formas de trabajar. Los diferentes tipos de contrato serán definidos a continuación. La lista no es exhaustiva pero servirá como una pequeña ayuda. 
@@ -532,6 +500,39 @@ Similar al de plazo fijo, pero sin duración determinada.
 - Puede ser aplicado el Artículo 22.
 - La duración es de largo plazo.
 - El empleador deben pagar cotizaciones, salud y otros.
+
+## Trabajo Remoto
+
+Trabajar de forma remota es una buena opción para todos aquellos que desean tener un estilo de vida más libre. Sin la obligación de asistir a una oficina todos los días. Sin tener que viajar una, dos, o hasta cuatro horas en el transporte público o tener que manejar ese tiempo.
+
+Lamentablemente en Chile, muchas organizaciones aún no están listas para implementar el trabajo remoto. Pero existen algunas empresas nacionales y muchas empresas internacionales que dan esta posibilidad.
+
+### Equipo necesario
+
+Como mínimo necesitas los siguientes equipos para poder trabajar remotamente:
+
+1 - *Notebook bueno*. El notebook es la herramienta adecuada para poder moverse con agilidad. Se recomienda uno con características similares a un Macbook Air 2017+. La duración de la batería es uno de los puntos claves.
+
+2 - *Audífonos y micrófono bueno*. Las reuniones son via videoconferencia, por lo que necesitas una buena calidad de sonido.
+
+3 - *Internet 4G Móvil*. No puedes depender del internet que da Starbucks o los Cowork del Santander. Debido a que normalmente son lentos o tienen puertos bloqueados que te impedirán realizar ciertas tareas informáticas. Además del riesgo de seguridad que significa usar un internet que no controlas.
+
+4 - *Buena mesa y buena silla*. Tener un escritorio y silla adecuadas son muy importantes. Procura invertir en algo que te permita estar sentado por largos periodos y no te arruine la postura.
+
+### Ambiente necesario
+
+Para trabajar debes tener un ambiente adecuado. Puede ser en tu casa, en una oficina pequeña, biblioteca pública, en un café como Starbucks o un cowork como los del banco Santander. Lo importante es que este espacio tenga lo que necesitas para estar tranquilo y concentrado por periodos largos.
+
+Define un horario al igual que si estuvieras en una oficina normal. Si trabajas desde la casa probablemente tengas problemas al separar vida laboral con vida personal. Lo mejor es tener un horario y respetarlo. Quizás tener un cambio de ropa para modo trabajo y modo casa. La recomendación es tener un espacio dedicado y exclusivo para trabajar.
+
+### Vida social
+
+Es probable que aparezca un sentimiento de soledad al estar largos periodos de tiempo sin interacciones sociales no relacionadas al trabajo. Por lo que debes tener un grupo de amigos y actividades que te den ese apoyo emocional. Muchas empresas realizan actividades para que las personas se conozcan entre sí y puedan entablar relaciones mucho más significativas. 
+
+### Mejor comunicación
+
+Al tener una distancia considerable de tus colaboradores debes comunicar apropiadamente y con un tiempo razonable. La mayor parte de las interacciones serán por via escrita en un chat como Slack o Discord, por lo que procura expresarte apropiadamente para evitar malos entendidos. Comunica tu estado al resto del equipo en casos de que no podrás ser accesible. Lo ideal es tener al menos 2 a 3 horas que se puedan tener para coordinar con personas en distintos husos horarios.
+
 
 ## Libros Recomendados
 
