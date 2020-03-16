@@ -305,6 +305,7 @@ En el caso en que tú seas quien busque personas para contratar. Trabajar con am
 ## Tipos de Organizaciones
 
 En el mundo de las tecnologías hay distintos tipos de organización que te puedes topar. Unas son buenas y otras es mejor evitar.
+
 La siguiente tabla muestra el nivel de riesgo de padecer burn out, marchas de la muerte, problemas de gestión, malos pagos o francamente una mala experiencia laboral.
 
 [width="15%"]
@@ -312,9 +313,11 @@ La siguiente tabla muestra el nivel de riesgo de padecer burn out, marchas de la
 | *Emoji* | *Descripción*
 |☠️ | Alto riesgo. Evitar.
 |⚠️ | Riesgo considerable. Investigar y meditar antes de tomar la decisión.
-|📉| Riesgo Aceptable. La mayoría de las empresas tendrán condiciones aceptables.
+|🆗| Riesgo Aceptable. La mayoría de las empresas tendrán condiciones aceptables.
 |💖| Excelente lugar. Si logras entrar a una empresa así, serás muy afortunado.
 |=======
+
+Independiente del riesgo, todas pueden sufir de malas prácticas laborales por lo que siempre se debe estar atento y velar por que se cumplan la mayor cantidad de características de una buena pega posible.
 
 
 ### Moledora de carne (☠️)
@@ -363,7 +366,7 @@ Haz una buena investigación antes de entrar.
 
 También puedes entrar a este tipo de organización si no tienes un título. Aunque se prefieren a las personas con estudios formales. Normalmente realizan una prueba técnica antes de entrar. Se recomienda conocer bien un área como frontend o backend.
 
-### Bancos y minería (📉)
+### Bancos y minería (🆗)
 
 En los bancos y otras instituciones financieras o mineras te puedes encontrar con tecnologías del año de la cocoa (sistemas legacy como https://es.wikipedia.org/wiki/AS/400[AS400], https://es.wikipedia.org/wiki/COBOL[Cobol], https://en.wikipedia.org/wiki/Visual_Basic[Visual Basic 6], https://en.wikipedia.org/wiki/DBase[Dbase], https://en.wikipedia.org/wiki/Sybase[Sybase]). Pero también (dependiendo del banco) prácticas y tecnologías más modernas. Los bancos suelen trabajar con tecnologías en las cuales una empresa internacional como Oracle, IBM, Microsoft, SAP, ofrece soporte técnico y capacitación. Pagan millonarias sumas por licencias.
 
@@ -379,7 +382,7 @@ Burocracia considerable.
 
 Generalmente sí. Priorizan personas con un título universitario formal. Ojalá con magister o doctorado.
 
-### Instituciones estatales (📉)
+### Instituciones estatales (🆗)
 
 Instituciones como Hospitales, Cámara de Diputados, Registro civil y otros relacionados. Cuentan con departamentos de informática. Las principales labores son soporte técnico (reparar computadores, redes y equipos de oficina, gestionar sistemas de información, dar asesoría técnica a los usuarios). Gran parte de sus sistemas son elaborados por contratistas, el desarrollo interno no es mucho (aunque depende de cada institución).
 
@@ -397,7 +400,7 @@ Mucho de los procesos ya están pensados, la burocracia es alta.
 
 Generalmente sí, es conveniente tener un título universitario para ganar más dinero.
 
-### Servicios básicos (📉)
+### Servicios básicos (🆗)
 
 Similares a los Bancos e Instituciones Estatales. Las empresas de servicios básicos como agua, luz, gas, internet cuentan con sistemas legacy y alguno que otro proyecto con nuevas tecnologías. Muchas veces conviene más ser contratista de estas empresas a ser contratado directamente. La recomendación es trabajar como empleado un par de años para conocer su ambiente, además de tener contactos y luego fundar una empresa que les brinde servicios adaptados a sus necesidades.
 
@@ -405,7 +408,7 @@ Similares a los Bancos e Instituciones Estatales. Las empresas de servicios bás
 
 Similar a software factory, los bancos o instituciones estatales.
 
-### Escuelas de educación básica, media (📉)
+### Escuelas de educación básica, media (🆗)
 
 Al igual que con las instituciones estatales, las escuelas de educación básica y media tienen un área informática. Normalmente dedicada a la gestión de los equipos computacionales y solución de problemas de los usuarios. Quizás tengan sistemas para la gestión de notas, página web y otros como https://moodle.org/[Moodle]. Los sueldos no son muy elevados (dependiendo del lugar), pero tiene el plus de estar aportando en hacer una diferencia en la vida de los jóvenes.
 
@@ -417,7 +420,7 @@ Si deseas hacer clases o participar en un proyecto educativo quizás este tipo d
 
 Podrías entrar como servicio técnico con un par de certificaciones técnicas. Aunque si deseas hacer clases, una carrera o magíster en docencia es de ayuda.
 
-### Universidades e institutos (📉)
+### Universidades e institutos (🆗)
 
 En las universidades se puede trabajar como profesor (de preferencia con un magister en educación) o como miembro del equipo de TI. Las labores son similares a una escuela de educación media y organizaciones estatales. Existen algunas universidades que tienen áreas de investigación y desarrollo que también se puede participar, como por ejemplo el http://www.cmm.uchile.cl/[Laboratorio Nacional de Computación de Alto Rendimiento (NLHPC)].
 
@@ -427,7 +430,7 @@ En las universidades se puede trabajar como profesor (de preferencia con un magi
 
 Similar a la educación media.
 
-### Empresas con producto y/o servicio definido (📉)
+### Empresas con producto y/o servicio definido (🆗)
 
 Normalmente comenzaron como una Startup, pero llevan más de 5 años y tienen una buena salud financiera. Su producto o servicio es rentable y tiene ingresos constantes. Entra a esta organización si te gusta el servicio o producto que tienen y te vez aportando a su evolución.
 
