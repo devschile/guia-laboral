@@ -423,11 +423,11 @@ Es probable que aparezca un sentimiento de soledad al estar largos periodos de t
 
 Hay variadas formas de trabajar. Los diferentes tipos de contrato serán definidos a continuación. La lista no es exhaustiva pero servirá como una pequeña ayuda. 
 
-Antes de firmar cualquier contrato léanlo apropiadamente, para evitar (cláusulas leoninas)[https://es.wikipedia.org/wiki/Cl%C3%A1usula_abusiva]. Por favor asesórense apropiadamente con personas con más experiencia antes de firmar cualquier cosa.
+Antes de firmar cualquier contrato léanlo apropiadamente, para evitar https://es.wikipedia.org/wiki/Cl%C3%A1usula_abusiva[cláusulas leoninas]. Por favor asesórense apropiadamente con personas con más experiencia antes de firmar cualquier cosa.
 
 ### Prestación de Servicios
 
-En este contrato la empresa te solicita realizar un servicio. Este contrato es ideal para (Freelancers)[https://en.wikipedia.org/wiki/Freelancer] ya que es uno de los más flexibles y te permite trabajar remotamente, con quizás pocas reuniones presenciales.
+En este contrato la empresa te solicita realizar un servicio. Este contrato es ideal para https://en.wikipedia.org/wiki/Freelancer[Freelancers] ya que es uno de los más flexibles y te permite trabajar remotamente, con quizás pocas reuniones presenciales.
 
 #### Características
 
@@ -435,7 +435,7 @@ En este contrato la empresa te solicita realizar un servicio. Este contrato es i
 - No tiene requisito presencial. No te pueden obligar a cumplir horarios en una oficina, es totalmente opcional.
 - Tiene una duración fija.
 - Solo te pagan el valor estipulado en el contrato, no incluye cotizaciones, salud u otros trámites (tu te las tienes que pagar).
-- Debes tener iniciación de actividades en el (Servicio de Impuestos Internos)[www.sii.cl]. Para poder dar boletas de honorarios.
+- Debes tener iniciación de actividades en el http://www.sii.cl[Servicio de Impuestos Internos]. Para poder dar boletas de honorarios.
 
 ### Contrato a Plazo Fijo
 
@@ -447,6 +447,7 @@ En este contrato que pasas a ser un empleado de la empresa, pero con un término
 - La empresa paga tus cotizaciones.
 - Puede ser aplicado el Artículo 22.
 - La duración es de pocos meses.
+- El empleador deben pagar cotizaciones, salud y otros.
 
 ### Contrato Indefinido.
 
@@ -458,6 +459,7 @@ Similar al de plazo fijo, pero sin duración determinada.
 - La empresa paga tus cotizaciones.
 - Puede ser aplicado el Artículo 22.
 - La duración es de largo plazo.
+- El empleador deben pagar cotizaciones, salud y otros.
 
 ## Libros Recomendados
 
