@@ -298,7 +298,7 @@ Tu currículum es un texto que por más bonito que sea, siempre le faltarán det
 
 Algunas empresas te podrían descartar si no conoces tecnología a, b, c. Pero tal vez tu les puedas demostrar que si puedes aprender rápido. Pero si no agendas reunión para convencerlos y saltarte el proceso de selección automático que descarta solo por criterios arbitrarios, no podrás tener esa oportunidad.
 
-## ¿Se recomienda contratar amigos o familiares?
+### ¿Se recomienda contratar amigos o familiares?
 
 En el caso en que tú seas quien busque personas para contratar. Trabajar con amigos o familiares cercanos es un arma de doble filo. Si tienes un proyecto o empresa y contratas sus servicios, puede haber acuerdos implícitos. Básicamente puedes causar la ruptura de tu círculo de amigos y familiares cercanos, por ejemplo si no son las personas idóneas para la labor y debes despedirlas. No todas las personas pueden separar relaciones laborales con personales.
 
@@ -418,6 +418,46 @@ Define un horario al igual que si estuvieras en una oficina normal. Si trabajas 
 ### Vida social
 
 Es probable que aparezca un sentimiento de soledad al estar largos periodos de tiempo sin interacciones sociales no relacionadas al trabajo. Por lo que debes tener un grupo de amigos y actividades que te den ese apoyo emocional. Muchas empresas realizan actividades para que las personas se conozcan entre sí y puedan entablar relaciones mucho más significativas. 
+
+## Tipos de Contrato
+
+Hay variadas formas de trabajar. Los diferentes tipos de contrato serán definidos a continuación. La lista no es exhaustiva pero servirá como una pequeña ayuda. 
+
+Antes de firmar cualquier contrato léanlo apropiadamente, para evitar [cláusulas leoninas](https://es.wikipedia.org/wiki/Cl%C3%A1usula_abusiva). Por favor asesórense apropiadamente con personas con más experiencia antes de firmar cualquier cosa.
+
+### Prestación de Servicios
+
+En este contrato la empresa te solicita realizar un servicio. Este contrato es ideal para [Freelancers](https://en.wikipedia.org/wiki/Freelancer) ya que es uno de los más flexibles y te permite trabajar remotamente, con quizás pocas reuniones presenciales.
+
+#### Características
+
+- No tiene horario definido. Puedes trabajar 2 horas o 20 horas al día. Lo defines tu, lo importante es cumplir el objetivo.
+- No tiene requisito presencial. No te pueden obligar a cumplir horarios en una oficina, es totalmente opcional.
+- Tiene una duración fija.
+- Solo te pagan el valor estipulado en el contrato, no incluye cotizaciones, salud u otros trámites (tu te las tienes que pagar).
+- Debes tener iniciación de actividades en el [Servicio de Impuestos Internos](www.sii.cl). Para poder dar boletas de honorarios.
+
+### Contrato a Plazo Fijo
+
+En este contrato que pasas a ser un empleado de la empresa, pero con un término definido. Si te dan 3 contratos a plazo fijo seguidos, la empresa está obligada a dar un contrato indefinido. Por lo que algunas empresas prefieren el de prestación de servicios.
+
+#### Características
+
+- Tienes un horario definido (Puedes ser obligado a ir a la oficina).
+- La empresa paga tus cotizaciones.
+- Puede ser aplicado el Artículo 22.
+- La duración es de pocos meses.
+
+### Contrato Indefinido.
+
+Similar al de plazo fijo, pero sin duración determinada.
+
+#### Características
+
+- Tienes un horario definido (Puedes ser obligado a ir a la oficina).
+- La empresa paga tus cotizaciones.
+- Puede ser aplicado el Artículo 22.
+- La duración es de largo plazo.
 
 ## Libros Recomendados
 
