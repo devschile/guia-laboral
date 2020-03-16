@@ -385,6 +385,12 @@ Si deseas hacer clases o participar en un proyecto educativo quizás este tipo d
 
 *Carrera recomendada*: _Pedagogía en Matemáticas y Computación_ (http://portal.beneficiosestudiantiles.cl/becas-y-creditos/beca-vocacion-de-profesor-pedagogias-bvp-pedagogia[Usa la beca vocación de profesor]).
 
+### Universidades (📉)
+
+En las universidades se puede trabajar como profesor (de preferencia con un magister en educación) o como miembro del equipo de TI. Las labores son similares a una escuela de educación media y organizaciones estatales. Existen algunas universidades que tienen áreas de investigación y desarrollo que también se puede participar, como por ejemplo el http://www.cmm.uchile.cl/[Laboratorio Nacional de Computación de Alto Rendimiento (NLHPC)].
+
+*Estudios recomendados*: Magíster en Matemática, Física, Estadísticas, Astronomía, Docencia, Python, https://www.lpi.org/our-certifications/exam-101-objectives[Certificación LPIC], https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~overview[Certificación CCNA].
+
 ### Empresas con producto y/o servicio definido (📉)
 
 Normalmente comenzaron como una Startup, pero llevan más de 5 años y tienen una buena salud financiera. Su producto o servicio es rentable y tiene ingresos constantes. Entra a esta organización si te gusta el servicio o producto que tienen y te vez aportando a su evolución.
@@ -425,11 +431,11 @@ Hay variadas formas de trabajar. Los diferentes tipos de contrato serán definid
 
 Antes de firmar cualquier contrato léanlo apropiadamente, para evitar https://es.wikipedia.org/wiki/Cl%C3%A1usula_abusiva[cláusulas leoninas]. Por favor asesórense apropiadamente con personas con más experiencia antes de firmar cualquier cosa.
 
-### Prestación de Servicios
+### Prestación de servicios
 
 En este contrato la empresa te solicita realizar un servicio. Este contrato es ideal para https://en.wikipedia.org/wiki/Freelancer[Freelancers] ya que es uno de los más flexibles y te permite trabajar remotamente, con quizás pocas reuniones presenciales.
 
-#### Características
+*Características*
 
 - No tiene horario definido. Puedes trabajar 2 horas o 20 horas al día. Lo defines tu, lo importante es cumplir el objetivo.
 - No tiene requisito presencial. No te pueden obligar a cumplir horarios en una oficina, es totalmente opcional.
@@ -437,11 +443,11 @@ En este contrato la empresa te solicita realizar un servicio. Este contrato es i
 - Solo te pagan el valor estipulado en el contrato, no incluye cotizaciones, salud u otros trámites (tu te las tienes que pagar).
 - Debes tener iniciación de actividades en el http://www.sii.cl[Servicio de Impuestos Internos]. Para poder dar boletas de honorarios.
 
-### Contrato a Plazo Fijo
+### Contrato a plazo fijo
 
 En este contrato que pasas a ser un empleado de la empresa, pero con un término definido. Si te dan 3 contratos a plazo fijo seguidos, la empresa está obligada a dar un contrato indefinido. Por lo que algunas empresas prefieren el de prestación de servicios.
 
-#### Características
+*Características*
 
 - Tienes un horario definido (Puedes ser obligado a ir a la oficina).
 - La empresa paga tus cotizaciones.
@@ -449,11 +455,11 @@ En este contrato que pasas a ser un empleado de la empresa, pero con un término
 - La duración es de pocos meses.
 - El empleador deben pagar cotizaciones, salud y otros.
 
-### Contrato Indefinido.
+### Contrato indefinido.
 
 Similar al de plazo fijo, pero sin duración determinada.
 
-#### Características
+*Características*
 
 - Tienes un horario definido (Puedes ser obligado a ir a la oficina).
 - La empresa paga tus cotizaciones.
