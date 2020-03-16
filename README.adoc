@@ -474,6 +474,21 @@ Hay variadas formas de trabajar. Los diferentes tipos de contrato serán definid
 
 Antes de firmar cualquier contrato léanlo apropiadamente, para evitar https://es.wikipedia.org/wiki/Cl%C3%A1usula_abusiva[cláusulas leoninas]. Por favor asesórense apropiadamente con personas con más experiencia antes de firmar cualquier cosa.
 
+### Práctica profesional
+
+Este es un contrato especial dedicado a alumnos de institutos técnicos o universitarios que deben obtener sus primeras experiencias laborales (segundo o tercer año de carrera). Normalmente las empresas aceptan tener alumnos y darles capacitaciones o proyectos pequeños a cambio de que ellos acepten trabajar con poco o nulo dinero.
+
+En la actualidad cualquier lugar puede necesitar de un software, como un restaurant o un taller mecánico. Siempre se puede ofrecer crear un pequeño software de gestión de inventario o similar para ayudarlos. De esa forma se puede tener una práctica profesional en lugares no necesariamente de informática y ayudar a un negocio pequeño.
+
+*Características de una buena práctica*
+
+- Te dan proyectos relevantes a tu área con un mentor que te pueda ayudar a resolver problemas. (No es buena práctica ir a trabajar a cualquier parte, procura que realmente te ayude a crecer profesionalmente).
+
+- Los proyectos no son críticos (No te dan responsabilidades gigantes, a menos que estes preparado para el desafío).
+
+- Te dan dinero suficiente (pasaje, comida, gastos varios) para que puedas ir a la práctica. No es necesario que te paguen sueldo normal, pero por lo menos un monto adecuado para vivir un mes o lo que dure la práctica (mínimo sus _36 UF_ mensual).
+
+
 ### Prestación de servicios
 
 En este contrato la empresa te solicita realizar un servicio. Este contrato es ideal para https://en.wikipedia.org/wiki/Freelancer[Freelancers] ya que es uno de los más flexibles y te permite trabajar remotamente, con quizás pocas reuniones presenciales.
@@ -541,3 +556,4 @@ Similar al de plazo fijo, pero sin duración determinada.
 - https://www.payscale.com/
 - https://www.salary.com/
 - https://www.wayup.com/
+- https://devschile.cl
