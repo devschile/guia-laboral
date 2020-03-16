@@ -362,11 +362,11 @@ Haz una buena investigación y obtención de referencias antes de entrar.
 
 Al igual que las startups, las agencias no le dan mucha importancia al título que se tenga, mientras el trabajo pueda cumplirse a tiempo y con la menor cantidad de defectos posibles. Idealmente conocer sobre marketing, copywriting, usabilidad y diseño ayuda.
 
-### Software factory (⚠️)
+### Software factory y contratistas (⚠️)
 
-Similar a la agencia de marketing, existe la fábrica de software. Se diferencian por que su foco no es la publicidad, pero si la elaboración de sistemas de software. Ten cuidado ya que muchas al igual que la agencia, prioriza plazos cortos y bajos costos frente a la calidad del software y la calidad de vida de las personas.
+Similar a la agencia de marketing, existe la fábrica de software. Se diferencian por que su foco no es la publicidad, pero si la elaboración de sistemas de software. Ten cuidado ya que muchas al igual que la agencia, prioriza plazos cortos y bajos costos frente a la calidad del software y la calidad de vida de las personas. Las empresas contratistas normalmente tienen a uno o varios clientes a los cuales les ofrecen servicios de desarrollo y soporte. Los clientes normalmente son bancos, retail o instituciones de servicios públicos.
 
-Haz una buena investigación antes de entrar.
+Haz una buena investigación antes de entrar sobre sus prácticas laborales, sueldos e historia.
 
 *¿Necesitas título para trabajar aquí?*
 
@@ -414,9 +414,9 @@ Mucho de los procesos ya están pensados, la burocracia es alta.
 
 Generalmente sí, es conveniente tener un título universitario para ganar más dinero.
 
-### Servicios básicos (🆗)
+### Transporte, retail y servicios básicos (🆗)
 
-Similares a los Bancos e Instituciones Estatales. Las empresas de servicios básicos como agua, luz, gas, internet cuentan con sistemas legacy y alguno que otro proyecto con nuevas tecnologías. Muchas veces conviene más ser contratista de estas empresas a ser contratado directamente. La recomendación es trabajar como empleado un par de años para conocer su ambiente, además de tener contactos y luego fundar una empresa que les brinde servicios adaptados a sus necesidades.
+Similares a los Bancos e Instituciones Estatales. Las empresas de servicios básicos como agua, luz, gas, internet o de retail como Fallabela o aerolíneas como LAN, cuentan con sistemas legacy y alguno que otro proyecto con nuevas tecnologías. Muchas veces conviene más ser contratista de estas empresas a ser contratado directamente. La recomendación es trabajar como empleado un par de años para conocer su ambiente, además de tener contactos y luego fundar una empresa que les brinde servicios adaptados a sus necesidades.
 
 *¿Necesitas título para trabajar aquí?*
 
@@ -442,7 +442,7 @@ En las universidades se puede trabajar como profesor (de preferencia con un magi
 
 *¿Necesitas título para trabajar aquí?*
 
-Similar a la educación media.
+Similar a la educación media e instituciones estatales.
 
 ### Empresas con producto y/o servicio definido (🆗)
 
