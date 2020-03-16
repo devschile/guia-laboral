@@ -490,7 +490,7 @@ En la actualidad cualquier lugar puede necesitar de un software, como un restaur
 
 - Los proyectos no son críticos (No te dan responsabilidades gigantes, a menos que estes preparado para el desafío).
 
-- Te dan dinero suficiente (pasaje, comida, gastos varios) para que puedas ir a la práctica. No es necesario que te paguen sueldo normal, pero por lo menos un monto adecuado para vivir un mes o lo que dure la práctica (mínimo sus _36 UF_ mensual).
+- Te dan dinero suficiente (pasaje, comida, gastos varios) para que puedas ir a la práctica. No es necesario que te paguen sueldo normal, pero por lo menos un monto adecuado para vivir un mes o lo que dure la práctica (mínimo sus _4 UF_ mensual).
 
 
 ### Prestación de servicios
