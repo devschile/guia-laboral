@@ -372,6 +372,14 @@ Haz una buena investigación antes de entrar.
 
 También puedes entrar a este tipo de organización si no tienes un título. Aunque se prefieren a las personas con estudios formales. Normalmente realizan una prueba técnica antes de entrar. Se recomienda conocer bien un área como frontend o backend.
 
+### Pymes y ONGs (⚠️)
+
+Las pequeñas y medianas empresas u organizaciones no gubernamentales pueden variar en los sueldos y proyectos que pueden ofrecer. Todas necesitan servicios informáticos para gestionar mejor sus organizaciones. Investiga bien si el sueldo ofrecido cumple tus necesidades, o si la causa de la ONG te motiva a ayudarlos.
+
+*¿Necesitas título para trabajar aquí?*
+
+Similares a la startup, estas organizaciones les interesa más una persona que puede realizar el trabajo que una que solo tenga título. Son recomendables para personas que deseen practicar sus habilidades y elaborar proyectos con una causa más elevada.
+
 ### Bancos y minería (🆗)
 
 En los bancos y otras instituciones financieras o mineras te puedes encontrar con tecnologías del año de la cocoa (sistemas legacy como https://es.wikipedia.org/wiki/AS/400[AS400], https://es.wikipedia.org/wiki/COBOL[Cobol], https://en.wikipedia.org/wiki/Visual_Basic[Visual Basic 6], https://en.wikipedia.org/wiki/DBase[Dbase], https://en.wikipedia.org/wiki/Sybase[Sybase]). Pero también (dependiendo del banco) prácticas y tecnologías más modernas. Los bancos suelen trabajar con tecnologías en las cuales una empresa internacional como Oracle, IBM, Microsoft, SAP, ofrece soporte técnico y capacitación. Pagan millonarias sumas por licencias.
