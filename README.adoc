@@ -496,6 +496,8 @@ Hay variadas formas de trabajar. Los diferentes tipos de contrato serán definid
 
 Antes de firmar cualquier contrato léanlo apropiadamente, para evitar https://es.wikipedia.org/wiki/Cl%C3%A1usula_abusiva[cláusulas leoninas]. Por favor asesórense apropiadamente con personas con más experiencia antes de firmar cualquier cosa.
 
+Siempre pide una copia del contrato en formato físico o digital para tener de respaldo por cualquier problema legal.
+
 ### Práctica profesional
 
 Este es un contrato especial dedicado a alumnos de institutos técnicos o universitarios que deben obtener sus primeras experiencias laborales (segundo o tercer año de carrera). Normalmente las empresas aceptan tener alumnos y darles capacitaciones o proyectos pequeños a cambio de que ellos acepten trabajar con poco o nulo dinero.
@@ -612,4 +614,3 @@ Al tener una distancia considerable de tus colaboradores debes comunicar apropia
 - https://www.salary.com/
 - https://www.wayup.com/
 - https://devschile.cl
-- http://www.programadores.cl
