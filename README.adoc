@@ -270,7 +270,7 @@ Son preguntas no relacionadas al rubro que están enfocadas a sacarte de tu zona
 
 Ejemplo: ¿Cómo se llama mi abuelita?. Para responder a esta pregunta habría que realizar preguntas investigativas como: ¿Paterna o materna?, ¿Cúales son tus apellidos? y ese tipo de cosas para evaluar tus capacidades cognitivas y de resolución de problemas.
 
-### Se Humano y cordial
+### Se humano y cordial
 
 Responder todo de forma fría, cortante o simplemente falto de calor humano, no te suma muchos puntos. Intenta contar alguna anécdota (relacionada) o ser lo más cercano y cordial posible.
 
@@ -280,7 +280,39 @@ Como haz realizado tu labor investigativa puedes hacer preguntas para saber un p
 
 Pregunta sobre cómo funciona todo el proceso, cuántos pasos son y cuánto tomaría en tiempo total.
 
-### No des tus pretenciones de sueldo
+### Preguntas que es mejor evitar responder
+
+Durante la entrevista te pueden hacer preguntas un poco incómodas y rozando la ilegalidad. Ten en consideración que cualquier información personal que entregues puede ser usada para perjudicarte a nivel de sueldo, contrato o alguna otra arista.
+
+#### ¿Cuál es tu orientación sexual?
+
+Demasiado personal. No debería importar para realizar el trabajo.
+
+#### ¿Cuál es tu estado civil, número de hijos?
+
+Tampoco debería importar para realizar la labor. Este tipo de información solo se debería conversar al momento de firmar el contrato si es que existen beneficios para cargas familiares. Algunas empresas pueden discriminar a personas casadas y con hijos por que puede indicar que no estarán dispuestos a trabajar horas extras ya que tienen asuntos más importantes como atender a su familia.
+
+#### ¿Tienes alguna condición médica?
+
+Las condiciones médicas son asuntos privados. Si estas lo suficientemente saludable para ejercer la labor, no debería haber problemas. Si existe algún beneficio que te ayude con tu condición entonces puedes dar esa información después de firmar el contrato.
+
+#### ¿Cuál es tu fecha de nacimiento?
+
+Muchas personas dan a conocer fácilmente su fecha de nacimiento. Lo que les permite a la empresa discriminar por edad. Es razonable pedir la edad para ciertos trabajos, pero en la mayoría no se justifica. Hay empresas que se aprovechan de los jóvenes y solo contratan a personas de ese rango etareo, por ser más manipulables y que acepten condiciones injustas o tóxicas.
+
+#### ¿Cuál es tu situación financiera?
+
+A la empresa no le debería importar si eres millonario o si tienes muchas deudas. Esta es información confidencial, lo que hagas con tu dinero es asunto tuyo. Algunas empresas pueden aprovecharse de esta información para darte condiciones más adversas de trabajo por que saben que necesitas el dinero y no te irás fácilmente.
+
+#### ¿Tienes casa o auto propio?
+
+Igual que la situación financiera no debería importar. El auto solamente si es que es necesario para el trabajo, caso contrario es mejor evitar responder. Lo mejor es solamente responder si se tiene licencia de conducir, si es que el trabajo lo amerita.
+
+#### ¿Haz realizado el servicio militar?
+
+A menos que estes postulando a una institución castrense, esto no debería importar.
+
+#### ¿Cuál es tu pretención de sueldo?
 
 Intenta no dar pretensiones de sueldo, menos decir cuanto ganas en tu actual empleo. Siempre tratarán de bajar a lo mínimo, con los tips anteriores puedes saber si la empresa es de este tipo o valora al empleado por lo que entrega al negocio, no cuantas líneas de código hace al día de 9 a 18 hrs.
 
