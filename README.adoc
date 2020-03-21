@@ -224,6 +224,14 @@ Si notas que las personas vienen y se van muy seguido. Tienen una alta rotación
 
 Algunas empresas aplican https://en.wikipedia.org/wiki/Ghosting_(relationships)[Ghosting] después de postular. Es decir no sabes si quedaste o no, pierdes todo contacto con ellos. Esto es perjudicial para las personas ya que pueden emocionalmente ser afectadas o rechazar otras oportunidades esperando la respuesta. Lo ideal es que la empresa te de un plazo razonable de espera para saber si fuiste seleccionado para el puesto de trabajo y te avise apropiadamente si no quedaste. Como norma general si no recibes respuesta después de una semana de postular, asume que no quedaste y se debe buscar una mejor empresa.
 
+### Te dan aumento del salario anual
+
+Aumentan tu salario para acomodarse al https://es.wikipedia.org/wiki/Producto_interno_bruto[PIB] de cada año (o mejor). En promedio la inflación sube un 3% cada año. Lo que significa que puedes comprar menos cosas por la misma cantidad de dinero. Si tu salario no se ajusta con la inflación, quiere decir que cada año tu trabajo vale menos. Ten en consideración esto al momento de firmar el contrato.
+
+### Recursos Adicionales
+
+https://dev.to/cubiclebuddha/4-signs-your-job-is-beyond-repair-341h?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=[4 signos de que tu trabajo se pudrió].
+
 ## Tips para Entrevistas Laborales
 
 En la https://beerjs.cl/santiago[Beer.JS Santiago] de Octubre del 2019, *Jorge Epuñan* nos compartió sus tips para entrevistas laborales. Pueden verlo acá (Comienza en el minuto 32). https://youtu.be/wB79gsTfmZY?t=1976[Video de BeerJS Santiago Octubre 2019]. https://www.beerjs.cl/santiago/oct2019/[Presentación].  https://github.com/beerjs/santiago/issues/88[GitHub].
