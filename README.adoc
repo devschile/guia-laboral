@@ -32,7 +32,7 @@ Para elaborar estos documentos se recomienda https://asciidoctor.org[AsciiDoc]. 
 
 https://resume.io/[Resume.io], https://www.resumebuilder.com[Resume Builder], https://cvcompiler.com/[CV Compiler], https://novoresume.com/[NovoResume], son sitios web para elaborar curriculums vistozos y coloridos. Es recomendado como un complemento para estos documentos.
 
-Además si deseas herramientas open source puedes probar https://github.com/jsonresume:[JSONResume], https://github.com/AmruthPillai/Reactive-Resume:[Reactive Resume] o https://github.com/welovedevs/react-ultimate-resume:[React Ultimate Resume].
+Además si deseas herramientas open source puedes probar https://github.com/jsonresume[JSONResume], https://github.com/AmruthPillai/Reactive-Resume[Reactive Resume] o https://github.com/welovedevs/react-ultimate-resume[React Ultimate Resume].
 
 #### GitHub
 
