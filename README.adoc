@@ -204,6 +204,10 @@ Si te piden _"mojar la camiseta"_ y similares, es una gran advertencia de que la
 
 Te dan espacio para que puedas asistir a eventos, capacitaciones u otras iniciativas para que seas mejor profesional. No es necesario que te financien las cosas pero por lo menos que sean lo suficientemente flexibles para compatibilizar las actividades trabajo - desarrollo personal/profesional.
 
+### Te dan flexibilidad para hacer trámites personales
+
+Si tienes que cumplir con horario de oficina y debes asistir a una, muchas veces se tendrá que hacer algún trámite o reunión especial que deba ser realizada en "horarios de oficina". La empresa debería ser lo suficientemente flexible para acomodarse a estos compromisos personales.
+
 ### Tienen buenos proyectos
 
 Hay empresas que aceptan cualquier tipo de proyecto, no importando si son éticamente cuestionables o poco factibles técnica o económicamente. Si el proyecto que te encontrarás realizando se convierte en una https://en.wikipedia.org/wiki/Death_march_(project_management)[Marcha de la muerte], no te sirve para seguir creciendo profesionalmente, o no es compatible con tu postura ética - moral, procura salir de ahí lo más pronto posible.
@@ -595,6 +599,9 @@ Es probable que aparezca un sentimiento de soledad al estar largos periodos de t
 
 Al tener una distancia considerable de tus colaboradores debes comunicar apropiadamente y con un tiempo razonable. La mayor parte de las interacciones serán por via escrita en un chat como Slack o Discord, por lo que procura expresarte apropiadamente para evitar malos entendidos. Comunica tu estado al resto del equipo en casos de que no podrás ser accesible. Lo ideal es tener al menos 2 a 3 horas que se puedan tener para coordinar con personas en distintos husos horarios.
 
+## Vida después del trabajo
+
+Ha llegado la hora de salida. ¿Que hacer ahora?. Algunas personas (muchas veces que están solteras y sin hijos) no tienen claridad sobre que actividades hacer despúes del trabajo. Algunas incluso prefieren trabajar un poco más para avanzar el proyecto, ya que no tienen nada mejor que hacer despúes. Este tipo de comportamiento normalmente conduce al _burnout_ y otras situaciones complicadas. Procura que tu actividad laboral no sea la única actividad que realices. Búsca un pasatiempo como componer canciones, poemas, pinturas. Aprender a cocinar platos deliciosos, reúnete con amigos, haz algún deporte, medita, unete algún club o simplemente descansa viendo alguna película. Existe un montón de actividades que puedes realizar fuera del mundo laboral. Cultiva tu vida, el trabajo solo es una pequeña actividad dentro del gran abanico de posibilidades.
 
 ## Libros Recomendados
 
