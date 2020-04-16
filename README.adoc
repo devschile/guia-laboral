@@ -132,7 +132,16 @@ Los horarios usualmente son de 8 a 9 horas (45 horas semanales máximo). Con alg
 
 Los días de la semana son de Lunes a Viernes (5 días). Si te obligan a trabajar sábado (6 días) consideralo una bandera roja (red flag). Hay algunas buenas pegas que solo te hacen trabajar 4 días (te pagan 5), ya que el quinto día lo puedes usar para hacer trámites (como ir al médico), estudiar o simplemente como un fin de semana más largo (y tener mejor descanso para ser más productivo).
 
-Existe un movimiento llamado https://github.com/996icu/996.ICU/blob/master/i18n/es_MX.md["996 UCI (Unidad de Cuidados Intensivos)" (_996 ICU_)]. Debido a algunas empresas adoptaron un horario que empieza a las 9 horas y termina a las 21 horas (9 de la tarde), 6 días por semana. Esto claramente es un abuso y no deberías permitir horarios como esos en tu contrato.
+Existe un movimiento llamado https://github.com/996icu/996.ICU/blob/master/i18n/es_MX.md["996 UCI (Unidad de Cuidados Intensivos)" (_996 ICU_)]. Debido a algunas empresas adoptaron un horario que empieza a las 9 horas y termina a las 21 horas (9 de la tarde), 6 días por semana. Esto claramente es un abuso y no deberías permitir horarios como esos en tu contrato. 
+
+Puedes leer este artículo de https://www.genbeta.com/desarrollo/cultura-996-startups-chinas-a-programadores-workaholic[GenBeta] respecto al tema.
+
+> A pesar de los estudios que muestran que pasar más horas en el trabajo no mejora ni la productividad ni la creatividad, los mitos sobre el trabajo extremo siguen triunfando entre esa élite de expertos en tecnología.
+> Por el otro lado, nos encontramos que los programadores cansados, trabajando fuera de su horario laboral, son un auténtico problema al desarrollar un trabajo más descuidado y menos concentrado. Pueden introducir errores más frecuentemente y sus soluciones son más costosas de arreglar. 
+
+También https://academic.oup.com/aje/article/169/5/596/143020[este estudio] y este post de https://signalvnoise.com/posts/902-fire-the-workaholics[David Heinemeier Hansson].
+
+> Los trabajadores que dedican 12 o más horas acabarán quemándose pronto. Nadie puede soportar ese ritmo sin sufrir mental o físicamente. Probablemente, todo ello ocurrirá en el peor momento, tanto para el individuo como para la compañía. Por ello es necesario una cultura fuerte a nivel de compañía para equilibrar la vida laboral y personal.
 
 ### Sueldo transparente, bueno y seguro
 
