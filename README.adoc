@@ -599,6 +599,10 @@ Es probable que aparezca un sentimiento de soledad al estar largos periodos de t
 
 Al tener una distancia considerable de tus colaboradores debes comunicar apropiadamente y con un tiempo razonable. La mayor parte de las interacciones serán por via escrita en un chat como Slack o Discord, por lo que procura expresarte apropiadamente para evitar malos entendidos. Comunica tu estado al resto del equipo en casos de que no podrás ser accesible. Lo ideal es tener al menos 2 a 3 horas que se puedan tener para coordinar con personas en distintos husos horarios.
 
+## Marca Personal
+
+Es importante cuidar de nuestra reputación y darnos a conocer en el entorno. Para esto se recomienda tener una https://en.wikipedia.org/wiki/Personal_branding[marca personal]. Es más simple conseguir un trabajo cuando conocen tus proyectos, han leido tus artículos, libros o asistido a tus charlas. No es necesario que te conviertas en una celebridad, pero es recomendable estar dentro del radar del mundo dev por algún proyecto o aporte que haz realizado. https://dev.to/swyx/marketing-yourself-without-being-a-celebrity-398d[Acá un buen artículo respecto al tema].
+
 ## Vida después del trabajo
 
 Ha llegado la hora de salida. ¿Que hacer ahora?. Algunas personas (muchas veces que están solteras y sin hijos) no tienen claridad sobre que actividades hacer despúes del trabajo. Algunas incluso prefieren trabajar un poco más para avanzar el proyecto, ya que no tienen nada mejor que hacer despúes. Este tipo de comportamiento normalmente conduce al _burnout_ y otras situaciones complicadas. Procura que tu actividad laboral no sea la única actividad que realices. Búsca un pasatiempo como componer canciones, poemas, pinturas. Aprender a cocinar platos deliciosos, reúnete con amigos, haz algún deporte, medita, unete algún club o simplemente descansa viendo alguna película. Existe un montón de actividades que puedes realizar fuera del mundo laboral. Cultiva tu vida, el trabajo solo es una pequeña actividad dentro del gran abanico de posibilidades.
