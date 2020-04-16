@@ -132,6 +132,8 @@ Los horarios usualmente son de 8 a 9 horas (45 horas semanales máximo). Con alg
 
 Los días de la semana son de Lunes a Viernes (5 días). Si te obligan a trabajar sábado (6 días) consideralo una bandera roja (red flag). Hay algunas buenas pegas que solo te hacen trabajar 4 días (te pagan 5), ya que el quinto día lo puedes usar para hacer trámites (como ir al médico), estudiar o simplemente como un fin de semana más largo (y tener mejor descanso para ser más productivo).
 
+Existe un movimiento llamado https://github.com/996icu/996.ICU/blob/master/i18n/es_MX.md["996 UCI (Unidad de Cuidados Intensivos)" (_996 ICU_)]. Debido a algunas empresas adoptaron un horario que empieza a las 9 horas y termina a las 21 horas (9 de la tarde), 6 días por semana. Esto claramente es un abuso y no deberías permitir horarios como esos en tu contrato.
+
 ### Sueldo transparente, bueno y seguro
 
 Muchas ofertas laborales no incluyen sueldo por que desean pagar menos, tratando de encontrar personas con poca experiencia que no sepan como negociar. Busca ofertas con un sueldo definido y claro, de esta forma podrás comparar con otras ofertas
