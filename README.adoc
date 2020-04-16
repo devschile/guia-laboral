@@ -643,6 +643,8 @@ Ha llegado la hora de salida. ¿Que hacer ahora?. Algunas personas (muchas veces
 
 ## Páginas Relacionadas
 
+- https://devschile.cl
+
 - https://triplebyte.com/
 - https://www.getonbrd.com/
 - https://www.glassdoor.com/
@@ -652,4 +654,5 @@ Ha llegado la hora de salida. ¿Que hacer ahora?. Algunas personas (muchas veces
 - https://www.payscale.com/
 - https://www.salary.com/
 - https://www.wayup.com/
-- https://devschile.cl
+- https://www.workingnomads.co/jobs
+
