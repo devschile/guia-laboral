@@ -101,6 +101,37 @@ https://user-images.githubusercontent.com/292738/66255233-b8cb1a00-e757-11e9-96f
 Una buena forma de demostrar tus habilidades es elaborar un proyecto personal. En este proyecto personal puedes crear algo común como un sistema de contabilidad, gestión de tareas o bugs, calendario o similares. De esta forma en la entrevista 
 puedes mostrarlo y explicar su funcionamiento y por que razón tomaste las decisiones (por que usar tecnología 'x' y no 'z') en su elaboracion. Se recomienda subir el código a *GitHub* y subir un demo del proyecto en forma de aplicación utilizable o al menos un video referencial. 
 
+### Ve directo al grano
+
+Las siguiente recomendación está basada en este https://dev.to/caroso1222/please-stop-doing-this-in-your-resume-2mga[excelente post de dev.to].
+
+Evita rellenar con palabrería innecesaria. Esto puede aplicar a todo, pero en especial medida a tu resumen ejecutivo. El primer párrafo debería decir todo sobre ti en 10 segundos o menos. Destaca que es lo que te hace diferente del resto.
+
+En el papel todos son carismáticos, todos son buenos trabajando en equipo, todos pueden escribir y hablar bien, todos son eficientes y organizados. Cada desarrollador le gusta aprender cosas nuevas. No malgastes el tiempo del lector en verborrea que dice nada sobre tus características únicas.
+
+#### Ejemplo 1: Frontend
+
+##### Malo
+
+> Proactive Frontend developer with a passion for learning new things. Strong team player, highly proactive and very process-oriented engineer. Experienced with Vue and React. Respectful and with great written and communication skills.
+
+##### Mejor
+
+> Frontend developer with experience building client-side webapps on React and Vue. Obsessed for impact, I've shipped under 10 robust React applications for thousands of users worldwide. Backend enthusiast with intermediate knowledge in API design (2 deployed APIs on NodeJS). Occasional tech blogger with more than 10k reads a month. Passionate for pixel-perfect frontend apps.
+
+#### Ejemplo 2: Backend
+
+##### Malo
+
+> Experienced backend developer with great teamwork skills. Problem solver and decision maker with good verbal communication abilities. Experience building apps with Rust and Go. Self-motivated and passionate for making positive impact.
+
+##### Mejor
+
+> Backend developer with 10 years of experience building applications in Rust and Go. Specialized in fault-tolerant, highly-reliable systems. I’ve deployed services in AWS and Azure which scaled to +10 million requests per month. Open source contributor with 300 stars across 6 repositories. Occasional speaker in tech conferences.
+
+Más ejemplos en https://carlosroso.com/please-stop-doing-this-in-your-resume/[Carlos Roso.com]
+
+
 ## Características de una buena pega
 
 Existen muchas ofertas laborales. Para tener la mejor experiencia posible fíjate en las siguientes características.
@@ -620,6 +651,8 @@ Es importante cuidar de nuestra reputación y darnos a conocer en el entorno. Pa
 Ha llegado la hora de salida. ¿Que hacer ahora?. Algunas personas (muchas veces que están solteras y sin hijos) no tienen claridad sobre que actividades hacer despúes del trabajo. Algunas incluso prefieren trabajar un poco más para avanzar el proyecto, ya que no tienen nada mejor que hacer despúes. Este tipo de comportamiento normalmente conduce al _burnout_ y otras situaciones complicadas. Procura que tu actividad laboral no sea la única actividad que realices. Búsca un pasatiempo como componer canciones, poemas, pinturas. Aprender a cocinar platos deliciosos, reúnete con amigos, haz algún deporte, medita, unete algún club o simplemente descansa viendo alguna película. Existe un montón de actividades que puedes realizar fuera del mundo laboral. Cultiva tu vida, el trabajo solo es una pequeña actividad dentro del gran abanico de posibilidades.
 
 ## Libros Recomendados
+
+- https://blog.codinghorror.com/recommended-reading-for-developers/
 
 - https://www.amazon.com/Women-Tech-Practical-Inspiring-Stories/dp/1632170663[Women in Tech: Take Your Career to the Next Level with Practical Advice and Inspiring Stories]
 
