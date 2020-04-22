@@ -90,12 +90,6 @@ La utilización de _LinkedIn_ o _Resume.io_ es totalmente opcional, aunque recom
 
 Asegúrate siempre de que algún amigo revise la redacción, gramática y ortografía de tu curriculum antes de enviarlo. Este es un documento que debe ser lo más profesional, pulcro y bien redactado posible.
 
-### Ejemplo de curriculum
-
-Aca esta un _CV_ que te puede servir como referencia para tener un buen formato de curriculum. Es de https://en.wikipedia.org/wiki/Tarah_Wheeler[Tarah Wheeler Van Vlack], una experta en ciber seguridad.
-
-https://user-images.githubusercontent.com/292738/66255233-b8cb1a00-e757-11e9-96f8-7c924417cf2c.png[Ver Imagen de CV Completa] 
-
 ### Proyecto complementario
 
 Una buena forma de demostrar tus habilidades es elaborar un proyecto personal. En este proyecto personal puedes crear algo común como un sistema de contabilidad, gestión de tareas o bugs, calendario o similares. De esta forma en la entrevista 
@@ -130,6 +124,12 @@ En el papel todos son carismáticos, todos son buenos trabajando en equipo, todo
 > Backend developer with 10 years of experience building applications in Rust and Go. Specialized in fault-tolerant, highly-reliable systems. I’ve deployed services in AWS and Azure which scaled to +10 million requests per month. Open source contributor with 300 stars across 6 repositories. Occasional speaker in tech conferences.
 
 Más ejemplos en https://carlosroso.com/please-stop-doing-this-in-your-resume/[Carlos Roso.com]
+
+### Ejemplo de curriculum
+
+Aca esta un _CV_ que te puede servir como referencia para tener un buen formato de curriculum. Es de https://en.wikipedia.org/wiki/Tarah_Wheeler[Tarah Wheeler Van Vlack], una experta en ciber seguridad.
+
+https://user-images.githubusercontent.com/292738/66255233-b8cb1a00-e757-11e9-96f8-7c924417cf2c.png[Ver Imagen de CV Completa] 
 
 
 ## Características de una buena pega
