@@ -439,11 +439,19 @@ La mayoría de las moledoras trabajan con clientes que exígen ciertos requisito
 
 ### Startup (⚠️)
 
-Empresas que tienen poco capital y experiencia en el mercado. Alto riesgo. Normalmente dependen de algún fondo como Corfo o de inversionistas. Alta probabilidad de que te paguen poco o nada. Muy inestables ya que dependen de factores ajenos a su control (como que su producto sea un éxito, inversionistas den más dinero). Probablemente te ofrezcan un porcentaje de la empresa a cambio de un sueldo ínfimo. No es recomendable aceptar este tipo de ofertas, ya que la mayoría de las startups perecen en los primeros años.
+Empresas que tienen poco capital y experiencia en el mercado. Alto riesgo. Normalmente dependen de algún fondo como Corfo o de inversionistas. Alta probabilidad de que te paguen poco o nada. Muy inestables ya que dependen de factores ajenos a su control (como que su producto sea un éxito, inversionistas den más dinero). Probablemente te ofrezcan un porcentaje de la empresa a cambio de un sueldo ínfimo o cosas como pizza, cervezas y oficinas "entretenidas". No es recomendable aceptar este tipo de ofertas, ya que la mayoría de las startups perecen en los primeros años.
 
 También suelen tener roles poco definidos y se deba realizar labores ajenas a tu área. También la posibilidad de marchas de la muerte seguidas para cumplir los caprichos de los inversionistas y las postulaciones a fondos.
 
 Investigar y evaluar si trabajar en estas condiciones vale la pena. De preferencia buscar Startups con una liquidez ya consolidada para evitar problemas al recibir sueldos.
+
+#### Burn Rate
+
+Una cosa que debes saber y tener presente es el _Burn Rate_ de la Startup. Básicamente es la comparación de cúanto dinero existe en las arcas de la empresa versus cúanto dinero se quema mensualmente para mantenerla a flote. Mientras más alto sea el _Burn Rate_ más rápido la empresa se quedará sin dinero y deberá buscar inversionistas o formas de generar ingresos. Si la empresa no te da esta información actualizada y de forma constante considéralo como una _red flag_. Las personas tienen derecho a conocer y poder planificar su situación laboral con tiempo, si es que la organización da indicios de no poder seguir funcionando.
+
+#### Adquisiciones 
+
+Una gran parte de las _Startups_ tiene por objetivo ser compradas por empresas más grandes. Ten en consideración de que las condiciones de compra pueden no favorecerte. Si la empresa es adquirida por otra, la nueva empresa no está obligada a darte ningún tipo de compensación y puede despedirte sin aviso. Ten siempre en bandeja una alternativa laboral y colchón de ahorros para mantenerte a flote si pierdes el trabajo.
 
 *¿Necesitas título para trabajar aquí?*
 
