@@ -656,7 +656,24 @@ Esta sección está inspirada por la excelente charla https://app.pluralsight.co
 
 ### ¿Qué es Burn Out?
 
-Es cuando no puedes realizar una actividad física o mental debido a un estrés, ansiedad u otra condición afixiante. Simplemente el cuerpo y la mente no colaboran y te imposibilitan totalmente funcionar con normalidad. Es común generarlo con el tiempo, principalmente cuando aparecen situaciones de considerable esfuerzo cuya recompensa es ínfima (Exprimir la fruta y al final te da poco o nada de jugo). Por ejemplo tenemos el uso del famoso https://en.wiktionary.org/wiki/crunch_time[crunch time], el cual es un periodo de alta presión para alcanzar un objetivo ("tenemos dos días para terminar este proyecto"). Si al final de esas 48 horas de locura, terminan rechazando el entregable, dando mayor plazo o simplemente no utilizarlo lo suficiente como para justificar su creación. La moral del equipo de desarrollo se desmorona y aumenta el nivel de _Burn Out_ a cada integrante.
+Es cuando no puedes realizar una actividad física o mental debido a estrés, ansiedad u otra condición afixiante. Simplemente el cuerpo y/o la mente no colaboran y te imposibilitan totalmente funcionar con normalidad. Es común generarlo con el tiempo, principalmente cuando aparecen situaciones de considerable esfuerzo cuya recompensa es ínfima (Exprimir la fruta y al final te da poco o nada de jugo). Por ejemplo tenemos el uso del infame https://en.wiktionary.org/wiki/crunch_time[crunch time], el cual es un periodo de alta presión para alcanzar un objetivo (Ejemplo: "tenemos dos días para terminar este proyecto"). Si al final de esas 48 horas de locura, terminan rechazando el entregable, cambiando los parámetros de éxito, dando mayor plazo o simplemente no utilizarlo lo suficiente como para justificar su laboriosa creación. La moral del equipo de desarrollo se desmorona y aumenta el nivel de _Burn Out_ de cada integrante.
+
+### ¿Qué efectos tiene?
+
+Según un estudio realizado por https://www.gallup.com/workplace/237059/employee-burnout-part-main-causes.aspx[Gallup]. Se puede decir que:
+
+- Un _23%_ de los empleados padecen _Burn Out_ constantemente.
+- Un _44%_  sufre _Burn Out_ ocacionalmente.
+- Un _33%_ dice no haber padecido de _Burn Out_.
+
+Basado en dichas cifras, prácticamente dos tercios (_2/3_) de los empleados padecerá _Burn Out_ dentro de algún punto de su carrera profesional. Sufrir de _Burn Out_ implica:
+
+- Un aumento del 63% para solicitar días de descanso y licencias médicas.
+- Disminución de la productividad y baja en la calidad del trabajo. (Cuesta hacer las cosas bien y mejorar continuamente).
+- Un 23% de probabilidad de terminar en el hospital o requerir cuidados médicos.
+- Un 13% de disminución en la confianza sobre los entregables. Podrías seguir entregando productos de calidad, pero tu autoconfianza en que lo sea disminuye (afecta la autoestima).
+- Un 2.6 veces más probable que abandones tu rol y la organización (Comienzas a buscar ofertas laborales, mientras aún sigues dentro de la empresa).
+
 
 ## Marca Personal
 
