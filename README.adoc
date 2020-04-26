@@ -714,6 +714,10 @@ La inspiración puede provenir de multitud de fuentes: puede ser una canción, u
 
 Para diversas situaciones se puede elaborar un plan de acción. _"Si ocurre X, se debe hacer Y"_. Es mejor tener una serie de alternativas para diversas eventualidades. Esto te permitirá estar mejor preparado y responder en menor tiempo. En gestión de riesgos se pueden usar planes de mitigación y planes de contingencia. Puedes usar una versión simplificada de esas herramientas para tu uso personal.
 
+#### La elección está en tus manos
+
+No eres un esclavo y siempre puedes elegir que hacer. Tienes control sobre tu situación personal, aunque a veces no lo parezca.
+
 ## Marca Personal
 
 Es importante cuidar de nuestra reputación y darnos a conocer en el entorno. Para esto se recomienda tener una https://en.wikipedia.org/wiki/Personal_branding[marca personal]. Es más simple conseguir un trabajo cuando conocen tus proyectos, han leido tus artículos, libros o asistido a tus charlas. No es necesario que te conviertas en una celebridad, pero es recomendable estar dentro del radar del mundo dev por algún proyecto o aporte que haz realizado. https://dev.to/swyx/marketing-yourself-without-being-a-celebrity-398d[Acá un buen artículo respecto al tema].
