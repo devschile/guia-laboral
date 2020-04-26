@@ -678,7 +678,7 @@ Basado en dichas cifras, prácticamente dos tercios (_2/3_) de los empleados pad
 
 ### ¿Cómo evitar Quemarse?
 
-Cada uno tiene herramientas a su diposición para poder evitar llegar a un estado de _Burn Out_. Es importante que reflexiones sobre la situación y por que sientes que estás acumulando _Burn Out_. ¿Quizás estás demasiado ocupado con tareas que no son importantes para ti?, ¿Sientes que el impacto de tu trabajo es diminuto?, ¿Tu voz no es escuchada (Ejemplo: propones soluciones a problemas y no se solucionan en mucho tiempo debido a la burocracia)?, ¿Te sientes estancado y no estás creciendo profesional y personalmente?. Algunas normas generales son:
+Cada uno tiene herramientas a su diposición para poder evitar llegar a un estado de _Burn Out_. Es importante que reflexiones sobre la situación y por que sientes que estás acumulando _Burn Out_. ¿Quizás estás demasiado ocupado con tareas que no son importantes para ti?, ¿Sientes que el impacto de tu trabajo es diminuto?, ¿Tu voz no es escuchada (Ejemplo: propones soluciones a problemas y no se solucionan en mucho tiempo debido a la burocracia)?, ¿Te sientes estancado y no estás creciendo profesional y personalmente?, ¿Te ves constantemente procastinando?, Algunas ideas generales son:
 
 #### Tener apoyo emocional
 
@@ -688,15 +688,19 @@ Asistir a un profesional de la salud mental (psicólogo) para asesoría, o por l
 
 Aprende a decir que *NO*. El tiempo que tenemos es muy importante y escaso, por lo que hay que elegir sabiamente dónde se es destinado. Es mejor dedicarlo a las actividades más importantes para ti. Se avanza más cuando una actividad se es realizada con dedicación, si tienes demasiadas tareas no podrán ser avanzadas con la rapidez y prolijidad necesaria.
 
+Recomendación de leer https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382[Essentialism] y https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713[The Subtle Art of Not Giving a F*ck].
+
 #### Ocupate de lo que puedes controlar
 
-Hay muchas cosas que no puedes controlar, lo mejor es ocuparse de lo que sí está bajo tu control. Una de las cosas que están bajo tu control es tu desarrollo personal y profesional. Procura que tu desarrollo no dependa de tu empleador, se diligente y ten claridad sobre donde está tu norte y los pasos necesarios para alcanzarlo. Una recomendación es tener una estratégia sistemática, elaborar sistemas que logren resultados en vez de tener metas. Un sistema puede ser mejorado con el tiempo y adaptado al contexto, una meta en cambio simplemente es un booleano de si se cumplió o no lo que te causa un estado constante de fallo si no se ha cumplido, afectando tu percepción de avance. 
+Hay muchas cosas que no puedes controlar por lo que solo puedes aceptarlas tal y como son, lo mejor es ocuparse de lo que sí está bajo tu control. Una de las cosas que están bajo tu control es tu desarrollo personal y profesional. Procura que tu desarrollo no dependa de tu empleador o el azar, se diligente y ten claridad sobre donde está tu norte y los pasos necesarios para alcanzarlo. Una recomendación es tener una estrategia sistemática, elaborar sistemas que logren resultados en vez de tener metas. Un sistema puede ser mejorado con el tiempo y adaptado al contexto basado en prueba y error, una meta en cambio simplemente es un booleano de si se cumplió o no, lo que te causa un estado constante de fallo si no se ha cumplido, afectando tu percepción de avance. 
 
-Puedes utilizar técnicas de priorización como https://en.wikipedia.org/wiki/MoSCoW_method[MoSCoW](Must, Should, Could, Won´t) para ayudarte a definir lo que realmente es importante para ti. También la técnica https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique[PERT] para poder elaborar los sistemas.
+Puedes utilizar técnicas de priorización como https://en.wikipedia.org/wiki/MoSCoW_method[MoSCoW] (Must, Should, Could, Won´t) para ayudarte a definir lo que realmente es importante para ti. También la técnica https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique[PERT] para poder elaborar los sistemas. 
+
+Recomendación de investigar https://es.wikipedia.org/wiki/Teor%C3%ADa_de_sistemas[Teoría General de Sistemas] y https://es.wikipedia.org/wiki/Meditaciones[Meditaciones de Marco Aurelio].
 
 #### Guarda las pequeñas inspiraciones
 
-La inspiración puede provenir de multitud de fuentes: puede ser una canción, un lugar, una fotografía, una frase o un relato de un amigo. Ten un lugar como un cuaderno, blog o notas en el celular donde puedas re-encontrarlas para que te den un aliento en momentos donde sientas mayor necesidad de ellas. Si recibiste un premio, un reconocimiento o alguna cosa positiva sucedió en tu vida es importante tener un lugar para recordar esos buenos momentos.
+La inspiración puede provenir de multitud de fuentes: puede ser una canción, un libro, un lugar, una fotografía, una frase o un relato de un amigo. Ten un lugar como un cuaderno, blog o notas en el celular donde puedas re-encontrarlas para que te den un aliento en momentos donde sientas mayor necesidad de ellas. Si recibiste un premio, un reconocimiento o alguna cosa positiva sucedió en tu vida es importante tener un lugar para recordar esos buenos momentos.
 
 ## Marca Personal
 
