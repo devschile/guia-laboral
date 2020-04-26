@@ -652,7 +652,7 @@ Al tener una distancia considerable de tus colaboradores debes comunicar apropia
 
 ## Burn Out (Quemado)
 
-Esta sección está inspirada por la excelente charla https://app.pluralsight.com/player?course=that-conference-2019-session-09&author=that-conference&name=ad48e900-ca8e-4ac0-91ea-db69deeb23ca&clip=0&mode=live[THAT Conference '19: Burning out and How to Deal with It - Plural Sight].
+Esta sección está inspirada por la excelente charla https://app.pluralsight.com/player?course=that-conference-2019-session-09&author=that-conference&name=ad48e900-ca8e-4ac0-91ea-db69deeb23ca&clip=0&mode=live[THAT Conference '19: Burning out and How to Deal with It - Plural Sight] dada por https://github.com/iamkeeler/THATBurningOut[Gary Keeler].
 
 ### ¿Qué es Burn Out?
 
