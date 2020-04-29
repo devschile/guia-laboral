@@ -754,6 +754,12 @@ Ha llegado la hora de salida. ¿Que hacer ahora?. Algunas personas (muchas veces
 
 - https://miriadax.net/web/carpe-diem-proyecto-de-vida-finanzas-personales-consulta/inicio[Carpe Diem: proyecto de vida & finanzas personales].
 
+- https://miriadax.net/web/filosofia/inicio[Filosofía I].
+
+- https://miriadax.net/web/filosofia-ii/inicio[Filosofía II].
+
+- https://miriadax.net/web/filosofia-iii/inicio[Filosofía III].
+
 ## Libros Recomendados
 
 - https://blog.codinghorror.com/recommended-reading-for-developers/
