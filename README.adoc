@@ -748,6 +748,12 @@ Ha llegado la hora de salida. ¿Que hacer ahora?. Algunas personas (muchas veces
 
 - https://miriadax.net/web/manejo-ansiedad-examenes-exposiciones-orales/inicio[Manejo de la ansiedad ante exámenes y exposiciones orales].
 
+- https://miriadax.net/web/soft_libre_y_conocimiento/inicio[Software libre y conocimiento en abierto].
+
+- https://miriadax.net/web/introduccion-a-linux-como-entorno-de-desarrollo-de-sistemas-software-2-edicion-consulta/inicio[Introducción a Linux como entorno de desarrollo de sistemas de software].
+
+- https://miriadax.net/web/carpe-diem-proyecto-de-vida-finanzas-personales-consulta/inicio[Carpe Diem: proyecto de vida & finanzas personales].
+
 ## Libros Recomendados
 
 - https://blog.codinghorror.com/recommended-reading-for-developers/
