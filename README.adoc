@@ -742,6 +742,12 @@ Ha llegado la hora de salida. ¿Que hacer ahora?. Algunas personas (muchas veces
 
 - https://miriadax.net/web/potencia-tu-mente-10-edicion-/inicio[Potencia tu mente].
 
+- https://miriadax.net/web/oratoria-en-entornos-digitales-2-edicion-/inicio[Oratoria en Entornos Digitales].
+
+- https://miriadax.net/web/do-it-your-digital-2-edicion-/inicio[Marketing Digital].
+
+- https://miriadax.net/web/manejo-ansiedad-examenes-exposiciones-orales/inicio[Manejo de la ansiedad ante exámenes y exposiciones orales].
+
 ## Libros Recomendados
 
 - https://blog.codinghorror.com/recommended-reading-for-developers/
