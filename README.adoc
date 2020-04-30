@@ -718,6 +718,20 @@ Para diversas situaciones se puede elaborar un plan de acción. _"Si ocurre X, s
 
 No eres un esclavo y siempre puedes elegir que hacer. Tienes control sobre tu situación personal, aunque a veces no lo parezca.
 
+## Síndrome del Impostor
+
+La siguiente información esta inspirada por la charla https://app.pluralsight.com/player?course=that-conference-2019-session-24&author=that-conference&name=67725d35-160e-487d-addd-25e85d6e0f35&clip=0&mode=live[THAT Conference '19: Fear] de https://github.com/jeffblankenburg[Jeff Blankenburg].
+
+El https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor[síndrome del impostor] es cuando una persona piensa que sus capacidades son inferiores a las reales (Eres realmente bueno haciendo algo pero tu piensas de que no lo eres). También esta el efecto https://es.wikipedia.org/wiki/Efecto_Dunning-Kruger[Dunning Kruger] el cual un individuo es realmente ignorante o inoperante en un tema pero piensa de que es competente en el mismo (Es realmente malo haciendo algo pero piensa de que es excelente haciéndolo).
+
+https://thisisindexed.com/2012/05/two-annoying-problems[image:https://user-images.githubusercontent.com/292738/80671162-0ce07780-8a77-11ea-85a5-c70b7f83ecc3.png[https://thisisindexed.com/2012/05/two-annoying-problems/]]
+
+Este síndrome del impostor es recurrente en profesionales de todas las áreas, pero es notorio en el área de las tecnologías. Ya que los individuos altamente cualificados tienden a subestimar su competencia relativa, dando por sentado erróneamente que las tareas que son fáciles para ellos también son fáciles para otros.
+
+_David Dunning_ y _Justin Kruger_ concluyeron que: 
+
+> «La sobrevaloración del incompetente nace de la mala interpretación de la capacidad de uno mismo. La infravaloración del competente nace de la mala interpretación de la capacidad de los demás»
+
 ## Marca Personal
 
 Es importante cuidar de nuestra reputación y darnos a conocer en el entorno. Para esto se recomienda tener una https://en.wikipedia.org/wiki/Personal_branding[marca personal]. Es más simple conseguir un trabajo cuando conocen tus proyectos, han leido tus artículos, libros o asistido a tus charlas. No es necesario que te conviertas en una celebridad, pero es recomendable estar dentro del radar del mundo dev por algún proyecto o aporte que haz realizado. https://dev.to/swyx/marketing-yourself-without-being-a-celebrity-398d[Acá un buen artículo respecto al tema].
