@@ -656,7 +656,7 @@ Esta sección está inspirada por la excelente charla https://app.pluralsight.co
 
 ### ¿Qué es Burn Out?
 
-Es cuando no puedes realizar una actividad física o mental debido a estrés, ansiedad u otra condición afixiante. Simplemente el cuerpo y/o la mente no colaboran y te imposibilitan totalmente funcionar con normalidad. Es común generarlo con el tiempo, principalmente cuando aparecen situaciones de considerable esfuerzo cuya recompensa es ínfima (Exprimir la fruta y al final te da poco o nada de jugo). Por ejemplo tenemos el uso del infame https://en.wiktionary.org/wiki/crunch_time[crunch time], el cual es un periodo de alta presión para alcanzar un objetivo (Ejemplo: "tenemos dos días para terminar este proyecto"). Si al final de esas 48 horas de locura, terminan rechazando el entregable, cambiando los parámetros de éxito, compensaciones bajas, dando mayor plazo o simplemente no utilizarlo lo suficiente como para justificar su laboriosa creación. La moral del equipo de desarrollo se desmorona y aumenta el nivel de _Burn Out_ de cada integrante.
+Es cuando no puedes realizar una actividad física o mental debido a estrés, ansiedad u otra condición afixiante. Simplemente el cuerpo y/o la mente no colaboran y te toribilitan totalmente funcionar con normalidad. Es común generarlo con el tiempo, principalmente cuando aparecen situaciones de considerable esfuerzo cuya recompensa es ínfima (Exprimir la fruta y al final te da poco o nada de jugo). Por ejemplo tenemos el uso del infame https://en.wiktionary.org/wiki/crunch_time[crunch time], el cual es un periodo de alta presión para alcanzar un objetivo (Ejemplo: "tenemos dos días para terminar este proyecto"). Si al final de esas 48 horas de locura, terminan rechazando el entregable, cambiando los parámetros de éxito, compensaciones bajas, dando mayor plazo o simplemente no utilizarlo lo suficiente como para justificar su laboriosa creación. La moral del equipo de desarrollo se desmorona y aumenta el nivel de _Burn Out_ de cada integrante.
 
 Uno de los indicios de tener _Burn Out_ es cuando pierdes la inspiración de hacer cosas, simplemente te resignas a tu situación actual y dejas de intentar hacer algún cambio.
 
@@ -726,11 +726,38 @@ El https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor[síndrome del impost
 
 https://thisisindexed.com/2012/05/two-annoying-problems[image:https://user-images.githubusercontent.com/292738/80671162-0ce07780-8a77-11ea-85a5-c70b7f83ecc3.png[https://thisisindexed.com/2012/05/two-annoying-problems/]]
 
-Este síndrome del impostor es recurrente en profesionales de todas las áreas, pero es notorio en el área de las tecnologías. Ya que los individuos altamente cualificados tienden a subestimar su competencia relativa, dando por sentado erróneamente que las tareas que son fáciles para ellos también son fáciles para otros.
+Este síndrome del impostor es recurrente en profesionales de todas las áreas, pero es notorio en el área de las tecnologías. Los individuos altamente cualificados tienden a subestimar su competencia relativa, dando por sentado erróneamente que las tareas que son fáciles para ellos también son fáciles para otros.
 
 _David Dunning_ y _Justin Kruger_ concluyeron que: 
 
 > «La sobrevaloración del incompetente nace de la mala interpretación de la capacidad de uno mismo. La infravaloración del competente nace de la mala interpretación de la capacidad de los demás»
+
+### Estrategias
+
+A parte de la estrategia de recurrir a un profesional de la salud mental para que brinde una correcta asesoría para superar esta condición, existen algunas estrategias que se pueden utilizar.
+
+#### Superar los miedos
+
+El miedo es una mecanismo de auto conservación. Está en nosotros para prevenir que nos pase un evento trágico como un accidente o la muerte. Sin embargo también se puede activar por razones que no son físicas y que probablemente tampoco sean peligrosas. Miedo a lo desconocido, a la autoridad, hablar en público, al ¿Qué dirá la gente?, al ¿Qué pasaría si?. Esto normalmente esta relacionado a la https://es.wikipedia.org/wiki/Ansiedad[ansiedad]. Aplicar técnicas que permitan controlarla puede ser de ayuda, como racionalizar la situación y verla de forma objetiva.
+
+Hay muchas oportunidades en la vida que no son aprovechadas por el simple hecho de tener miedo a vivir una experiencia que nos saque de la zona de confort.
+
+El síndrome del impostor es el miedo a que todos descubran de que en realidad no eres lo suficientemente bueno en lo que haces. Por lo que se debe procurar superar este miedo y aceptar que realmente eres excelente haciendo lo que haces, sobre todo si tienes muchas fuentes externas que demuestran tu competencia.
+
+#### Compárate contigo mismo, no con otros
+
+Cada uno tiene una experiencia de vida única. El compararse con otras personas es una fuente de pensamientos negativos y estrés. No tienes control sobre las condiciones en las que lograron que una persona estudiara en la mejor universidad, o una persona que ha viajado por todo el mundo dando charlas u otra que programó una aplicación exitosa.
+
+Que no hayas logrado las mismas cosas que otra persona no quiere decir que tu seas peor persona. Eres importante simplemente porque eres único en este mundo.
+
+Muchas veces se confunde los años de experiencia con cierta autoridad frente a todos los temas. Que una persona tenga veinte años de experiencia no significa que tenga razón en todo o que su opinión sea más valiosa sobre un tema que tu manejas. Puede que esos veinte años hubieran sido el mismo año repetido veinte veces. Quizás la solución que la persona plantea sirvió para el contexto original, pero para el nuevo contexto sea insuficiente. Muchas veces puede suceder que se desconfía de la solución planteada solamente por que una persona de mayor antiguëdad plantea una diferente, confía en tu propia capacidad puede que la persona no conozca todas las variables que tu manejas.
+
+Lo mejor es siempre compararse con tu propia persona, ¿Cómo puedo ser mejor que ayer?, ¿Dónde quiero estar en los próximos años?, ¿Qué es lo que me hace feliz?, ¿Que significa ser exitoso para mi?. Ten un plan de mejora contínua para siempre ir creciendo personal y profesionalmente.
+
+#### Recuerda todo el esfuerzo que haz hecho
+
+Muchas veces se puede olvidar de todos las horas, semanas, meses, años de esfuerzo y dedicación para lograr llegar hasta donde estás. Puede que actualmente sea fácil hacer lo que haces, pero que fuese fácil para ti significó miles de horas de estudio, práctica, éxitos y fallos que haz vivido. Considera eso antes de desestimarte por ganar un premio o resolver un problema difícil. No es pura suerte, es mérito y es digno de ser reconocido como tal.
+
 
 ## Marca Personal
 
