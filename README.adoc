@@ -776,12 +776,14 @@ ____
 “Whether you think you can, or you think you can't--you're right.”
 ____
 
+ 
 
 .https://www.goodreads.com/author/quotes/657773.Jim_Rohn[Jim Rohn]
 [quote, Jim Rohn]
 ____
 “If you really want to do something, you'll find a way. If you don't, you'll find an excuse.” 
 ____
+
 
 #### Encuentra temas que te fascinen
 
