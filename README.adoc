@@ -730,6 +730,49 @@ Es probable que aparezca un sentimiento de soledad al estar largos periodos de t
 
 Al tener una distancia considerable de tus colaboradores debes comunicar apropiadamente y con un tiempo razonable. La mayor parte de las interacciones serán por via escrita en un chat como Slack o Discord, por lo que procura expresarte apropiadamente para evitar malos entendidos. Comunica tu estado al resto del equipo en casos de que no podrás ser accesible. Lo ideal es tener al menos 2 a 3 horas que se puedan tener para coordinar con personas en distintos husos horarios.
 
+### Ley de Chilena de Teletrabajo
+
+Desde el Jueves 26 de Marzo de 2020 existe una nueva ley que regula el Teletrabajo y Trabajo a Distancia en Chile. Basado en https://vimeo.com/402777845[Este Video de 9 punto 5] y http://archive.is/OBZpf[este artículo].
+
+#### El empleador debe proporcionar los elementos de trabajo
+
+Elementos tales como:
+
+- Un computador
+- Internet
+
+Si un trabajador de su propia voluntad quiere utilizar su propio computador porque es una mejor solución para él, puede hacerlo, pero lo que no puede pasar es que el empleador obligue al trabajador a comprarse un computador o utilizar sus propios elementos de trabajo.
+
+#### Derecho a desconexión digital
+
+Empleador debe garantizar un mínimo de 12 horas continuas de desconexión.
+
+#### Cumplir horario o libertad de horario
+
+Se podrá establecer en esta modalidad 
+
+- Tener horario establecido.
+- Tener libertad de horario.
+
+.Artículo 152 quáter J.
+
+[quote]
+____
+Si la naturaleza de las funciones del trabajador a distancia lo permite, las partes podrán pactar que el trabajador distribuya libremente su jornada en los horarios que mejor se adapten a sus necesidades, respetando siempre los límites máximos de la jornada diaria y semanal, sujetándose a las normas sobre duración de la jornada de los artículos 22 y 28 y las relativas al descanso semanal del Párrafo 4° del Capítulo IV del Libro Primero.
+____
+
+#### Accidente laboral y de trayecto trabajando desde casa
+
+Quien trabaja desde su casa y tenga un accidente del trabajo o una enfermedad profesional, quedará cubierto por la mutualidad del empleador, por lo que en consecuencia tendrá derecho a los tratamiento que da la mutualidad y el pago de las prestaciones que da la mutualidad. Esto debe ser un accidente a causa del trabajo. El accidente de trayecto también queda cubierto, ya que esta ley permite combinar tiempo de trabajo presencial con tiempo de trabajo a distancia.
+
+#### Privacidad
+
+Malas prácticas como tener una cámara web encendida todo el día, aplicaciones que toman capturas de pantalla de tu computador, que miden el uso de teclado o que monitorean todo lo que haces en el computador son un peligro latente. ¿Qué pasa con esto?
+
+No se puede violar la intimidad ni la privacidad de las personas. Los mecanismos de control que el empleador puede tener son los que respetan los derechos fundamentales de las personas, que respetan los derechos laborales. Esto ya está regulado por dictámenes de la Dirección del Trabajo hace mucho tiempo.
+
+
+
 ## Burn Out (Quemado)
 
 Esta sección está inspirada por la excelente charla https://app.pluralsight.com/player?course=that-conference-2019-session-09&author=that-conference&name=ad48e900-ca8e-4ac0-91ea-db69deeb23ca&clip=0&mode=live[THAT Conference '19: Burning out and How to Deal with It - Plural Sight] dada por https://github.com/iamkeeler/THATBurningOut[Gary Keeler], puedes ver la presentación https://vimeo.com/369322743[gratis aca].
