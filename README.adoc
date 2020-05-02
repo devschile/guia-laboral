@@ -361,7 +361,7 @@ Como regla general si tienes capacidades en al menos 3 tecnologías de las que m
 
 No hay garantías de que la empresa te acepte o incluso de que te responda en un plazo razonable. Muchas empresas (sobre todo las más grandes) reciben enormes cantidades de postulaciones, por lo que puede que la tuya no fuera revisada. Lo mejor es postular a dos o incluso tres empresas. Tener varias entrevistas te ayudará a desarrollar tus habilidades en ese contexto. Además tener varias ofertas te permite comparar y seleccionar la mejor que se adapte a tus necesidades y puedes incluso usar la oferta de la competencia para obtener mejores beneficios en la siguiente entrevista (pueden igualar o mejorar la oferta). 
 
-Finalmente es bueno agendar varias entrevistas en un espacio de tiempo cercano (la misma semana, máximo dos semanas de separación) por que normalmente las ofertas tienen un plazo corto para ser aceptadas ya que normalmente se necesita ocupar el rol rápidamente. Ten un plan A, plan B e incluso plan C para elegir.
+Finalmente es bueno agendar varias entrevistas en un espacio de tiempo cercano (la misma semana, máximo dos semanas de separación) por que las ofertas tienen un plazo corto para ser aceptadas ya que normalmente se necesita ocupar el rol rápidamente. Ten un plan A, plan B e incluso plan C para elegir.
 
 
 ### ¿Por qué es importante priorizar una entrevista?
@@ -371,6 +371,14 @@ Lo importante es que llegues a una entrevista. Busca la página web de la empres
 Tu currículum es un texto que por más bonito que sea, siempre le faltarán detalles que solamente puedes contar en persona. Por ejemplo en un empleo anterior te contrataron por frontend, pero durante el camino también metiste mano en backend y diseñaste soluciones más allá de lo que estaba en tu perfil al ingresar. ¿Cómo podrán saber esto si en tu cv solo pusiste que eras frontend?.
 
 Algunas empresas te podrían descartar si no conoces tecnología a, b, c. Pero tal vez tu les puedas demostrar que si puedes aprender rápido. Pero si no agendas reunión para convencerlos y saltarte el proceso de selección automático que descarta solo por criterios arbitrarios, no podrás tener esa oportunidad.
+
+### Prepárate para negociar
+
+Muchas empresas no te darán su mejor oferta al principio. La mayoría espera a un proceso de negociación. Lo importante es que cualquier beneficio o monto acordado quede registrado en un papel o por lo menos un email para poder luego ser incluido en el contrato.
+
+### ¿Qué pasa si me llega una mejor oferta?
+
+Digamos que aceptaste una oferta y a la semana de entrar a trabajar llega una mejor. ¿Conviene aceptarla?. Quizás. Depende de lo que quieras. Pero no te sientas mal en aceptar la oferta y salir a otro lado. Piensa de que la empresa puede despedirte en cualquier momento si sus fondos son disminuidos o tu posición en la empresa ya no es necesaria. Siempre vela por tu seguridad financiera y felicidad laboral. Existen casos en que el contrato puede impedirte hacer ese tipo de movimientos, por lo que leelo a cabalidad de preferencia con un asesor experimentado antes de firmar.
 
 ## Tips para Entrevistas Laborales
 
@@ -804,11 +812,9 @@ _David Dunning_ y _Justin Kruger_ concluyeron que:
 
 > «La sobrevaloración del incompetente nace de la mala interpretación de la capacidad de uno mismo. La infravaloración del competente nace de la mala interpretación de la capacidad de los demás»
 
-### Estrategias
-
 A parte de la estrategia de recurrir a un profesional de la salud mental para que brinde una correcta asesoría para superar esta condición, existen algunas estrategias que se pueden utilizar.
 
-#### Superar los miedos
+### Superar los miedos
 
 El miedo es una mecanismo de auto conservación. A veces es bueno tener miedo ya que está en nosotros para prevenir que nos pase un evento trágico como un accidente o la muerte. Sin embargo también se puede activar por razones que no son físicas y que probablemente tampoco sean peligrosas. Miedo al cambio, a lo desconocido, a la autoridad, hablar en público, al ¿Qué dirá la gente?, al ¿Qué pasará?. Esto normalmente esta relacionado a la https://es.wikipedia.org/wiki/Ansiedad[ansiedad]. Aplicar técnicas que permitan controlarla puede ser de ayuda, ser analítico y racionalizar la situación y verla de forma objetiva. Quizás la cosa que te da miedo no sea tan terrible como parece.
 
@@ -823,25 +829,26 @@ ____
 ____
 
 
-#### Compárate contigo mismo, no con otros
+### Compárate contigo mismo, no con otros
 
 Cada uno tiene una experiencia de vida única. El compararse con otras personas es una fuente de pensamientos negativos y estrés. No tienes control sobre las condiciones en las que lograron que una persona estudiara en la mejor universidad, otra que gane mucho dinero, una persona que ha viajado por todo el mundo dando charlas u otra que programó una aplicación exitosa.
 
-Que no hayas logrado las mismas cosas que otra persona o que ganes igual o mejor dinero no quiere decir que tu seas peor persona. Eres importante simplemente porque eres único en este mundo. Si te sientes mal por que otra persona esta haciendo lo que tu quieres hacer o ha logrado cosas que tu quieres lograr, deberías hacer planes y sistemas que te ayuden a alcanzar esas metas bajo tus propias reglas y condiciones.
+Que no hayas logrado las mismas cosas que otra persona o que no ganes igual o mejor dinero no quiere decir que tu seas peor persona. Eres importante simplemente porque eres único en este mundo. Si te sientes mal por que otra persona esta haciendo lo que tu quieres hacer o ha logrado cosas que tu quieres lograr, deberías hacer planes y sistemas que te ayuden a alcanzar esas metas bajo tus propias reglas y condiciones.
 
 Lo mejor es siempre compararse con tu propia persona, ¿Cómo puedo ser mejor que ayer?, ¿Dónde quiero estar en los próximos años?, ¿Qué es lo que me hace feliz?, ¿Que significa ser exitoso para mi?. Ten un plan de mejora contínua para siempre ir creciendo personal y profesionalmente.
 
-#### Confía en tus decisiones 
+### Confía en tus decisiones 
 
 Muchas veces se confunde los años de experiencia con cierta autoridad frente a todos los temas. Que una persona tenga veinte años de experiencia no significa que tenga razón en todo o que su opinión sea más valiosa sobre un tema que tu manejas. Puede que esos veinte años hubieran sido el mismo año repetido veinte veces. Quizás la solución que la persona plantea sirvió para el contexto original, pero para el nuevo contexto sea insuficiente. Muchas veces puede suceder que se desconfía de la solución planteada solamente por que una persona de mayor antiguëdad plantea una diferente, confía en tu propia capacidad puede que esa persona no conozca todas las variables que tu manejas.
 
-#### Recuerda todo el esfuerzo que haz hecho
+### Recuerda todo el esfuerzo que haz hecho
 
 Nadie nace experto en un área y muchas veces se puede olvidar de todos las horas, semanas, meses, años de esfuerzo y dedicación para lograr llegar hasta donde estás. Puede que actualmente te sea fácil hacer lo que haces, pero que fuese fácil para ti significó miles de horas de estudio, práctica, éxitos y fallos que haz vivido. Considera eso antes de desestimarte por ganar un premio o resolver un problema difícil. No es pura suerte, es mérito y es digno de ser reconocido como tal.
 
 Lo mismo es para cuando estás aprendiendo una nueva habilidad o un nuevo proyecto. No pienses de que no puedes hacerlo por el simple hecho de que te cuesta al principio.
 
 .https://www.goodreads.com/author/quotes/203714.Henry_Ford[Henry Ford]
+
 [quote, Henry Ford]
 ____
 
@@ -851,20 +858,21 @@ ____
  
 
 .https://www.goodreads.com/author/quotes/657773.Jim_Rohn[Jim Rohn]
+
 [quote, Jim Rohn]
 ____
 “If you really want to do something, you'll find a way. If you don't, you'll find an excuse.” 
 ____
 
 
-#### Encuentra temas que te fascinen
+### Encuentra temas que te fascinen
 
 Una de las formas de volverse un experto es que el tema en cuestión te fascine. Leas sobre el tema, veas videos sobre el tema, converses sobre el tema, escribas, asistas a charlas, hagas experimentos, proyectos y todo tipo de actividades sobre el tema. Si le dedicas una cantidad de horas considerable podrás llegar a un nivel aceptable de experticia. Un experto es alguien que sabe de un tema, pero no necesariamente que lo sepa todo del mismo. Todo depende de la perspectiva de la persona a quien se le hable del tema.
 
 Libro recomendado: https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X[Mastery de Robert Greene].
 
 
-#### Toma el control de tu vida
+### Toma el control de tu vida
 
 En muchas ocaciones tu mismo te cortas las alas, pensando que otra persona o cirscunstancia te impide hacer algo. Es importante tener una actitud positiva y de auto superación. Planifica tu vida para que puedas vivir las experiencias, conocer los lugares y personas, trabajar en lo que más te de alegría. Encuentra los temas que te fascinen y crece cada día. No dejes tu vida al azar.
 
