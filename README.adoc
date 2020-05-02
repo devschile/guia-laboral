@@ -343,6 +343,35 @@ Aumentan tu salario para acomodarse al https://www.ine.cl/estadisticas/economia/
 
 https://dev.to/cubiclebuddha/4-signs-your-job-is-beyond-repair-341h?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=[4 signos de que tu trabajo se pudrió].
 
+## Antes de postular a un empleo
+
+En la siguiente sección se mostrarán algunos consejos para tener una buena experiencia al postular. Inspirados en el https://podcast.newline.co/episodes/mastering-the-programming-interview-with-uber-engineer-esco-obong/transcript[Podcast de Newline] y https://www.youtube.com/channel/UCedlVG7DetjhvcWKXMy5QSQ[GrindReel].
+
+### Ser Estratégico
+
+En el trabajo estarás constantemente practicando y mejorando según el área que mayor tiempo le dediques. Por lo que antes de aceptar una oferta laboral ve el tipo de proyectos que quieres participar. Responde primero ¿Qué es lo que buscas aprender o mejorar?. Luego busca una empresa que te de la oportunidad de aprender o mejorar en esa área. Quizás te llame la atención los algoritmos, sistemas distribuidos, frontend o configuración de servidores en la nube. Cuando tienes claridad sobre lo que realmente te importa y cuales son tus puntos a mejorar, puedes evaluar a las empresas sobre qué te pueden ofrecer en términos de tu crecimiento personal y profesional.
+
+### ¿Cúando postular?
+
+Muchas ofertas laborales tienen exigencias muy altas. Te piden conocer 50 tecnologías y 10 años de experiencia en frameworks que llevan como máximo 3 años en el mercado. Esto es así por que muchas de las ofertas laborales fueron creadas por el equipo de recursos humanos (un humano no es un recurso, es una persona).
+
+Como regla general si tienes capacidades en al menos 3 tecnologías de las que mencionan, puedes postular. Todas las demás las puedes aprender en el camino durante el trabajo, si es que alguna vez son utilizadas.
+
+### Postula a varias empresas a la vez
+
+No hay garantías de que la empresa te acepte o incluso de que te responda en un plazo razonable. Muchas empresas (sobre todo las más grandes) reciben enormes cantidades de postulaciones, por lo que puede que la tuya no fuera revisada. Lo mejor es postular a dos o incluso tres empresas. Tener varias entrevistas te ayudará a desarrollar tus habilidades en ese contexto. Además tener varias ofertas te permite comparar y seleccionar la mejor que se adapte a tus necesidades y puedes incluso usar la oferta de la competencia para obtener mejores beneficios en la siguiente entrevista (pueden igualar o mejorar la oferta). 
+
+Finalmente es bueno agendar varias entrevistas en un espacio de tiempo cercano (la misma semana, máximo dos semanas de separación) por que normalmente las ofertas tienen un plazo corto para ser aceptadas ya que normalmente se necesita ocupar el rol rápidamente. Ten un plan A, plan B e incluso plan C para elegir.
+
+
+### ¿Por qué es importante priorizar una entrevista?
+
+Lo importante es que llegues a una entrevista. Busca la página web de la empresa y utiliza su formulario de contacto, agenda una reunión y demuestra que eres idóneo para el desafío. Ahora también puedes ser estratégico. Puedes usar las páginas de trabajos para enviar un mensaje a su oferta laboral o utilizar algún reclutador (después de que tu hagas la selección de la empresa). También puedes buscar personas en _Slack_, _Facebook_, _Linkedin_, _Twitter_ o _Github_ que estén dentro de la empresa que tu quieres ingresar y conversar con ellas, tener alguién dentro que te cuente como es la empresa y te permita recomendarte es una gran ventaja a simplemente enviar un correo o postulación. Otra forma es ir a _Meetups_, charlas y otros eventos. Muchas veces las personas te pueden recomendar incluso si no te conocen mucho, si demuestras que sabes de un tema que a su empresa le podria servir. Envía tu currículum junto con una pequeña introducción sobre ti y por qué estás interesado en trabajar con ellos.
+
+Tu currículum es un texto que por más bonito que sea, siempre le faltarán detalles que solamente puedes contar en persona. Por ejemplo en un empleo anterior te contrataron por frontend, pero durante el camino también metiste mano en backend y diseñaste soluciones más allá de lo que estaba en tu perfil al ingresar. ¿Cómo podrán saber esto si en tu cv solo pusiste que eras frontend?.
+
+Algunas empresas te podrían descartar si no conoces tecnología a, b, c. Pero tal vez tu les puedas demostrar que si puedes aprender rápido. Pero si no agendas reunión para convencerlos y saltarte el proceso de selección automático que descarta solo por criterios arbitrarios, no podrás tener esa oportunidad.
+
 ## Tips para Entrevistas Laborales
 
 En la https://beerjs.cl/santiago[Beer.JS Santiago] de Octubre del 2019, *Jorge Epuñan* nos compartió sus tips para entrevistas laborales. Pueden verlo acá (Comienza en el minuto 32). https://youtu.be/wB79gsTfmZY?t=1976[Video de BeerJS Santiago Octubre 2019]. https://www.beerjs.cl/santiago/oct2019/[Presentación].  https://github.com/beerjs/santiago/issues/88[GitHub].
@@ -445,21 +474,8 @@ Normalmente las pretenciones de sueldo se piden para descartar a los postulantes
 
 Escoge dónde quieres trabajar. Que el trabajo no te elija a ti. Hay abundancia de oportunidades y tienes el privilegio de tener la decisión.
 
-## ¿Cúando postular a un empleo?
 
-Muchas ofertas laborales tienen exigencias muy altas. Te piden conocer 50 tecnologías y 10 años de experiencia en frameworks que llevan como máximo 3 años en el mercado. Esto es así por que muchas de las ofertas laborales fueron creadas por el equipo de recursos humanos (un humano no es un recurso, es una persona).
-
-Como regla general si tienes capacidades en al menos 3 tecnologías de las que mencionan, puedes postular. Todas las demás las puedes aprender en el camino durante el trabajo, si es que alguna vez son utilizadas.
-
-Lo importante es que intentes contactar a la empresa directamente, más que pasar por reclutadores o intermediarios. Busca la página web de la empresa y utiliza su formulario de contacto, agenda una reunión y demuestra que eres idóneo para el desafío.
-
-### ¿Por qué es importante priorizar una entrevista?
-
-Tu currículum es un texto que por más bonito que sea, siempre le faltarán detalles que solamente puedes contar en persona. Por ejemplo en un empleo anterior te contrataron por frontend, pero durante el camino también metiste mano en backend y diseñaste soluciones más allá de lo que estaba en tu perfil al ingresar. ¿Cómo podrán saber esto si en tu cv solo pusiste que eras frontend?.
-
-Algunas empresas te podrían descartar si no conoces tecnología a, b, c. Pero tal vez tu les puedas demostrar que si puedes aprender rápido. Pero si no agendas reunión para convencerlos y saltarte el proceso de selección automático que descarta solo por criterios arbitrarios, no podrás tener esa oportunidad.
-
-### ¿Se recomienda contratar amigos o familiares?
+## ¿Se recomienda contratar amigos o familiares?
 
 En el caso en que tú seas quien busque personas para contratar. Trabajar con amigos o familiares cercanos es un arma de doble filo. Si tienes un proyecto o empresa y contratas sus servicios, puede haber acuerdos implícitos. Básicamente puedes causar la ruptura de tu círculo de amigos y familiares cercanos, por ejemplo si no son las personas idóneas para la labor y debes despedirlas. No todas las personas pueden separar relaciones laborales con personales.
 
