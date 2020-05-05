@@ -919,6 +919,19 @@ Libro recomendado: https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X[Ma
 
 En muchas ocaciones tu mismo te cortas las alas, pensando que otra persona o cirscunstancia te impide hacer algo. Es importante tener una actitud positiva y de auto superación. Planifica tu vida para que puedas vivir las experiencias, conocer los lugares y personas, trabajar en lo que más te de alegría. Encuentra los temas que te fascinen y crece cada día. No dejes tu vida al azar.
 
+## Ética Laboral
+
+En muchas ocaciones nos enfrentaremos a un dilema https://es.wikipedia.org/wiki/%C3%89tica[ético - moral]. Donde se solicitarán la ejecución de acciones que probablemente sean ética y moralmente cuestionables. 
+
+Tomemos como ejemplo el caso de https://www.sernac.cl/portal/604/w3-article-3028.html[La Polar], donde se realizó la repactación unilateral y abusiva de las deudas de alrededor de 1 millón de clientes. Los consumidores se quejaron de que en sus cuentas aparecían reprogramaciones que nunca habían aceptado, con cuotas y montos que eran fijados por la empresa y encarecerían excesivamente la deuda, o bien se enteraban de ello tras recibir cartas de cobranza o aparecer en Dicom.
+
+Los ejecutivos que solicitaron el proyecto fueron los mayores imputados por estas malas prácticas. Pero el equipo de tecnología fue quien logró que los sistemas de software cumplieran las características solicitadas. Un sistema de software, sobre todo en empresas que administra dinero y deudas, es laboriosamente auditado, detallado y analizado. El equipo de tecnología sabía perfectamente las consecuencias de ejecutar las órdenes solicitadas y aún así implementó los sistemas para lograr esas malas prácticas.
+
+Siempre puedes utilizar la https://es.wikipedia.org/wiki/Objeci%C3%B3n_de_conciencia[Objeción de conciencia] para no participar en proyectos o realizar acciones que sus consecuencias entren en conflicto con tu marco ético - moral. Muchas veces es una decisión difícil (puede que te cueste el puesto de trabajo).
+
+https://www.tercerainformacion.es/opinion/opinion/2018/09/13/el-numero-1-y-la-etica[Existe un texto que es atribudo a _Al-Juarismi_]; Matemático, geógrafo y astrónomo de una talla intelectual extraordinaria que vivió entre los años 780 y el 850 de nuestra era. Aunque no es posible verificar que realmente sea de su autoría, su contenido es importante de destacar.
+
+> A la pregunta que le hacen, sobre el valor del ser humano, este responde: “Si tiene ética entonces su valor es igual a 1 (uno). Si además es inteligente, agréguele un cero y su valor será igual a 10. Si también es rico, añádale otro cero y su valor será de 100. Si además tiene bello aspecto, agréguele otro cero y su valor será igual a 1000. Pero si pierde el 1 (uno), que corresponde a la ética, perderá todo su valor, pues solamente le quedarán los ceros. Así de sencillo: Sin valores éticos, ni principios sólidos, lo único que queda son delincuentes, corruptos y personas que no valen nada“
 
 ## Marca Personal
 
