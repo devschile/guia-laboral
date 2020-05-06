@@ -933,6 +933,9 @@ https://www.tercerainformacion.es/opinion/opinion/2018/09/13/el-numero-1-y-la-et
 
 > A la pregunta que le hacen, sobre el valor del ser humano, este responde: “Si tiene ética entonces su valor es igual a 1 (uno). Si además es inteligente, agréguele un cero y su valor será igual a 10. Si también es rico, añádale otro cero y su valor será de 100. Si además tiene bello aspecto, agréguele otro cero y su valor será igual a 1000. Pero si pierde el 1 (uno), que corresponde a la ética, perderá todo su valor, pues solamente le quedarán los ceros. Así de sencillo: Sin valores éticos, ni principios sólidos, lo único que queda son delincuentes, corruptos y personas que no valen nada“
 
+### Ley 19.223
+La https://www.leychile.cl/Navegar?idNorma=30590[Ley 19.223] tipifica figuras penales relativas a la informática en Chile.
+
 ## Marca Personal
 
 Es importante cuidar de nuestra reputación y opcionalmente darnos a conocer en el entorno si queremos obtener buenas ofertas laborales. Para esto se recomienda tener una https://en.wikipedia.org/wiki/Personal_branding[marca personal]. Es más simple conseguir un trabajo cuando conocen tus proyectos, han leido tus artículos, libros o asistido a tus charlas. No es necesario que te conviertas en una celebridad que escriba mil libros o que asistas a cada charla y evento disponible, pero es recomendable estar dentro del radar del mundo dev por algún proyecto o aporte que haz realizado. https://dev.to/swyx/marketing-yourself-without-being-a-celebrity-398d[Acá un buen artículo respecto al tema].
