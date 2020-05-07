@@ -1,4 +1,4 @@
-:ext-relative: {outfilesuffix}
+:ext-relative:
 
 # Mallas Universitarias
 
