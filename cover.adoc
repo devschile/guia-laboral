@@ -1,1 +1,6 @@
 
+# cover.adoc
+
+Este archivo es una referencia personal. Incluye un perfil de lo que buscas como profesional y como podrías aportar a la empresa a la que postulas. Ayuda a las personas que te entrevistarán a determinar si eres un candidato que encaje en su cultura empresarial. Se recomienda tener un cover.adoc general y luego crear archivos separados para la empresa que se quiera postular (Ejemplo: cover-empresa1.adoc). Se debería investigar los proyectos en que la empresa ha participado y cómo las habilidades que tienes podrían ser usadas para proyectos similares futuros.
+
+Puedes usar esta investigación para mejorar el `resume.adoc` y destacar los trabajos y habilidades que más se adaptan a lo que busca la empresa.
