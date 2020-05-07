@@ -6,8 +6,8 @@ En el desarrollo de software existen multitud de herramientas, metodologías y t
 
 Si tienes dudas sobre qué temas estudiar. Puedes usar estas mallas universitarias como una guía de referencia sobre los temas para aprender, sus requisitos previos y un orden propuesto.
 
-- link:uvm-software-2006.jpg{ext-relative}[Ingeniería en Software (2006)] - https://www.uvm.cl[Universidad de Viña del Mar]. : Compartido por _Camilo Castro_.
+- link:uvm-software-2006.pdf{ext-relative}[Ingeniería en Software (2006)] - https://www.uvm.cl[Universidad de Viña del Mar]. : Compartido por _Camilo Castro_.
 
-- link:userena-computacion-2015.pdf{ext-relative}[Ingeniería en Computación (2015)] - http://www.userena.cl/[Universidad de La Serena].: Compartido por _Erick Castillo_.
+- link:userena-computacion-2019.pdf{ext-relative}[Ingeniería en Computación (2019)] - http://www.userena.cl/[Universidad de La Serena].: Compartido por _Erick Castillo_.
 
-- link:ingenieria-civil-informatica-uach-2019.pdf{ext-relative}[Ingeniería Civil en Informática (2019)] - http://www.uach.cl/[Universidad Austral de Chile].: Compartido por _Pablo Sáez_.
+- link:uach-ingenieria-civil-informatica-2019.pdf{ext-relative}[Ingeniería Civil en Informática (2019)] - http://www.uach.cl/[Universidad Austral de Chile].: Compartido por _Pablo Sáez_.
