@@ -1,3 +1,4 @@
+:ext-relative: adoc
 :toc: macro
 :toc-title: Tabla de Contenidos
 :toclevels: 99
@@ -946,9 +947,9 @@ Ha llegado la hora de salida. ¿Que hacer ahora?. Algunas personas (muchas veces
 
 ## ¿Qué estudiar?
 
-En el desarrollo de software existen multitud de herramientas, metodologías y tecnologías para aprender. Siempre es recomendable estudiar y mejorar los fundamentos. Se ha incluido la https://github.com/devschile/guia-laboral/blob/master/malla-ingenieria-software-2006.jpg[malla de la carrera _Ingeniería en Software_] de la https://www.uvm.cl[Universidad de Viña del Mar]. Como una guía de referencias sobre los temas para aprender, sus requisitos previos y un orden propuesto.
+Se han incluido mallas universitarias para ayudarte a decidir que temas puedes estudiar.
 
-https://github.com/devschile/guia-laboral/blob/master/malla-ingenieria-software-2006.jpg[Ver Malla].
+link:mallas{ext-relative}[Ver Mallas].
 
 
 ## Cursos Recomendados
