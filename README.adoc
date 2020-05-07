@@ -1,4 +1,4 @@
-:ext-relative: adoc
+:ext-relative: {outfilesuffix}
 :toc: macro
 :toc-title: Tabla de Contenidos
 :toclevels: 99
