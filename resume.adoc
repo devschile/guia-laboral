@@ -1,1 +1,77 @@
 
+# resume.adoc
+
+
+Este archivo es un pequeño resumen del `cv.adoc`. 
+Debe ser adaptado según el trabajo al que se postula. 
+Incluir solamente las actividades relevantes. 
+Se debe actualizar cuando sea necesario. 
+Se recomienda crear un archivo dependiendo del área que se quiera destacar. 
+Por ejemplo un resumen orientado a trabajos para desarrollador iOS puede ser `resume-ios.adoc`. 
+Copiar y pegar la información `cv.adoc` que se necesite y resumirla. 
+Debe contener mínimo una y máximo tres páginas. El Número ideal es de dos páginas.
+
+## Consejos
+
+
+### Consejos para un mejor CV Resumido
+
+Basados en el post de https://css-tricks.com/advice-for-writing-a-technical-resume/[CSS Tricks].
+
+#### Formato impecable
+
+Buena estructura gramatical, excelente ortografía y presentación son fundamentales. Presta atención a lo que escribes y cómo lo escribes. Errores básicos como escribir mal una palabra dan la impresión de falta de prolijidad. Es recomendable que un tercero revise tu currículum para pulirlo adecuadamente antes de ser enviado.
+
+Algunas normas básicas:
+
+- Usa títulos para separar secciones.
+- Utiliza listas para resumir lo más importante.
+- Utiliza una buen tipo y tamaño de fuente para ser más legible.
+- Utiliza buen interlineado para dar aire a las líneas y párrafos.
+- Utiliza sabiamente negritas e itálica, sin abusar.
+
+Usar gráficos o porcentajes para mostrar tu nivel de habilidad e incluir una lista de pasatiempos (hobbies) puede indicar menor experiencia o ser confusos. Es mejor evitarlos.
+
+#### Incluye tus proyectos en Github
+
+Complementario a tu historial de empleos puedes incluir tus proyectos personales disponibles públicamente en _Github_ o similares. Incluso si es tu propio sitio web.  Mostrar tu código ayuda a las personas a determinar si eres a quien necesitan.
+
+Este es una recomendación opcional por que no todos tienen el tiempo o la energía necesaria para mantener un proyecto de software fuera del horario laboral. Pero puede ser de ayuda para personas que están recién comenzando y necesitan demostrar sus habilidades.
+
+#### Muestra tus logros en los empleos que has tenido
+
+En cada trabajo, muestra tus logros. Esto es una buena forma de entregar información valiosa sin verborrea.
+
+> Gracias a mi refactorización de la página de productos, las necesidades de los clientes fueron satisfechas lo que conllevó a un aumento del 25% en las ventas. Se aprovechó de actualizar el código de React.createClass a React Hooks, permitiendo un sistema más flexible y mantenible.
+
+Ese tipo de descripción permite inferir que puedes trabajar en equipo para cumplir objetivos. También demuestra que entiendes el concepto de deuda técnica y eres proactivo para su disminución.
+
+Escribe los logros desde el punto de vista sobre lo que tu aportaste dentro del equipo.
+
+#### Escribe tus experiencias personales
+
+Si tu experiencia laboral es poca o recién sales de la universidad, instituto, liceo o bootcamp. Es totalmente aceptable no tener mucha experiencia. Puedes escribir sobre lo que aprendiste, ¿Qué es lo que te interesa?, ¿Cuáles han sido tus proyectos favoritos?, ¿Cuál fue tu tesis?, ¿Hay algún lugar o video donde puedes mostrar lo que haz hecho?. Normalmente se prefiere a personas con curiosidad y entusiasmo.
+
+#### Se conciso 
+
+Las personas que leerán tu currículum seguro tienen que leer muchos más. Es mejor escribir lo justo y necesario para mostrar tu valor y habilidades. Incluye la mayor cantidad de información útil en el menor espacio posible. Enfócate en los detalles más importantes. Tener más de una página (máximo dos) puede indicar falta de habilidades comunicativas y empatía por quien leerá el documento.
+
+#### Verifica que los datos de contacto sean visibles
+
+Muchas veces se puede olvidar incluir datos básicos como nombre, email y teléfono en un lugar que sea claro y rápido de ver. Procura que sea una de las primeras informaciones que aparezcan en el documento y sean legibles.
+
+#### Escribe tu carta de presentación (cover.adoc)
+
+Se debe incluir una pequeña carta de presentación que indique que haz realizado una investigación previa de la empresa. Lo que te permite entender lo que necesitan en un candidato y por qué razón tu cumples esa necesidad.
+
+Se puede usar esta investigación para adaptar el _resume.adoc_ a la posición que están buscando para que exista una conexión directa entre la oferta laboral y tu documento.
+
+#### Ordenar de lo más reciente a lo más antiguo
+
+El orden cronológico inverso es la mejor forma de ordenar los trabajos realizados. Permite mostrar cuan recientes están tus habilidades en un área. También aplica para tu experiencia educativa. La persona que lee tu documento podrá decidir si seguir leyéndolo basado en tu experiencias más recientes.
+
+### Ejemplo de curriculum
+
+Aca esta un _CV_ que te puede servir como referencia para tener un buen formato de curriculum. Es de https://en.wikipedia.org/wiki/Tarah_Wheeler[Tarah Wheeler Van Vlack], una experta en ciber seguridad.
+
+https://user-images.githubusercontent.com/292738/66255233-b8cb1a00-e757-11e9-96f8-7c924417cf2c.png[Ver Imagen de CV Completa] 
