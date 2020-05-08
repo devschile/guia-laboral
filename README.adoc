@@ -705,7 +705,7 @@ Similar al de plazo fijo, pero sin duración determinada.
 
 Trabajar de forma remota es una buena opción para todos aquellos que desean tener un estilo de vida más libre. Sin la obligación de asistir a una oficina todos los días. Sin tener que viajar una, dos, o hasta cuatro horas en el transporte público o tener que manejar ese tiempo.
 
-Lamentablemente en Chile, muchas organizaciones aún no están listas para implementar el trabajo remoto. Pero existen algunas empresas nacionales y muchas empresas internacionales que dan esta posibilidad. Para más detalles revisar la guía https://polymeris.github.io/remoto-desde-chile/ o también la guía de https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf[Gitlab].
+Lamentablemente en Chile, muchas organizaciones aún no están listas para implementar el trabajo remoto. Pero existen algunas empresas nacionales y muchas empresas internacionales que dan esta posibilidad. Para más detalles revisar la guía https://polymeris.github.io/remoto-desde-chile/ o también la guía de https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf[Gitlab] o la de https://www.toptal.com/remote-work-playbook[TopTal].
 
 ### Equipo necesario
 
