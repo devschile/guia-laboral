@@ -362,9 +362,11 @@ Como regla general si tienes capacidades en al menos 3 tecnologías de las que m
 
 ### Postula a varias empresas a la vez
 
-No hay garantías de que la empresa te acepte o incluso de que te responda en un plazo razonable. Muchas empresas (sobre todo las más grandes) reciben enormes cantidades de postulaciones, por lo que puede que la tuya no fuera revisada. Lo mejor es postular a dos o incluso tres empresas. Tener varias entrevistas te ayudará a desarrollar tus habilidades en ese contexto. Además tener varias ofertas te permite comparar y seleccionar la mejor que se adapte a tus necesidades y puedes incluso usar la oferta de la competencia para obtener mejores beneficios en la siguiente entrevista (pueden igualar o mejorar la oferta). 
+No hay garantías de que la empresa te acepte o incluso de que te responda en un plazo razonable. Muchas empresas (sobre todo las más grandes) reciben enormes cantidades de postulaciones, por lo que puede que la tuya no fuera revisada. *Lo mejor es postular desde tres o incluso a diez empresas a la vez por semana*. Tener varias entrevistas te ayudará a desarrollar tus habilidades en ese contexto. Además tener varias ofertas te permite comparar y seleccionar la mejor que se adapte a tus necesidades y puedes incluso usar la oferta de la competencia para obtener mejores beneficios en la siguiente entrevista (pueden igualar o mejorar la oferta). 
 
 Finalmente es bueno agendar varias entrevistas en un espacio de tiempo cercano (la misma semana, máximo dos semanas de separación) por que las ofertas tienen un plazo corto para ser aceptadas ya que normalmente se necesita ocupar el rol rápidamente. Ten un plan A, plan B e incluso plan C para elegir.
+
+Una técnica es tener un _cover letter_ general con todas tus habilidades y solamente llenarlo con el párrafo para cada postulación, orientado a la empresa que quieres llegar. Investiga bien la empresa para determinar si es el lugar que te serviría para avanzar en tu carrera profesional y te gustaría trabajar ahí.
 
 
 ### ¿Por qué es importante priorizar una entrevista?
@@ -378,6 +380,10 @@ Algunas empresas te podrían descartar si no conoces tecnología a, b, c. Pero t
 ### Prepárate para negociar
 
 Muchas empresas no te darán su mejor oferta al principio. La mayoría espera a un proceso de negociación. Lo importante es que cualquier beneficio o monto acordado quede registrado en un papel o por lo menos un email para poder luego ser incluido en el contrato.
+
+Puedes leer este artículo sobre negociación: 
+
+- https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
 
 ### ¿Qué pasa si me llega una mejor oferta?
 
@@ -438,6 +444,20 @@ Responder todo de forma fría, cortante o simplemente falto de calor humano, no 
 Como haz realizado tu labor investigativa puedes hacer preguntas para saber un poco más de la empresa. Normalmente relacionadas al negocio más que a lo técnico. Ejemplos: ¿Cómo es el modelo?, ¿Cómo generan ingresos?, ¿Cuál fue el ingreso neto del último período contable?, ¿Cuántos son en el equipo dev, cómo se organizan?, ¿Qué clientes tienen?. Todo eso te va a hacer una mejor idea de adonde podrías llegar y si aceptarías el empleo. 
 
 Pregunta sobre cómo funciona todo el proceso, cuántos pasos son y cuánto tomaría en tiempo total.
+
+### Usa S.T.A.R para responder preguntas
+
+Para dar mejores respuestas puedes usar el marco de trabajo S.T.A.R. (_Situación, Tareas, Acciones y Resultado_). Este marco de trabajo permite entregar la mayor información posible de forma estructurada y sencilla. Es ideal para responder preguntas del tipo comportamiento o describir los logros que haz alcanzado.
+
+- Situación (Situation): El contexto, define dónde, cúando y quiénes estuvieron involucrados.
+- Tareas (Tasks): ¿Qué cosas se tenían que hacer?, ¿Por qué se debian hacer?.
+- Acciones (Actions): ¿Qué acciones tomaste para completar las tareas?.
+- Resultado (Result): ¿Qué se obtuvo luego de realizar las acciones?, ¿Se completaron las tareas?, ¿Tienes cifras exactas?.
+
+#### Más información
+
+- https://www.themuse.com/advice/star-interview-method
+- https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
 
 ### Preguntas que es mejor evitar responder
 
