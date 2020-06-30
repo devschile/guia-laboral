@@ -393,6 +393,33 @@ Puedes leer más en este artículo sobre negociación:
 
 Digamos que aceptaste una oferta y a la semana de entrar a trabajar llega una mejor. ¿Conviene aceptarla?. Quizás. Depende de lo que quieras. Pero no te sientas mal en aceptar la oferta y salir a otro lado. Piensa de que la empresa puede despedirte en cualquier momento si sus fondos son disminuidos o tu posición en la empresa ya no es necesaria. Siempre vela por tu seguridad financiera y felicidad laboral. Existen casos en que el contrato puede impedirte hacer ese tipo de movimientos, por lo que leelo a cabalidad de preferencia con un asesor experimentado antes de firmar.
 
+## Metodología de la postulación
+
+Para tener éxito al momento de postular debes saber las siguientes cifras (Según https://talently.tech/[Talently]):
+
+- Del _100%_ de postulaciones. El _80%_ es rechazada sin pasar a primera etapa (te pueden o no avisar) y el _20%_ pasa a la primera etapa.
+- En la primera etapa, donde haces una entrevista o prueba. Solo pasa el _8%_ a segunda etapa y el _12%_ es rechazado.
+- Esto deja solamente un _3%_ de probabilidad de recibir una oferta laboral. 
+
+Esto es tanto para trabajos de poca experiencia (Junior) como para ofertas Remotas o de empresas populares. Ambas reciben una cantidad gigante de postulantes, por lo que la competencia es ardua.
+
+La técnica es postular por lo menos a _50_ trabajos en un período de _5_ semanas. Lo que te da un mejor chance de recibir una oferta laboral
+dentro de las próximas _8_ semanas. Para lograr esto se recomienda postular a _10_ empleos por semana, es decir, _2_ empleos por día. Puedes usar un monitor de hábitos para cumplir estos objetivos.
+
+Lo ideal es saber ¿Por qué quieres encontrar un nuevo empleo?, ¿Qué te motiva?, ¿En qué áreas te gustaría desarrollarte personal y profesionalmente?, ¿Qué experiencias nuevas quieres vivir?.
+
+Naturalmente si postulas a muchas empresas con un perfil flojo, habrá menos posibilidades de pasar el primer filtro del _80%_. Además de la cantidad, debes velar por la calidad de tus postulaciones.
+
+Ten en mente lo siguiente:
+
+- Prepara varios _resume_, adecuados para destacar tus experiencias en una tecnología o área. (Ej: Backend con Javascript, Backend con Python, Backend con PHP). Destácate y adáptalo a la empresa y empleo ofrecido. ¡Tu eres a quién búscan y necesitan!.
+
+- Prepara un cover letter donde definas tus experiencias, lo que quieres vivir y cómo puedes entregar valor a la empresa a postular. Puedes obtener experiencias no relacionadas al mundo laboral e incluirlas para hacer tu perfil aún más sólido.
+
+- Busca empresas que te ayuden a desarrollar tus áreas definidas. Que tengan buenas condiciones, buen sueldo y te gustaría trabajar ahí.
+
+- Ten confianza y paciencia, esto es un juego de números. Simplemente a mayor cantidad y calidad de la postulación, más es la probabilidad de éxito.
+
 ## Tips para Entrevistas Laborales
 
 En la https://beerjs.cl/santiago[Beer.JS Santiago] de Octubre del 2019, *Jorge Epuñan* nos compartió sus tips para entrevistas laborales. Pueden verlo acá (Comienza en el minuto 32). https://youtu.be/wB79gsTfmZY?t=1976[Video de BeerJS Santiago Octubre 2019]. https://www.beerjs.cl/santiago/oct2019/[Presentación].  https://github.com/beerjs/santiago/issues/88[GitHub].
