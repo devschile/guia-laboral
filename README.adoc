@@ -420,6 +420,40 @@ Ten en mente lo siguiente:
 
 - Ten confianza y paciencia, esto es un juego de números. Simplemente a mayor cantidad y calidad de la postulación, más es la probabilidad de éxito.
 
+- Aprende algunas tácticas de marketing y copy writing para mejorar tu cover letter. Pueden ser de ayuda al escribir y presentar ideas.
+
+## Antes de la Entrevista
+
+Muchas empresas utilizan diversos métodos para filtrar a los postulantes antes de ofrecer una entrevista. Desde una simple recomendación, hasta un complicado proceso de varios pasos. Todo dependerá de la empresa, aunque es normal ver sistemas de varios pasos en empresas grandes y bien organizadas. Las empresas pequeñas o muy nuevas como startups son más simples.
+
+- Lectura recomendada: https://www.freecodecamp.org/news/what-i-learned-from-doing-60-technical-interviews-in-30-days/
+
+### Desafío de programación en casa
+
+En este paso la empresa ofrece un pequeño proyecto de programación. Por ejemplo hacer un _To Do_ list o alguna cosa similar. La idea es que el proyecto requiera un par de horas hacerlo, pero tampoco demasiadas.
+
+Como tiene más tiempo para resolver el desafío, se tiende a dedicar muchas horas. Lo ideal es que realmente brilles en estos desafíos.
+
+#### Recomendaciones
+
+- Brilla lo más que puedas. *Calidad máxima*. TDD, Clean Code, metodología de commits (git-flow, gitlab-flow o github-flow), docker, documentación excelente y buenas prácticas en general.
+
+- Usa tecnologías que domines y prioriza lo simple, probado y elegante. No es momento de experimentar con tecnologías y soluciones complejas o experimentales. Si conoces tus herramientas será más fácil crear un producto sólido y profesional.
+
+- Entrena con proyectos propios. Te ayudarán a tener una estructura base y conocer en profundidad tus herramientas. Lo ideal es que siempre los hagas con una tecnología que permita buenas prácticas y excelentes herramientas en su ecosistema.
+
+- Tómatelo super en serio. Ten claridad si realmente quieres ser parte de esa empresa antes de participar en sus desafíos de programación en casa. La calidad del código y del proyecto es prioridad. Se muy estricto con tus decisiones de diseño, estructura de código, convenciones de nombramiento y relacionados. Prepárate para defender tus decisiones.
+
+#### Precauciones 
+
+No todos los proyectos de programación en casa son iguales y algunas empresas abusan de estos para tener trabajo gratis.
+
+- No firmar _NDA_ (https://es.wikipedia.org/wiki/Acuerdo_de_confidencialidad[_Non Disclosure Agreement_]). Si la empresa te dice que debes firmar un _NDA_ antes de comenzar el coding challenge entonces puede ser un indicador de una mala empresa. Deberías ser libre de compartir tu código si lo deseas, por que te puede servir para tu _CV_. Si te exigen un _NDA_ deberían remunerarte apropiadamente por guardar su secreto.
+
+- Exigir proyectos muy complejos. Se espera un proyecto simple que permita ver tu metodología, la calidad de código y cómo estructuras los proyectos. No que resuelvas e implementes aplicaciones completas o complejas. Si ves que un proyecto toma más de la cantidad razonable de tiempo que esperas dedicarle, es mejor desecharlo. La recomendación es un proyecto de máximo un día de trabajo (8 horas).
+
+
+
 ## Tips para Entrevistas Laborales
 
 En la https://beerjs.cl/santiago[Beer.JS Santiago] de Octubre del 2019, *Jorge Epuñan* nos compartió sus tips para entrevistas laborales. Pueden verlo acá (Comienza en el minuto 32). https://youtu.be/wB79gsTfmZY?t=1976[Video de BeerJS Santiago Octubre 2019]. https://www.beerjs.cl/santiago/oct2019/[Presentación].  https://github.com/beerjs/santiago/issues/88[GitHub].
