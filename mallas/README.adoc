@@ -8,6 +8,69 @@ Si tienes dudas sobre qué temas estudiar. Puedes usar estas mallas universitari
 
 - link:uvm-software-2006.pdf{ext-relative}[Ingeniería en Software (2006)] - https://www.uvm.cl[Universidad de Viña del Mar]. : Compartido por _Camilo Castro_.
 
+- link:uvm-ingenieria-civil-informatica-2020.pdf{ext-relative}[Ingeniería Civil en Informática (2020)] - https://www.uvm.cl[Universidad de Viña del Mar].
+
 - link:userena-computacion-2019.pdf{ext-relative}[Ingeniería en Computación (2019)] - http://www.userena.cl/[Universidad de La Serena].: Compartido por _Erick Castillo_.
 
 - link:uach-ingenieria-civil-informatica-2019.pdf{ext-relative}[Ingeniería Civil en Informática (2019)] - http://www.uach.cl/[Universidad Austral de Chile].: Compartido por _Pablo Sáez_.
+
+## ¿Qué es el auto estudio?
+
+El Aprendizaje Autónomo es un proceso en que el estudiante autorregula su aprendizaje y toma conciencia de sus procesos cognitivos y socioafectivos (Crispín, et al., 2011). 
+
+Mas detalles en el artículo de http://abierta.pucv.cl/wordpress/index.php/2018/04/13/autonomia-en-el-aprendizaje/[Autonomía en el Aprendizaje].
+
+## Calendarización de estudio
+
+Para poder agendar los temas a estudiar se puede utilizar la siguiente estructura.
+
+### Semestres
+
+La carrera esta dividida en diez semestres. Un semestre tiene la duración de cuatro meses. Son dos semestres por año. Por lo que el período de estudio estimado es de *cinco años*. Se acostumbra tener un período lectivo de tres meses con un período de final de exámenes de un mes por semestre.
+
+El año se puede distribuir de la siguiente forma:
+
+- _Primer Semestre_: Marzo - Junio.
+- _Vacaciones_: Julio - Agosto.
+- _Segundo Semestre_: Agosto - Noviembre.
+- _Vacaciones_: Diciembre - Febrero.
+
+La carrera puede durar menos si se omiten los períodos de vacaciones, aunque eso es a elección del estudiante. Como mínimo se recomienda 30 días de descanso por año.
+
+### Semana
+
+La semana esta dividida en seis días de _Lunes_ a _Sábado_. 
+
+- Opción 1: Con catorce claves horarias de _45_ minutos cada una con _15_ minutos de receso entre cada clave. Normalmente la clave _5_ es dedicada a un período de almuerzo y la clave _10_ a un periodo de cena.
+
+- Opción 2: Con doce claves horarias de de _60_ minutos cada una con _10_ minutos de receso entre cada clave. Tiene un periodo de almuerzo de _40_ minutos a las _13:00_.
+
+
+[width="100%"]
+|====
+| Clave | Desde | Hasta | Desde (Opción 2) | Hasta
+| 1  | 8:30  | 9:15    | 8:20  | 9:20
+| 2  | 9:30  | 10:15   | 9:30  | 10:30
+| 3  | 10:30 | 11:15   | 10:40 | 11:40
+| 4  | 12:30 | 13:15   | 11:50 | 12:50
+| 5  | 13:30 | 14:15   | 13:40 | 14:40
+| 6  | 14:30 | 15:15   | 14:50 | 15:50
+| 7  | 15:30 | 16:15   | 16:00 | 17:00
+| 8  | 16:30 | 17:15   | 17:10 | 18:10
+| 9  | 17:30 | 18:15   | 18:20 | 19:20
+| 10 | 18:30 | 19:15   | 19:30 | 20:30
+| 11 | 19:30 | 20:15   | 20:40 | 21:40
+| 12 | 20:30 | 21:15   | 21:50 | 22:50
+| 13 | 21:30 | 22:15   |   -   | -
+| 14 | 22:30 | 23:15   |   -   | -
+|====
+
+### Asignaturas
+
+Cada asignatura tiene un periodo lectivo de mínimo de una clave por semana y máximo cuatro claves por semana. Una asignatura puede tener máximo dos claves lectivas por día. Adicionalmente cada asignatura debe tener un periodo de ejercicios práctico o de estudio aplicado de mínimo una clave y máximo dos claves por semana.
+
+El máximo de asignaturas permitido por semestre son siete y el mínimo recomendado son tres. Se debe considerar también un periodo de estudio de materiales adicionales y proyectos complementarios dentro de las claves horarias semanales para profundizar los temas.
+
+#### Ejemplo
+
+image:https://user-images.githubusercontent.com/292738/87228757-38ce8200-c371-11ea-9fac-f3d9f2c90865.png[]
