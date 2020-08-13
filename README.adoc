@@ -1067,6 +1067,32 @@ Es importante cuidar de nuestra reputación y opcionalmente darnos a conocer en 
 
 Ha llegado la hora de salida. ¿Que hacer ahora?. Algunas personas (muchas veces que están solteras y sin hijos) no tienen claridad sobre que actividades hacer despúes del trabajo. Algunas incluso prefieren trabajar un poco más para avanzar el proyecto, ya que no tienen nada mejor que hacer despúes. Este tipo de comportamiento normalmente conduce al _burnout_ y otras situaciones complicadas. Procura que tu actividad laboral no sea la única actividad que realices. Búsca un pasatiempo como componer canciones, poemas, pinturas. Aprender a cocinar platos deliciosos, reúnete con amigos, haz algún deporte, medita, unete algún club o simplemente descansa viendo alguna película. Existe un montón de actividades que puedes realizar fuera del mundo laboral. Cultiva tu vida, el trabajo solo es una pequeña actividad dentro del gran abanico de posibilidades.
 
+## Ser Freelance/Contratista vs Empleado
+
+Muchas veces uno tiende a preferir unas condiciones más flexibles que el típico horario de trabajo en un empleo normal.
+Algunos prefieren el camino del freelance/contratista frete a ser un empleado más. Sin embargo antes de que te aventures
+tienes que conocer las siguientes características de realizar trabajos freelance/contratista:
+
+. Si no haces un buen contrato pueden abusar de ti. No pagando sueldos o cambiando las condiciones del proyecto a mitad de haber comenzado.
+. Tiendes a trabajar más horas que un empleo normal. Puedes ganar un poco más, ¿Pero justifica trabajar 20 horas al día?. Ólvidate de tener vacaciones, fines de semana, pensión y salud. Tendrás que gestionarlas tu mismo.
+. Hay tendencia de conseguir trabajos "cachos" que nadie más quiere hacer y por eso buscan a un contratista. Los proyectos pueden tener códigos muy poco ordenados y las condiciones laborales son más adversas que en un empleo normal.
+. Hay tendencia a ganar poco dinero por trabajo. Las empresas tienden a buscar al más barato, no al más idóneo para la labor.
+. No tienes tiempo para mejorar/estudiar. Al estar con constante trabajo pasas la mayor parte del tiempo solo picando código o buscando clientes.
+. No hay ninguna garantía que en los próximos 12 meses tengas algún dinero.
+
+Por esas razones el mundo del freelance/contratista es muy hostil y no es recomendable entrar en él hasta que uno tenga suficiente
+espalda económica como para aguantar unos 6 meses sin trabajo y tenga suficiente experiencia para lidear con clientes "cachos" y detectarlos
+con tiempo para evitar abusos. También deber tener un set de herramientas muy diverso y bien entrenado para que cada proyecto lo puedas
+sacar en tiempo record. Si tomas cualquier proyecto sin conocer tus herramientas puedes arriesgarte a una sobre carga de estrés, plazos
+no razonables y depresión.
+
+Tener una o varias malas experiencias laborales puede hacer que pierdas la "chispa". Que veas el mundo laboral informático como una bola de mugre 
+con solo proyectos "cachos", malos pagos y abusos de toda índole. Esto también puede llevar a una depresión y a quemarse o sufrir del síndrome
+del impostor. Si estas en esa situación procura asistir con un profesional de la salud mental y otras terapias que te ayuden a sanar esas heridas.
+El mundo laboral informático es como cualquier otro, tiene buenos proyectos y malos proyectos. Buenas personas y otras que es mejor olvidar.
+Si haz ingresado al mundo laboral informático y no te ha gustado, también es viable salir si encuentras una actividad más atractiva para tus necesidades.
+
+
 ## ¿Qué estudiar?
 
 Se han incluido mallas universitarias para ayudarte a decidir que temas puedes estudiar.
