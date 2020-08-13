@@ -393,6 +393,8 @@ Puedes leer más en este artículo sobre negociación:
 
 Digamos que aceptaste una oferta y a la semana de entrar a trabajar llega una mejor. ¿Conviene aceptarla?. Quizás. Depende de lo que quieras. Pero no te sientas mal en aceptar la oferta y salir a otro lado. Piensa de que la empresa puede despedirte en cualquier momento si sus fondos son disminuidos o tu posición en la empresa ya no es necesaria. Siempre vela por tu seguridad financiera y felicidad laboral. Existen casos en que el contrato puede impedirte hacer ese tipo de movimientos, por lo que leelo a cabalidad de preferencia con un asesor experimentado antes de firmar.
 
+Eres libre de cambiarte de trabajo si encuentras que tu ambiente laboral es tóxico. No es recomendable mantenerse dentro de una empresa que te está perjudicando la salud emocional, mental y física, solamente por que no quieres estar un tiempo sin trabajo. Procura siempre tener un colchón de ahorros que te permita agüantar un tiempo sin trabajar para que puedas buscar tranquilamente un empleo hasta encontrar el indicado con buena paga, buenos proyectos y te sientas feliz trabajando.
+
 ## Metodología de la postulación
 
 Para tener éxito al momento de postular debes saber las siguientes cifras (Según https://talently.tech/[Talently]):
@@ -427,6 +429,39 @@ Ten en mente lo siguiente:
 Muchas empresas utilizan diversos métodos para filtrar a los postulantes antes de ofrecer una entrevista. Desde una simple recomendación, hasta un complicado proceso de varios pasos. Todo dependerá de la empresa, aunque es normal ver sistemas de varios pasos en empresas grandes y bien organizadas. Las empresas pequeñas o muy nuevas como startups son más simples.
 
 - Lectura recomendada: https://www.freecodecamp.org/news/what-i-learned-from-doing-60-technical-interviews-in-30-days/
+
+### System Design Interview
+
+Esta es una prueba más especial debido a que no tiene tanto programación. Esta enfocada a medir la capacidad de diseñar sistemas.
+Puede aparecer preguntas como: Diseña un sistema similar a _Twitter_ o _Uber_.
+
+- Aprende _UML_. Especialmente los diagramas de componentes, de secuencia y de actividad.
+- Aprende sobre escalamiento. Vertical y Horizontal.
+- Aprende sobre networking y servidores. Balanceadores de carga, protocolos de comunicación (TCP, UDP, Websockets, HTTP, MQTT, RPC).
+- Aprende a calcular los costos de funcionamiento. Si los usuarios aumentan a 100 mensual y el espacio de almacenamiento será de 10 MB por usuario, dando un aumento mensual de 1000 MB de espacio requerido.
+- Aprende sobre base de datos. MySQL, Postgres, Mongo, SQLServer, Oracle. Sus requerimientos pro y contra. ¿En qué caso de uso se pueden usar?.
+- Aprende sobre _Kubernetes_ y arquitecturas Cloud en Google, AWS o Azure.
+- Aprende sobre la metodología de cómo tomar requerimientos.
+- Curso Recomendado: https://www.educative.io/courses/grokking-the-system-design-interview
+
+### Desafío de Algoritmos y Estructura de Datos
+
+En algunas empresas utilizan desafíos de algoritmos y estructuras de datos para medir tu calidad como programador. Normalmente es una prueba entre 45 a 60 minutos.
+Puedes aprender muchos de los conceptos necesarios, puedes buscar en distintas páginas de internet y youtube. Una buena página (de pago) es https://www.interviewcake.com/
+
+#### Recomendaciones
+
+- Practica con ejercicios en https://www.hackerrank.com/[_Hacker Rank_], https://leetcode.com/[_Leetcode_], https://www.codechef.com/[_Code Chef_] y similares.
+
+- Aprende https://www.python.org/[_Python_] y úsalo para estos desafíos. Puede que tu lenguaje de programación favorito no esté disponible al momento de la entrevista. Se recomienda estudiar _Python_ por que es el más transversal en este tipo de ejercicios.
+
+- Entrena resolviendo aunque sea 1 ejercicio al día, variando su dificultad. La recomendación es 1 hora diaria (6 a la semana).
+
+- Aprende conceptos básicos: Notación Big O, Logaritmos, Polinómios, Graficación Asintótica, Runtime Complexity, Space Complexity, Estructura de Datos y Algoritmos.
+
+- Apunta a resolver los ejercicios en máximo 45 minutos.
+
+- Libros recomendados: https://www.manning.com/books/grokking-algorithms , http://www.crackingthecodinginterview.com/
 
 ### Desafío de programación en casa
 
