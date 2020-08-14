@@ -1,6 +1,6 @@
 # _Seniority_ por Nivel
 
-En muchas empresas se hablan de distintos niveles de _seniority_. Sin embargo es un concepto muy ambigüo ya que varía entre cada empresa. 
+En muchas empresas se habla de distintos niveles de _seniority_. Sin embargo es un concepto muy ambigüo ya que varía entre cada empresa. 
 Para poder estandarizar un poco, se detallará lo que se espera de un profesional en cada nivel. Basado según los criterios de 
 la empresa https://www.ockam.io/[Ockam Network].
 
