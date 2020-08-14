@@ -894,7 +894,13 @@ Malas prácticas como tener una cámara web encendida todo el día, aplicaciones
 
 No se puede violar la intimidad ni la privacidad de las personas. Los mecanismos de control que el empleador puede tener son los que respetan los derechos fundamentales de las personas, que respetan los derechos laborales. Esto ya está regulado por dictámenes de la Dirección del Trabajo hace mucho tiempo.
 
+## Seniority
 
+En muchas empresas se hablan de distintos niveles de _seniority_ (_Junior_, _Engineer_, _Senior Engineer_, etc.). Sin embargo es un concepto muy ambigüo ya que varía entre cada empresa. Para poder estandarizar un poco, se debe detallar lo que se espera de un profesional en cada nivel.
+
+Es la responsabilidad de la empresa y del equipo de trabajo proveer un ambiente donde cada indiviuo este empoderado para ser y crecer al nivel mundial (world-class) en su rol y habilitarlos para alcanzar más de lo que pensaban posible para ellos mismos.
+
+Para un detalle más extenso visitar el link:seniority.adoc{ext-relative}[documento seniority.adoc]
 
 ## Burn Out (Quemado)
 
@@ -1086,21 +1092,25 @@ con tiempo para evitar abusos. También deber tener un set de herramientas muy d
 sacar en tiempo record. Si tomas cualquier proyecto sin conocer tus herramientas puedes arriesgarte a una sobre carga de estrés, plazos
 no razonables y depresión.
 
+## Palabras Finales
+
 Tener una o varias malas experiencias laborales puede hacer que pierdas la "chispa". Que veas el mundo laboral informático como una bola de mugre 
 con solo proyectos "cachos", malos pagos y abusos de toda índole. Esto también puede llevar a una depresión y a quemarse o sufrir del síndrome
 del impostor. Si estas en esa situación procura asistir con un profesional de la salud mental y otras terapias que te ayuden a sanar esas heridas.
-El mundo laboral informático es como cualquier otro, tiene buenos proyectos y malos proyectos. Buenas personas y otras que es mejor olvidar.
+El mundo laboral informático es como cualquier otro, tiene buenos proyectos y malos proyectos. Buenas personas y otras que es mejor olvidar. 
+Si te das cuentas que estás en un ambiente tóxico, trata de salir de ahí lo más pronto posible. No vale la pena soportar y participar en un proyecto o
+trabajar junto a personas o condiciones que no te son gratas. Siempre puede haber mejores oportunidades y lugares de trabajo satisfactorios.
 Si haz ingresado al mundo laboral informático y no te ha gustado, también es viable salir si encuentras una actividad más atractiva para tus necesidades.
+Lo importante es siempre priorizar tu felicidad y desarrollo profesional/personal.
 
-
-## ¿Qué estudiar?
+## Anexo A: ¿Qué estudiar?
 
 Se han incluido mallas universitarias para ayudarte a decidir que temas puedes estudiar.
 
 link:mallas{ext-relative}[Ver Mallas].
 
 
-## Cursos Recomendados
+## Anexo B: Cursos Recomendados
 
 - https://miriadax.net/web/habilidades-y-competencias-a-traves-del-coaching-personal-9-edicion-/inicio[Habilidades y competencias a través del coaching personal].
 
@@ -1134,7 +1144,7 @@ link:mallas{ext-relative}[Ver Mallas].
 
 - https://miriadax.net/web/filosofia-iii/inicio[Filosofía III].
 
-## Libros Recomendados
+## Anexo C: Libros Recomendados
 
 - https://blog.codinghorror.com/recommended-reading-for-developers/
 
@@ -1158,10 +1168,9 @@ link:mallas{ext-relative}[Ver Mallas].
 
 - https://basecamp.com/books/calm[It Doesn't Have to Be Crazy at Work]
 
-## Páginas Relacionadas
+## Anexo D: Páginas Relacionadas
 
 - https://devschile.cl
-
 - https://triplebyte.com/
 - https://www.getonbrd.com/
 - https://www.glassdoor.com/
