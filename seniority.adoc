@@ -9,7 +9,14 @@ proveer un ambiente donde cada indiviuo este empoderado para ser y crecer al niv
 y habilitarlos para alcanzar más de lo que pensaban posible para ellos mismos.
 
 Esta guía pretende ayudar para alinear las expectativas y crear un marco de trabajo donde se tenga un lenguaje en común
-para describir los caminos de desarollo profesional.
+para describir los caminos de desarollo profesional y permitir conversaciones honestas. 
+
+Se debe usar como una guía de auto evaluación. Primero hay que definir si el cargo es para un miembro del equipo de desarollo (ejemplo: _Engineer_)
+o es para un miembro del equipo de gestión (_CTO_). No se espera que un candidato cumpla con todos las características en la tabla a cabalidad. La tabla es una 
+guía y una forma de facilitar la conversación. Es probable y totalmente válido, que un ingeniero _Senior_ (Nivel 5) pueda tener algunas cualidades nivel 4 y otras nivel 6.
+
+También considerar que una oferta de trabajo para Nivel 6 (_Arquitect_) pudiera ser perfectamente viable para un Nivel 3/4 bien sólido. Ya que
+las tareas, exigencias, expectativas y perfil de desarollo profesional puede ser adaptado para las necesidades de cada candidato y puesto de trabajo.
 
 ## Engineering - Individual Contributors
 
