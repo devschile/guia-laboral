@@ -18,6 +18,8 @@ guía y una forma de facilitar la conversación. Es probable y totalmente válid
 También considerar que una oferta de trabajo para Nivel 6 (_Arquitect_) pudiera ser perfectamente viable para un Nivel 3/4 bien sólido. Ya que
 las tareas, exigencias, expectativas y perfil de desarollo profesional puede ser adaptado para las necesidades de cada candidato y puesto de trabajo.
 
+Además de este marco de trabajo puedes revisar los disponibles en https://www.progression.fyi/
+
 ## Engineering - Individual Contributors
 
 ++++
