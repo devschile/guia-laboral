@@ -896,7 +896,7 @@ No se puede violar la intimidad ni la privacidad de las personas. Los mecanismos
 
 ## Seniority
 
-En muchas empresas se hablan de distintos niveles de _seniority_ (_Junior_, _Engineer_, _Senior Engineer_, etc.). Sin embargo es un concepto muy ambigüo ya que varía entre cada empresa. Para poder estandarizar un poco, se debe detallar lo que se espera de un profesional en cada nivel.
+En muchas empresas se habla de distintos niveles de _seniority_ (_Junior_, _Engineer_, _Senior Engineer_, etc.). Sin embargo es un concepto muy ambigüo ya que varía entre cada empresa. Para poder estandarizar un poco, se debe detallar lo que se espera de un profesional en cada nivel.
 
 Es la responsabilidad de la empresa y del equipo de trabajo proveer un ambiente donde cada indiviuo este empoderado para ser y crecer al nivel mundial (world-class) en su rol y habilitarlos para alcanzar más de lo que pensaban posible para ellos mismos.
 
@@ -1092,14 +1092,69 @@ con tiempo para evitar abusos. También deber tener un set de herramientas muy d
 sacar en tiempo record. Si tomas cualquier proyecto sin conocer tus herramientas puedes arriesgarte a una sobre carga de estrés, plazos
 no razonables y depresión.
 
+## ¿Cómo mejorar tus posibilidades de encontrar trabajo?
+
+Para algunas personas encontrar trabajo es relativamente sencillo, tienen tanta buena reputación, experiencia, contactos y proyectos bajo el brazo,
+que las empresas no lo tienen que pensar dos veces para contratarlos y están constantemente recibiendo ofertas laborales. Este tipo de personas
+está en una liga distinta a los demás ya que usualmente no requieren de un currículum, solamente su nombre y contactos suelen ser suficientes
+para obtener una gran oferta.
+
+Llegar a ese nivel es posible, pero es un camino que no todos quieren o pueden recorrer, por que requiere de una mejora constante, estudio y
+una gran cantidad de horas perfeccionando las habilidades tanto blandas como técnicas.
+
+Implica que para el primer día de trabajo ya puedas ser un gran aporte al equipo y entregar valor. Conoces (sobre el promedio) tanto las herramientas básicas como las específicas para realizar las tareas encomendadas. Tener un título universitario, haber salido de un bootcamp tecnológico o tener varios años de experiencia
+no te da las suficientes credenciales para ser contratado con facilidad o por un buen sueldo y tienes que luchar en la jungla de las ofertas laborales para conseguir una oportunidad. 
+
+Recuerda que al momento de buscar trabajo te estás vendiendo al mejor postor, si quieres destacar y recibir mejores ofertas tienes que ser excelente en lo que hagas.
+
+La primera cosa es una auto-evaluación. ¿Seré un aporte al equipo o seré una carga?. 
+
+Ser una carga implica desconocer tus herramientas, estar verde, haz hecho pocos proyectos con ellas y la mayor parte del tiempo estás buscando tutoriales en Google, cursos y preguntas en StackOverflow sobre cosas básicas que se esperan ser conocidas por alguien con experiencia. Te toma mucho tiempo realizar tareas básicas y tienes que dedicarle varias horas antes de lograr resolver problemas simples. Entrar a una empresa en este estado te será muy estresante ya que probablemente no cumplas los plazos, tengas que estar aprendiendo sobre la marcha y generalmente entregues código de baja calidad. Lo que probablemente cause que después del período de prueba, no tengas nuevo contrato. 
+
+Hay muy pocas empresas que dedicarían tiempo para tu formación en estas cosas básicas, normalmente se asume que las conoces y luego simplemente te ofrecerán capacitación y crecimiento acorde al plan de carrera, según desempeño y necesidades de la empresa.
+
+Ser un aporte al equipo implica tener varios proyectos realizados con tus herramientas y conocerlas tan bien que el primer día de trabajo puedes ser productivo y entregar valor. Se recomienda mínimo 5 proyectos de diversa índole y dificultad que permita explorar los distintos casos de uso que tus herramientas puedan cumplir. Lo ideal es que sean proyectos dignos y que causes un _"wow"_ a las personas que los vean. Proyectos lo más cercano posibles a lo que encontrarías dentro de un trabajo. No que simplemente sean proyectos simples y realizados en un tutorial o curso paso a paso.
+
+El primer paso es definir un dominio/rubro (ej. Ecommerce, Fintech, Medicina, Marketing, Videojuegos, Web, etc). La idea es que definas a qué rubro te dedicarás y te es mas grato. Mientras más conocimiento tengas del dominio, más fácil será hablar en el mismo lenguaje que la empresa y destacarás frente a la competencia.
+
+El segundo paso es definir en qué área tecnológica relacionada a ese rubro te quieres dedicar. (QA, Programación, Sistemas, Diseño, Data science, Devops, etc). 
+
+Tercer paso es definir un proyecto que pueda ser usado para mostrar tus habilidades, un complemento a tu CV que sea muy bien pulido y hecho con la mejor calidad que puedas ofrecer. 
+
+Si por ejemplo quieres dedicarte al rubro del ecommerce puedes realizar algún plugin para _Shopify_, _Woocommerce_, _Magento_ o similares. De esta forma podrás destacar frente a otros postulantes ya que mostrarás proyectos relacionados al rubro de la empresa.
+
+### La práctica hace al maestro
+
+Un pianista concertista practica varias horas al día, aprendiendo música, practicando ejercicios y mejorando sus habilidades. Entrena la misma pieza musical una y otra vez hasta aprender cada pequeño detalle hasta lograr la interpretación musical indicada. Por que cuando sea el momento de presentarse ante un público, el pianista desea entregar su mejor interpretación posible. Desea estar orgulloso y justificar tanto el dinero como el tiempo que han invertido las personas para oirlo en su presentación.
+
+Un jugador de fútbol profesional pasa horas en el gimnasio, corriendo, alimentándose adecuadamente y haciendo diversos ejercicios físicos una y otra vez hasta ser un maestro. Verá grabaciones de partidos anteriores y estudiará estrategias sobre como mejorar. También jugará partidos de exhibición y amistosos para prepararse para los partidos de campeonato.
+
+Un karateka constantemente está practicando katas (movimientos que imitan una secuencia de batalla), cómo respirar y flexionar los músculos en el tiempo correcto. Realizando los movimientos innumerables veces, mejorando en cada repetición.
+
+Los mejores desarrolladores tienen la misma forma de ver la profesión. No van a trabajar todos los días y practicar a expensas del empleador. Van e invierten
+tiempo personal en aprender nuevas herramientas, lenguajes y perfeccionar sus técnicas y conocimientos. Siempre se aprenderá nuevas cosas en el trabajo, pero
+como hay dinero de por medio está la expectativa de que se va a producir, no a practicar.
+
+Fragmento de: Brian P. Hogan. https://www.amazon.com/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224[“Exercises for Programmers”].
+
+
 ## Palabras Finales
 
 Tener una o varias malas experiencias laborales puede hacer que pierdas la "chispa". Que veas el mundo laboral informático como una bola de mugre 
 con solo proyectos "cachos", malos pagos y abusos de toda índole. Esto también puede llevar a una depresión y a quemarse o sufrir del síndrome
 del impostor. Si estas en esa situación procura asistir con un profesional de la salud mental y otras terapias que te ayuden a sanar esas heridas.
+
 El mundo laboral informático es como cualquier otro, tiene buenos proyectos y malos proyectos. Buenas personas y otras que es mejor olvidar. 
 Si te das cuentas que estás en un ambiente tóxico, trata de salir de ahí lo más pronto posible. No vale la pena soportar y participar en un proyecto o
-trabajar junto a personas o condiciones que no te son gratas. Siempre puede haber mejores oportunidades y lugares de trabajo satisfactorios.
+trabajar junto a personas o condiciones que no te son gratas. 
+
+Siempre puede haber mejores oportunidades y lugares de trabajo satisfactorios.
+Vale más estar cesante (si es que te lo puedes permitir) por un tiempo a estar trabajando en una empresa que te quite todas las ganas de continuar
+en el mundo de las TI. 
+
+En un mal trabajo terminas agotado y sin energías al final del día, un buen trabajo te da motivación para seguir mejorando, aprender y crecer.
+Recuperarse de un _Burnout_ puede tomar mucho tiempo, incluso años. Logrando que te estanques profesional, financiera y personalmente. Por lo que no arriesgues tu carrera por miedo a no tener trabajo, soportando condiciones terribles.
+
 Si haz ingresado al mundo laboral informático y no te ha gustado, también es viable salir si encuentras una actividad más atractiva para tus necesidades.
 Lo importante es siempre priorizar tu felicidad y desarrollo profesional/personal.
 
