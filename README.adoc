@@ -1137,6 +1137,10 @@ como hay dinero de por medio está la expectativa de que se va a producir, no a 
 
 Fragmento de: Brian P. Hogan. https://www.amazon.com/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224[“Exercises for Programmers”].
 
+image:https://user-images.githubusercontent.com/292738/90575991-cf6d3a80-e18a-11ea-9af1-9dadbb16f7f7.png[Campana de Gauss]
+
+En palabras simples. Si seguimos una https://es.wikipedia.org/wiki/Distribuci%C3%B3n_normal[Distribución Normal], debes posicionarte más alla del promedio (13.6% o más) hacia la derecha. De esta forma podrás superar la constante batalla de competencia al buscar un trabajo.
+
 ### Encuentra un mentor
 
 Un mentor es una persona que ya ha recorrido el camino que quieres seguir. No necesariamente es alguien con muchos años de experiencia, 
