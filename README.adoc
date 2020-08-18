@@ -1137,6 +1137,18 @@ como hay dinero de por medio está la expectativa de que se va a producir, no a 
 
 Fragmento de: Brian P. Hogan. https://www.amazon.com/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224[“Exercises for Programmers”].
 
+### Encuentra un mentor
+
+Un mentor es una persona que ya ha recorrido el camino que quieres seguir. No necesariamente es alguien con muchos años de experiencia, 
+pero por lo menos tiene algún conocimiento que quieres aprender. Un mentor te ayudará a eliminar obstáculos y evitar errores conocidos
+en el camino, haciendo el proceso de aprendizaje más expedito y con menor carga sobre tus hombros.
+
+Puedes encontrar mentores dentro de tus compañeros de trabajo, grupo de amigos o comunidades donde participas. Define que quieres aprender
+y convertirte, reúnete con personas que estén al nivel que quieres llegar o por lo menos te den un empujón hacia la dirección correcta.
+
+Lo mejor que puedes hacer es conseguir un buen mentor. La calidad del mentor define la calidad de tu aprendizaje, un buen mentor te va a
+potenciar, un mal mentor puede llevarte al error. Trata de encontrar personas que han tenido éxito en lo que tu quieres tener éxito.
+Puedes tener múltiples mentores, pero lo ideal es que tengas uno principal al cual seguir sus consejos y guía por sobre los demás.
 
 ## Palabras Finales
 
