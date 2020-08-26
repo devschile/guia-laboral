@@ -1154,6 +1154,30 @@ Lo mejor que puedes hacer es conseguir un buen mentor. La calidad del mentor def
 potenciar, un mal mentor puede llevarte al error. Trata de encontrar personas que han tenido éxito en lo que tu quieres tener éxito.
 Puedes tener múltiples mentores, pero lo ideal es que tengas uno principal al cual seguir sus consejos y guía por sobre los demás.
 
+### El mito del generalista
+
+Cuando las empresas buscan a un "generalista", en realidad lo que están buscando es alguien que les pueda resolver sus problemas utilizando una serie de herramientas pre-definidas. Normalmente alguien que pueda participar en la elaboración de una aplicación desde la fase de toma de requerimientos hasta
+la fase de paso a producción y mantenimiento.
+
+Muchas veces se confunde este concepto con alguien que es un "Maestro Chasquilla" o "Jack of All Trades". Hace de todo un poco, pero sabe poco y sin conocimiento profundo de los temas. Si no tienes cuidado puedes terminar siendo una persona con mucha experiencia, pero no experticia suficiente como para competir en cargos semi senior o senior, incluso con varios años en la industria.
+
+Lo ideal es que elijas un conjunto de herramientas que te sirva para resolver problemas de diversa índole y te conviertas en un experto usándolas. Por ejemplo seleccionas un stack de backend y un framework especifico (ej: golang, elixir, python, php, js, ruby), un stack de frontend (ej: react), una base de datos (ej: postgres) y un proveedor de servicios (como amazon, firebase, google cloud, etc). Al realizar los proyectos con la mismas herramientas, poco a poco irás generando experticia y dominio de los temas. Podrás competir con niveles semi senior o senior. Evita tener un currículum desparramado por todos lados.
+
+Puedes ser generalista en el sentido de que estás capacitado para elaborar una aplicación desde el inicio hasta el final, pasando por el diseño del sistema, las bases de datos, interfaces de usuarios, configuración de servidores y dominio de las reglas de negocio. Pero siempre con un stack determinado en el cual lo conozcas de principio a fin. Esto te evitará maratones de "Aprender sobre la marcha" y sorpresas a las 3 Am del fin de semana.
+
+image:https://user-images.githubusercontent.com/292738/91324972-aa7f5580-e790-11ea-8b95-2c8230b5ec7d.png[Google oriented developer (God)].
+
+Puedes revisar el siguiente libro para más información: 
+https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484
+
+#### Confundir Hobby con Trabajo
+
+¿De qué sirve tener un proyecto de un videojuego, si estás postulando a un rol de backend?. Muchos profesionales disfrutan de la programación y hacen experimentos en sus ratos libres. Esto es super bueno. Mantiene vivo tu espíritu de aprender y puede expandir tu zona de confort.
+
+Lo importante es que tengas claro de que algunos proyectos que hagas solo por diversión, no necesariamente te servirán para tu rol en el trabajo.
+Ten un porcentaje de tiempo asignado para elaborar proyectos que brinden más peso a tu _CV_ y otro porcentaje de tiempo para elaborar proyectos por diversión.
+
+
 ## Palabras Finales
 
 Tener una o varias malas experiencias laborales puede hacer que pierdas la "chispa". Que veas el mundo laboral informático como una bola de mugre 
