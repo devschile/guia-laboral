@@ -1,0 +1,3375 @@
+{
+  "meta": [
+    {
+      "name": "Sueldos Tech en Chile 2022 API",
+      "version": "2.1.0",
+      "releaseDate": "2022-08-03T00:00:00.000Z",
+      "author": "devschile's best admin"
+    }
+  ],
+  "questions": {
+    "¿Cuál es tu género?": [
+      "Mujer",
+      "Hombre",
+      "Otro"
+    ],
+    "¿Cuál es tu rango de edad?": [
+      "17 o menor",
+      "18 a 24",
+      "25 a 34",
+      "35 a 44",
+      "45 a 54",
+      "55 y más"
+    ],
+    "¿Estudiaste en un bootcamp?": [
+      "Si completo",
+      "Si incompleto",
+      "No"
+    ],
+    "¿Cuál es el máximo nivel educacional que llegaste?": [
+      "Colegio - educación básica",
+      "Colegio - educación media",
+      "Técnico incompleto",
+      "Técnico completo",
+      "Universitario incompleto",
+      "Universitario completo",
+      "Universitario postgrado"
+    ],
+    "¿Dominas otro idioma hablado/escrito aparte del español?": [
+      "No",
+      "Si"
+    ],
+    "¿Hace cuántos años estás trabajando en tecnología?": [
+      "1 año o menos",
+      "2 años a 5 años",
+      "6 años a 10 años",
+      "más de 11 años"
+    ],
+    "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+      "Diseñador Gráfico",
+      "Diseñador Web",
+      "Desarrollador Front-end",
+      "Desarrollador Back-end",
+      "DevOps",
+      "SysAdmin",
+      "QA",
+      "CTO/CEO/CFO/COO",
+      "Desarrollador Mobile",
+      "Otro",
+      "Tech lead / Manager"
+    ],
+    "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": null,
+    "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": [
+      "Bajo $500.000",
+      "Entre $501.000 a $1.000.000",
+      "Entre $1.001.000 a $1.500.000",
+      "Entre $1.501.000 a $1.800.000",
+      "Entre $1.801.000 a $2.000.000",
+      "Entre $2.001.000 a $2.500.000",
+      "Entre $2.501.000 a $3.000.000",
+      "Más de $3.000.000"
+    ]
+  },
+  "answers": [
+    {
+      "Submission ID": "KYpNA8",
+      "Respondent ID": "wAOyKo",
+      "Submitted at": "2022-07-01 0:24:28",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "D4qEoR",
+      "Respondent ID": "3ErMd2",
+      "Submitted at": "2022-07-01 0:28:01",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "pbe6Yq",
+      "Respondent ID": "n9gM7X",
+      "Submitted at": "2022-07-01 0:34:05",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Front-end",
+        "QA",
+        "SysAdmin"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "44aDeB",
+      "Respondent ID": "w8gMdz",
+      "Submitted at": "2022-07-01 0:45:56",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Tech lead / Manager",
+        "CTO/CEO/CFO/COO"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "9qNgb1",
+      "Respondent ID": "wd4vYd",
+      "Submitted at": "2022-07-01 0:46:24",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "DevOps",
+        "SysAdmin"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "eq5j1o",
+      "Respondent ID": "woavBx",
+      "Submitted at": "2022-07-01 0:51:18",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Tech lead / Manager",
+        "DevOps",
+        "CTO/CEO/CFO/COO",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "0QVzrQ",
+      "Respondent ID": "n9gM1V",
+      "Submitted at": "2022-07-01 0:52:15",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "44aRXd",
+      "Respondent ID": "3XvzqY",
+      "Submitted at": "2022-07-01 0:53:34",
+      "¿Cuál es tu género?": "Otro",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "DevOps",
+        "QA",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "9qNPBX",
+      "Respondent ID": "nrbvVN",
+      "Submitted at": "2022-07-01 0:58:26",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "DevOps",
+        "SysAdmin",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "kdbX9Z",
+      "Respondent ID": "mYKkYB",
+      "Submitted at": "2022-07-01 1:00:58",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "Gxea9e",
+      "Respondent ID": "mBV0QQ",
+      "Submitted at": "2022-07-01 1:02:06",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "q45XJd",
+      "Respondent ID": "w8gMWo",
+      "Submitted at": "2022-07-01 1:31:15",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "kdbXpd",
+      "Respondent ID": "nrbvbp",
+      "Submitted at": "2022-07-01 1:41:31",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "xXVEbv",
+      "Respondent ID": "wbEv16",
+      "Submitted at": "2022-07-01 1:52:11",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "ODQKNg",
+      "Respondent ID": "3ErMOB",
+      "Submitted at": "2022-07-01 1:58:13",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "18 a 24",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "ODQKR7",
+      "Respondent ID": "mejvJk",
+      "Submitted at": "2022-07-01 2:03:22",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "DevOps",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "RGWQPv",
+      "Respondent ID": "mJZo1d",
+      "Submitted at": "2022-07-01 2:38:59",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Tech lead / Manager",
+        "Desarrollador Mobile",
+        "CTO/CEO/CFO/COO",
+        "SysAdmin"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "BzEYrR",
+      "Respondent ID": "wkQzKe",
+      "Submitted at": "2022-07-01 4:09:27",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "DevOps",
+        "SysAdmin",
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "rjDQ72",
+      "Respondent ID": "w2golj",
+      "Submitted at": "2022-07-01 4:13:56",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "81NY7P",
+      "Respondent ID": "mKNGW8",
+      "Submitted at": "2022-07-01 4:16:05",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "dWbGEq",
+      "Respondent ID": "3xLzzy",
+      "Submitted at": "2022-07-01 4:30:38",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end",
+        "CTO/CEO/CFO/COO",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "LZDxWO",
+      "Respondent ID": "mOeEgK",
+      "Submitted at": "2022-07-01 4:49:07",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "DevOps",
+        "SysAdmin",
+        "Desarrollador Back-end",
+        "Otro"
+      ],
+      "¿Cuál?": "IoT Integrator",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "KYp28X",
+      "Respondent ID": "mJZoj7",
+      "Submitted at": "2022-07-01 5:18:56",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "0QV0q0",
+      "Respondent ID": "mDEarN",
+      "Submitted at": "2022-07-01 6:01:33",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "2Ejd2g",
+      "Respondent ID": "np6ZeJ",
+      "Submitted at": "2022-07-01 6:16:08",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Diseñador Web"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "QKoNAg",
+      "Respondent ID": "waPlBE",
+      "Submitted at": "2022-07-01 7:03:34",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "SysAdmin",
+        "QA",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "jae80Y",
+      "Respondent ID": "nGj7DQ",
+      "Submitted at": "2022-07-01 7:25:58",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "WOJa1e",
+      "Respondent ID": "mOeVjM",
+      "Submitted at": "2022-07-01 7:38:00",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "1AWaXL",
+      "Respondent ID": "nPW4bP",
+      "Submitted at": "2022-07-01 10:59:47",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Colegio - básica",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "gDboBD",
+      "Respondent ID": "3jqpa9",
+      "Submitted at": "2022-07-01 12:30:00",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "DevOps",
+        "QA",
+        "CTO/CEO/CFO/COO",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "D4q8qq",
+      "Respondent ID": "mVBdQ6",
+      "Submitted at": "2022-07-01 12:42:04",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "1AWeE4",
+      "Respondent ID": "mR6gLj",
+      "Submitted at": "2022-07-01 13:04:27",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "KYpEOA",
+      "Respondent ID": "wvvpdA",
+      "Submitted at": "2022-07-01 13:30:12",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "pbeEqZ",
+      "Respondent ID": "waPyky",
+      "Submitted at": "2022-07-01 13:43:40",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "yPXQAp",
+      "Respondent ID": "wAO0aN",
+      "Submitted at": "2022-07-01 13:43:59",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "SysAdmin",
+        "Tech lead / Manager",
+        "QA"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "A7rgZl",
+      "Respondent ID": "3l959X",
+      "Submitted at": "2022-07-01 13:54:49",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "18 a 24",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál?": "Desarrollador Mobile",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "ODQ2Oa",
+      "Respondent ID": "waPyX2",
+      "Submitted at": "2022-07-01 13:55:56",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "eq5J1l",
+      "Respondent ID": "wgxpVP",
+      "Submitted at": "2022-07-01 14:00:23",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "gDbE9l",
+      "Respondent ID": "w5gQJE",
+      "Submitted at": "2022-07-01 14:13:13",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "SysAdmin",
+        "Tech lead / Manager",
+        "CTO/CEO/CFO/COO"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "SysAdmin",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "rjDePl",
+      "Respondent ID": "3Erg2r",
+      "Submitted at": "2022-07-01 14:13:43",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "ODQ6Pp",
+      "Respondent ID": "wbEDbg",
+      "Submitted at": "2022-07-01 14:20:49",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Diseñador Web"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $501.000 a $1.000.000"
+    },
+    {
+      "Submission ID": "vGXlL8",
+      "Respondent ID": "mVBdRJ",
+      "Submitted at": "2022-07-01 14:24:13",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Otro"
+      ],
+      "¿Cuál?": "developer junior",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $501.000 a $1.000.000"
+    },
+    {
+      "Submission ID": "68DgO5",
+      "Respondent ID": "nWkgGa",
+      "Submitted at": "2022-07-01 14:25:11",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $501.000 a $1.000.000"
+    },
+    {
+      "Submission ID": "dWbOpK",
+      "Respondent ID": "mR6lDP",
+      "Submitted at": "2022-07-01 14:43:28",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Tech lead / Manager",
+        "Otro"
+      ],
+      "¿Cuál?": "Data Scientist",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "CTO/CEO/CFO/COO",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "ODQ6gg",
+      "Respondent ID": "mVByzl",
+      "Submitted at": "2022-07-01 14:43:40",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Otro",
+        "Diseñador Gráfico"
+      ],
+      "¿Cuál?": "Analista de datos",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $501.000 a $1.000.000"
+    },
+    {
+      "Submission ID": "kdb241",
+      "Respondent ID": "nGjyzQ",
+      "Submitted at": "2022-07-01 14:52:57",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "7RXy0A",
+      "Respondent ID": "np69LP",
+      "Submitted at": "2022-07-01 14:55:03",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "QA",
+        "Diseñador Web",
+        "Otro"
+      ],
+      "¿Cuál?": "UX/UI",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Diseñador",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "rjDee5",
+      "Respondent ID": "wbEGL6",
+      "Submitted at": "2022-07-01 15:02:31",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "kdb2Dd",
+      "Respondent ID": "mZLyRB",
+      "Submitted at": "2022-07-01 15:11:27",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "18 a 24",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "5BXNbN",
+      "Respondent ID": "3N9ybl",
+      "Submitted at": "2022-07-01 15:19:37",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "81N9zl",
+      "Respondent ID": "mYKyJB",
+      "Submitted at": "2022-07-01 15:21:33",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "CTO/CEO/CFO/COO",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "vGXRYD",
+      "Respondent ID": "nGjybp",
+      "Submitted at": "2022-07-01 15:28:35",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "QA",
+        "Tech lead / Manager",
+        "Otro"
+      ],
+      "¿Cuál?": "Customer Success",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "lbap8v",
+      "Respondent ID": "np69a8",
+      "Submitted at": "2022-07-01 16:11:01",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "J91yvo",
+      "Respondent ID": "wQayPX",
+      "Submitted at": "2022-07-01 16:12:09",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "18 a 24",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "LZD8rj",
+      "Respondent ID": "np69jB",
+      "Submitted at": "2022-07-01 16:14:59",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "18 a 24",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Diseñador Web",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "81NOoY",
+      "Respondent ID": "wd41Nq",
+      "Submitted at": "2022-07-01 16:26:02",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Otro"
+      ],
+      "¿Cuál?": "Relaciones Públicas y alianzas estratégicas en tech no comerciales.",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "7RXGR9",
+      "Respondent ID": "mejlD0",
+      "Submitted at": "2022-07-01 16:26:49",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "Xx5XqL",
+      "Respondent ID": "mVBAll",
+      "Submitted at": "2022-07-01 16:42:56",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "2EjQyp",
+      "Respondent ID": "m6zzNk",
+      "Submitted at": "2022-07-01 18:23:08",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Tech lead / Manager",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Otro"
+      ],
+      "¿Cuál?": "Arquitecto de Software",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "Xx5Z7d",
+      "Respondent ID": "wAOOd0",
+      "Submitted at": "2022-07-01 18:27:03",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "J91N2J",
+      "Respondent ID": "m6zz9Y",
+      "Submitted at": "2022-07-01 18:57:18",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Tech lead / Manager",
+        "Desarrollador Back-end",
+        "DevOps"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "VLpR4l",
+      "Respondent ID": "mR618J",
+      "Submitted at": "2022-07-01 20:45:55",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "KYp797",
+      "Respondent ID": "mKNAND",
+      "Submitted at": "2022-07-01 21:15:54",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "vGMejQ",
+      "Respondent ID": "wAOMZW",
+      "Submitted at": "2022-07-02 7:18:04",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Tech lead / Manager",
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "BzaGKK",
+      "Respondent ID": "wQaGeY",
+      "Submitted at": "2022-07-02 19:37:26",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Otro",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál?": "Data Engineer",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "A7zJYe",
+      "Respondent ID": "mVBg56",
+      "Submitted at": "2022-07-02 22:14:57",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "aQ90By",
+      "Respondent ID": "mR6E0P",
+      "Submitted at": "2022-07-03 0:57:09",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "68LAyA",
+      "Respondent ID": "nrRjWM",
+      "Submitted at": "2022-07-03 14:40:27",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "QA",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál?": "Mobile",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "D4BARZ",
+      "Respondent ID": "mOKDKp",
+      "Submitted at": "2022-07-03 14:48:17",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "jaZvK6",
+      "Respondent ID": "3EeK2X",
+      "Submitted at": "2022-07-03 18:42:46",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "EkKAv4",
+      "Respondent ID": "31zdxW",
+      "Submitted at": "2022-07-03 21:58:16",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager",
+        "Otro"
+      ],
+      "¿Cuál?": "Arquitecto",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "Gx6gkZ",
+      "Respondent ID": "n0z8JP",
+      "Submitted at": "2022-07-03 23:32:51",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "CTO/CEO/CFO/COO",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "CTO/CEO/CFO/COO",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "BzagO1",
+      "Respondent ID": "nPL94V",
+      "Submitted at": "2022-07-04 0:05:04",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "zxj4ER",
+      "Respondent ID": "wANv4B",
+      "Submitted at": "2022-07-04 5:16:18",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "Gx6AqL",
+      "Respondent ID": "woYAKM",
+      "Submitted at": "2022-07-04 13:11:30",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "kdlPkZ",
+      "Respondent ID": "mVXlzj",
+      "Submitted at": "2022-07-04 14:23:00",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Otro"
+      ],
+      "¿Cuál?": "Data scientist",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "5BbANM",
+      "Respondent ID": "wANJ6k",
+      "Submitted at": "2022-07-04 14:51:46",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "NprjKG",
+      "Respondent ID": "3Ee0xA",
+      "Submitted at": "2022-07-04 16:03:28",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Otro"
+      ],
+      "¿Cuál?": "data engineer",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "obEqeM",
+      "Respondent ID": "me8EBQ",
+      "Submitted at": "2022-07-04 16:12:08",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "45 a 54",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "WO2xYa",
+      "Respondent ID": "wMlYvE",
+      "Submitted at": "2022-07-04 19:49:16",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Otro"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "XxLVBP",
+      "Respondent ID": "3NvJeQ",
+      "Submitted at": "2022-07-04 21:27:52",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "81qv2O",
+      "Respondent ID": "me8xDo",
+      "Submitted at": "2022-07-04 21:40:16",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "18 a 24",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $501.000 a $1.000.000"
+    },
+    {
+      "Submission ID": "VLjGDg",
+      "Respondent ID": "m6GryJ",
+      "Submitted at": "2022-07-05 3:13:35",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end",
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "81zqvz",
+      "Respondent ID": "npX4aZ",
+      "Submitted at": "2022-07-05 4:14:56",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si incompleto",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $501.000 a $1.000.000"
+    },
+    {
+      "Submission ID": "kd9Ee1",
+      "Respondent ID": "3xElEG",
+      "Submitted at": "2022-07-05 12:13:24",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "81zxPk",
+      "Respondent ID": "wMl708",
+      "Submitted at": "2022-07-05 12:33:37",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "NpDWXj",
+      "Respondent ID": "n9PM6K",
+      "Submitted at": "2022-07-05 13:30:55",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "RGd0gv",
+      "Respondent ID": "mR1jBl",
+      "Submitted at": "2022-07-05 15:14:24",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "b59lE2",
+      "Respondent ID": "wvVWeX",
+      "Submitted at": "2022-07-05 16:33:52",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "45 a 54",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "rjBKov",
+      "Respondent ID": "wLBo5j",
+      "Submitted at": "2022-07-05 17:06:56",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "5B48eZ",
+      "Respondent ID": "3lX9GX",
+      "Submitted at": "2022-07-06 3:58:07",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "DevOps",
+        "Tech lead / Manager",
+        "Desarrollador Full-stack",
+        "Otro"
+      ],
+      "¿Cuál?": "cloud architect",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "yPNoNx",
+      "Respondent ID": "wgXXMN",
+      "Submitted at": "2022-07-06 5:07:31",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "QA",
+        "CTO/CEO/CFO/COO",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "CTO/CEO/CFO/COO",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "44BdXk",
+      "Respondent ID": "3Ee7y2",
+      "Submitted at": "2022-07-06 15:44:41",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Otro"
+      ],
+      "¿Cuál?": "Machine Learning Engineer",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "J9dYMo",
+      "Respondent ID": "mOKN0K",
+      "Submitted at": "2022-07-06 16:17:28",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "SysAdmin",
+        "QA"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $501.000 a $1.000.000"
+    },
+    {
+      "Submission ID": "rjBWql",
+      "Respondent ID": "w4RbLb",
+      "Submitted at": "2022-07-06 16:19:52",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "rjBbKl",
+      "Respondent ID": "mR1N8J",
+      "Submitted at": "2022-07-06 18:06:40",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "SysAdmin",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "RGd16v",
+      "Respondent ID": "me8VAx",
+      "Submitted at": "2022-07-06 19:07:21",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "CTO/CEO/CFO/COO",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "CTO/CEO/CFO/COO",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "jabXq1",
+      "Respondent ID": "wMlWOl",
+      "Submitted at": "2022-07-06 19:07:47",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "q4aXX5",
+      "Respondent ID": "3XdpGP",
+      "Submitted at": "2022-07-06 19:07:50",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "18 a 24",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $501.000 a $1.000.000"
+    },
+    {
+      "Submission ID": "WOrXXR",
+      "Respondent ID": "n0zKM9",
+      "Submitted at": "2022-07-06 19:07:57",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "7RbOO2",
+      "Respondent ID": "wdXOAr",
+      "Submitted at": "2022-07-06 19:07:59",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "CTO/CEO/CFO/COO",
+        "Otro"
+      ],
+      "¿Cuál?": "Arquitecto",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "A7KNNl",
+      "Respondent ID": "mD9j1l",
+      "Submitted at": "2022-07-06 19:08:04",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "QA",
+        "CTO/CEO/CFO/COO",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "BzKqq1",
+      "Respondent ID": "3lXxAo",
+      "Submitted at": "2022-07-06 19:08:05",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "vGrVV4",
+      "Respondent ID": "woYqOb",
+      "Submitted at": "2022-07-06 19:08:07",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "CTO/CEO/CFO/COO",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "CTO/CEO/CFO/COO",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "1Akzzb",
+      "Respondent ID": "mVXK8j",
+      "Submitted at": "2022-07-06 19:08:09",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "MeDll8",
+      "Respondent ID": "nPL701",
+      "Submitted at": "2022-07-06 19:08:09",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "DevOps"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "lbqXXX",
+      "Respondent ID": "mZXMJV",
+      "Submitted at": "2022-07-06 19:08:29",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end",
+        "Desarrollador Front-end",
+        "DevOps"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "GxKaaO",
+      "Respondent ID": "3qX9PO",
+      "Submitted at": "2022-07-06 19:08:34",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Tech lead / Manager",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "aQeX12",
+      "Respondent ID": "wANE8y",
+      "Submitted at": "2022-07-06 19:08:59",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Diseñador Web",
+        "Desarrollador Mobile",
+        "Desarrollador Back-end",
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "68eGYN",
+      "Respondent ID": "mBqrBe",
+      "Submitted at": "2022-07-06 19:08:59",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Back-end",
+        "Otro"
+      ],
+      "¿Cuál?": "Scrum Master",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "b59XM7",
+      "Respondent ID": "wvVl2g",
+      "Submitted at": "2022-07-06 19:09:04",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Colegio - educación media",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "yPNrbd",
+      "Respondent ID": "w8VXel",
+      "Submitted at": "2022-07-06 19:09:27",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Diseñador",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "D4K9oE",
+      "Respondent ID": "mD9jel",
+      "Submitted at": "2022-07-06 19:09:39",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager",
+        "Diseñador Web"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "ODlKZM",
+      "Respondent ID": "mOK6La",
+      "Submitted at": "2022-07-06 19:09:42",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "NpDvN0",
+      "Respondent ID": "nrReV2",
+      "Submitted at": "2022-07-06 19:10:21",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "9qXPAE",
+      "Respondent ID": "w5oJvZ",
+      "Submitted at": "2022-07-06 19:11:36",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "A7KNMy",
+      "Respondent ID": "mYX1YW",
+      "Submitted at": "2022-07-06 19:11:51",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál?": "Blockchain engineer",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "ODlKMa",
+      "Respondent ID": "wQpbYX",
+      "Submitted at": "2022-07-06 19:12:19",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Otro"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "NpDv1O",
+      "Respondent ID": "wMlWYk",
+      "Submitted at": "2022-07-06 19:12:48",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "Desarrollador Mobile",
+        "Otro"
+      ],
+      "¿Cuál?": "Robótica",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "81zVlz",
+      "Respondent ID": "nGaZJL",
+      "Submitted at": "2022-07-06 19:13:21",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Otro"
+      ],
+      "¿Cuál?": "Diseñador UI",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "xXjEWv",
+      "Respondent ID": "nPL7Xe",
+      "Submitted at": "2022-07-06 19:13:53",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "BzKqRR",
+      "Respondent ID": "3NvaJj",
+      "Submitted at": "2022-07-06 19:14:07",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "CTO/CEO/CFO/COO",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "MeDlWA",
+      "Respondent ID": "nGaZBk",
+      "Submitted at": "2022-07-06 19:15:33",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "GxKaMk",
+      "Respondent ID": "wz4k00",
+      "Submitted at": "2022-07-06 19:16:58",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "PdDLKV",
+      "Respondent ID": "m6Ggrk",
+      "Submitted at": "2022-07-06 19:18:26",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "DevOps"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "VLjXRJ",
+      "Respondent ID": "3lXxKk",
+      "Submitted at": "2022-07-06 19:21:12",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Otro"
+      ],
+      "¿Cuál?": "Machine Learning Engineer",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "pbdNbb",
+      "Respondent ID": "wgXEJl",
+      "Submitted at": "2022-07-06 19:23:49",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "7RbYRA",
+      "Respondent ID": "3jXjkx",
+      "Submitted at": "2022-07-06 19:25:03",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "QA",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "yPNbX4",
+      "Respondent ID": "nWXLjj",
+      "Submitted at": "2022-07-06 19:25:20",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "xXj7rG",
+      "Respondent ID": "me8VvO",
+      "Submitted at": "2022-07-06 19:27:35",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "5B4Y4M",
+      "Respondent ID": "wMlWVX",
+      "Submitted at": "2022-07-06 19:28:14",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "9qXY91",
+      "Respondent ID": "3jXjzE",
+      "Submitted at": "2022-07-06 19:29:06",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Tech lead / Manager",
+        "CTO/CEO/CFO/COO",
+        "QA",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "vGraed",
+      "Respondent ID": "3qX9z7",
+      "Submitted at": "2022-07-06 19:29:22",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "lbqjd6",
+      "Respondent ID": "w2zpVp",
+      "Submitted at": "2022-07-06 19:33:35",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Colegio - educación media",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "81zYKk",
+      "Respondent ID": "3lXx55",
+      "Submitted at": "2022-07-06 19:34:54",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "jabr7Q",
+      "Respondent ID": "mR1A1P",
+      "Submitted at": "2022-07-06 19:41:25",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Mobile",
+        "Tech lead / Manager",
+        "CTO/CEO/CFO/COO"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál?": "Software Engineer - Mobile",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "obDZVO",
+      "Respondent ID": "wANENN",
+      "Submitted at": "2022-07-06 19:42:32",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "1 año o menos",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "b59MNZ",
+      "Respondent ID": "3jXjrY",
+      "Submitted at": "2022-07-06 19:44:32",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Diseñador Web",
+        "Desarrollador Full-stack",
+        "DevOps"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "GxKVYk",
+      "Respondent ID": "wLBexz",
+      "Submitted at": "2022-07-06 19:45:24",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "gDeVY4",
+      "Respondent ID": "3Ee2VA",
+      "Submitted at": "2022-07-06 19:46:23",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Colegio - educación media",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "lbqjYk",
+      "Respondent ID": "nrRe8p",
+      "Submitted at": "2022-07-06 19:48:58",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "DevOps",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "9qXYoQ",
+      "Respondent ID": "w2zp9M",
+      "Submitted at": "2022-07-06 19:49:39",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Otro"
+      ],
+      "¿Cuál?": "Data engineer senior",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "vGrad0",
+      "Respondent ID": "me8VWQ",
+      "Submitted at": "2022-07-06 19:49:54",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "DevOps"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "obDZgV",
+      "Respondent ID": "n9P8kE",
+      "Submitted at": "2022-07-06 19:55:00",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "18 a 24",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "dWNopA",
+      "Respondent ID": "mD9j8l",
+      "Submitted at": "2022-07-06 19:56:19",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end",
+        "Desarrollador Front-end",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "rjBQpv",
+      "Respondent ID": "3Ee22l",
+      "Submitted at": "2022-07-06 19:56:47",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "Ek5Ggo",
+      "Respondent ID": "mZXMMV",
+      "Submitted at": "2022-07-06 19:56:56",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Diseñador",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "QKMqyg",
+      "Respondent ID": "mR1AOK",
+      "Submitted at": "2022-07-06 19:58:51",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "QA",
+        "Otro"
+      ],
+      "¿Cuál?": "Desempleado",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "44BYRB",
+      "Respondent ID": "3lXxQN",
+      "Submitted at": "2022-07-06 20:01:26",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "gDeVPK",
+      "Respondent ID": "wbXo0Z",
+      "Submitted at": "2022-07-06 20:05:01",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Tech lead / Manager",
+        "Desarrollador Full-stack",
+        "Otro"
+      ],
+      "¿Cuál?": "Machine Learning Engineer",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "GxKVWe",
+      "Respondent ID": "mJby9o",
+      "Submitted at": "2022-07-06 20:14:14",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "RGdQE4",
+      "Respondent ID": "mOKRQ7",
+      "Submitted at": "2022-07-06 20:16:20",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "DevOps",
+        "SysAdmin"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "rjB9jN",
+      "Respondent ID": "3yrO24",
+      "Submitted at": "2022-07-06 20:23:42",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "Tech lead / Manager",
+        "Desarrollador Mobile",
+        "CTO/CEO/CFO/COO"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "vGr648",
+      "Respondent ID": "3jXKM9",
+      "Submitted at": "2022-07-06 20:41:13",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "RGdebK",
+      "Respondent ID": "wQpGJ1",
+      "Submitted at": "2022-07-06 20:50:25",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "CTO/CEO/CFO/COO"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "CTO/CEO/CFO/COO",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "J9djgo",
+      "Respondent ID": "nGaMXe",
+      "Submitted at": "2022-07-06 21:01:09",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "QKMN21",
+      "Respondent ID": "wbXayo",
+      "Submitted at": "2022-07-06 21:29:14",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "DevOps",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "yPN8P8",
+      "Respondent ID": "me8bjO",
+      "Submitted at": "2022-07-06 21:31:47",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál?": "Mobile",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "RGdqWK",
+      "Respondent ID": "wkXLQM",
+      "Submitted at": "2022-07-06 21:32:24",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Técnico completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "44Blar",
+      "Respondent ID": "wMl0lX",
+      "Submitted at": "2022-07-06 21:32:35",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Diseñador",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.001.000 a $2.500.000"
+    },
+    {
+      "Submission ID": "dWNJRV",
+      "Respondent ID": "wvVkGl",
+      "Submitted at": "2022-07-06 22:13:25",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "LZz2vv",
+      "Respondent ID": "mVX2zM",
+      "Submitted at": "2022-07-07 0:31:54",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "rjBeW2",
+      "Respondent ID": "w8V0j5",
+      "Submitted at": "2022-07-07 3:43:22",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "DevOps",
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "Otro"
+      ],
+      "¿Cuál?": "Data Scientist",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "DevOps",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "MeDB9A",
+      "Respondent ID": "w4RWMd",
+      "Submitted at": "2022-07-07 7:59:49",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "xXMxak",
+      "Respondent ID": "w4YaXb",
+      "Submitted at": "2022-07-07 13:36:18",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Otro",
+      "¿Cuál?": "Architect",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "A72Key",
+      "Respondent ID": "nGVK2Q",
+      "Submitted at": "2022-07-07 19:16:50",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "DevOps"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.801.000 a $2.000.000"
+    },
+    {
+      "Submission ID": "Pd11WQ",
+      "Respondent ID": "3jr6v9",
+      "Submitted at": "2022-07-07 20:29:13",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario incompleto",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Front-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "pbyDxy",
+      "Respondent ID": "31Y4vl",
+      "Submitted at": "2022-07-07 22:07:02",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Front-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "Npl7qp",
+      "Respondent ID": "wLjKJv",
+      "Submitted at": "2022-07-07 22:11:15",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "QA",
+        "CTO/CEO/CFO/COO",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "lbe6xB",
+      "Respondent ID": "m6YKlY",
+      "Submitted at": "2022-07-07 23:23:31",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "DevOps",
+        "CTO/CEO/CFO/COO",
+        "Tech lead / Manager",
+        "Desarrollador Mobile",
+        "Otro"
+      ],
+      "¿Cuál?": "Blockchain",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Full-stack",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "xXMYad",
+      "Respondent ID": "mOZ7Q8",
+      "Submitted at": "2022-07-07 23:57:30",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.501.000 a $1.800.000"
+    },
+    {
+      "Submission ID": "7RLx9Z",
+      "Respondent ID": "w4YKKB",
+      "Submitted at": "2022-07-08 0:16:34",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Gráfico",
+        "Diseñador Web",
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $2.501.000 a $3.000.000"
+    },
+    {
+      "Submission ID": "LZ7a9O",
+      "Respondent ID": "nW6P4N",
+      "Submitted at": "2022-07-08 13:10:10",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Tech lead / Manager",
+        "DevOps",
+        "Desarrollador Full-stack"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "5Bjexv",
+      "Respondent ID": "wM2L9p",
+      "Submitted at": "2022-07-08 13:15:38",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "7RLad2",
+      "Respondent ID": "w2Yv8V",
+      "Submitted at": "2022-07-08 13:19:45",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "más de 11 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "Desarrollador Back-end",
+        "DevOps",
+        "SysAdmin",
+        "Diseñador Web",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "2Eal1j",
+      "Respondent ID": "w7YvKz",
+      "Submitted at": "2022-07-08 13:33:46",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Full-stack",
+        "Tech lead / Manager",
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "ZjEeQA",
+      "Respondent ID": "meGxBO",
+      "Submitted at": "2022-07-08 16:31:28",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario postgrado",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "dWazeK",
+      "Respondent ID": "31Y2bL",
+      "Submitted at": "2022-07-08 16:40:20",
+      "¿Cuál es tu género?": "Mujer",
+      "¿Cuál es tu rango de edad?": "45 a 54",
+      "¿Estudiaste en un bootcamp?": "Si completo",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "2 años a 5 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Diseñador Web",
+        "Diseñador Gráfico",
+        "Otro"
+      ],
+      "¿Cuál?": "Diseñador UX/UI",
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Diseñador",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    },
+    {
+      "Submission ID": "9q9alG",
+      "Respondent ID": "nW6lEQ",
+      "Submitted at": "2022-07-08 19:07:27",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "25 a 34",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "Si",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Back-end",
+        "Desarrollador Front-end",
+        "Desarrollador Full-stack",
+        "QA",
+        "Tech lead / Manager",
+        "Desarrollador Mobile"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Desarrollador Back-end",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Más de $3.000.000"
+    },
+    {
+      "Submission ID": "gDdX41",
+      "Respondent ID": "n0YZ0N",
+      "Submitted at": "2022-07-08 23:42:21",
+      "¿Cuál es tu género?": "Hombre",
+      "¿Cuál es tu rango de edad?": "35 a 44",
+      "¿Estudiaste en un bootcamp?": "No",
+      "¿Cuál es el máximo nivel educacional que llegaste?": "Universitario completo",
+      "¿Dominas otro idioma hablado/escrito aparte del español?": "No",
+      "¿Hace cuántos años estás trabajando en tecnología?": "6 años a 10 años",
+      "¿Cuáles son las funciones que has realizado en tu vida profesional?": [
+        "Desarrollador Front-end",
+        "Desarrollador Back-end",
+        "Desarrollador Full-stack",
+        "Tech lead / Manager"
+      ],
+      "¿Cuál es el rol que cumples actualmente en tu trabajo remunerado?": "Tech lead / Manager",
+      "¿Cuál es tu nivel de ingreso liquido mensual en tu trabajo actual?": "Entre $1.001.000 a $1.500.000"
+    }
+  ]
+}
