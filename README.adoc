@@ -442,7 +442,7 @@ Puede aparecer preguntas como: Diseña un sistema similar a _Twitter_ o _Uber_.
 - Aprende sobre base de datos. MySQL, Postgres, Mongo, SQLServer, Oracle. Sus requerimientos pro y contra. ¿En qué caso de uso se pueden usar?.
 - Aprende sobre _Kubernetes_ y arquitecturas Cloud en Google, AWS o Azure.
 - Aprende sobre la metodología de cómo tomar requerimientos.
-- Curso Recomendado: https://www.educative.io/courses/grokking-the-system-design-interview
+- Curso Recomendado: https://www.designgurus.io/course/grokking-the-system-design-interview
 
 ### Desafío de Algoritmos y Estructura de Datos
 
